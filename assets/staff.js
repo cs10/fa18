@@ -14,23 +14,31 @@ var DanGarcia = {
 // TAs
 
 
-var adamK = {
-    name: 'Head TA Adam Kuphaldt',
-    img: 'Fa16/AdamKuphaldt.jpg',
-    imgSrc: '../Fa16/AdamKuphaldt.jpg',
-    // img: 'Sp14/AdamKuphaldt.jpg',
-    // imgSrc: 'AdamKuphaldt.jpg',
-    bio: 'AdamBio',
-    email: 'adam@cs10.org',
-    web: 'https://linkedin.com/in/adam-kuphaldt-16a33768'
+var jobelV = {
+    name: 'Head TA Jobel Vecino',
+    img: 'Fa13/JobelVecino.jpg',
+    imgSrc: 'JobelVecino.jpg',
+    bio: 'JobelBio',
+    email: 'jobel@cs10.org'
+    web: 'https://www.linkedin.com/in/jobel-kyle-vecino-b2841879/'
 };
 
-var rachelH = {
-    name: 'Head TA Rachel Huang',
-    img: 'Fa13/RachelHuang.jpg',
-    imgSrc: 'RachelHuang.jpg',
-    bio: 'RachelBio',
-    email: 'rachel@cs10.org'
+var laraM = {
+    name: 'Head TA Lara McConnaughey',
+    img: '../Sp17/LaraMcConnaughey.jpg',
+    imgSrc: 'LaraMcConnaughey.jpg',
+    imgCrazy: '../small/LaraMcConnaugheyCrazy.jpg',
+    web: 'http://laralinmcc.github.io/',
+    bio: 'LaraBio',
+    email: 'lara@cs10.org'
+};
+
+var mansiS = {
+    name: 'Head TA-in-Training Mansi Shah',
+    img: 'MansiShah.jpg',
+    imgSrc: '../Sp17/MansiShah.jpg',
+    email: 'mansi@cs10.org',
+    bio: 'MansiBio'
 };
 
 var aranyU = {
@@ -89,16 +97,6 @@ var jobelV = {
     email: 'jobel@cs10.org'
 };
 
-var laraM = {
-    name: 'TA Lara McConnaughey',
-    img: 'Su15/LaraMcConnaughey.jpg',
-    imgSrc: 'LaraMcConnaughey.jpg',
-    imgCrazy: '../small/LaraMcConnaugheyCrazy.jpg',
-    web: 'https://www.linkedin.com/in/lara-mcconnaughey-4a834173',
-    bio: 'LaraBio',
-    email: 'lara@cs10.org'
-};
-
 var meghnaD = {
     name: 'TA Meghna Dasgupta',
     img: 'Fa16/MeghnaDasgupta.jpg',
@@ -106,13 +104,12 @@ var meghnaD = {
     email: 'meghna@cs10.org'
 };
 
-var patrickO = {
-    name: 'TA Patrick O\'Halloran',
-    img: 'Fa16/PatrickOhalloran.jpg',
-    imgSrc: '../Fa16/PatrickOhalloran.jpg',
-    imgCrazy: '../small/PatrickOhalloranCrazy.jpg',
-    bio: 'PatrickBio',
-    email: 'patrick@cs10.org'
+var patriciaX = {
+    name: 'TA Patricia Xiao',
+    img: '../Sp17/PatriciaXiao.jpg',
+    imgSrc: '../Sp17/PatriciaXiao.jpg',
+    email: 'patricia@cs10.org',
+    bio: 'PatriciaBio',
 };
 
 var stevenT = {
