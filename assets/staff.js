@@ -89,14 +89,6 @@ var jannaG = {
     email: 'janna@cs10.org'
 };
 
-var jobelV = {
-    name: 'TA Jobel Vecino',
-    img: 'Fa13/JobelVecino.jpg',
-    imgSrc: 'JobelVecino.jpg',
-    bio: 'JobelBio',
-    email: 'jobel@cs10.org'
-};
-
 var meghnaD = {
     name: 'TA Meghna Dasgupta',
     img: 'Fa16/MeghnaDasgupta.jpg',
