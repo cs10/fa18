@@ -179,7 +179,7 @@ var hectorA = {
 /*****************************************************************************/
 
 var inst = [ DanGarcia ];
-var tas = [ adamK, rachelH, aranyU, carlosF, christianL, erikD, jannaG, jobelV, laraM, lizzyS, meghnaD, patrickO, stevenT, williamT, yifatA ];
+var tas = [ jobelV, laraM, mansiS, carlosF, christianL, erikD, jannaG, jobelV, laraM, lizzyS, meghnaD, patriciaX, stevenT, williamT, yifatA ];
 var readers = [ addisonH, hectorA, matthewS,  noahJ, samuelS ];
 
 // If you need to add a new SECTION add it to this object.
