@@ -6,7 +6,7 @@ description: > # CS10, The Beauty and Joy of Computing, is an introductory
     computer science class designed for anyone and everyone. The Beauty and
     Joy of Computing is an AP Computer Science Principles class.
 keywords: "CS10, UC, Berkeley, CS, computer science, BJC, computing, education, Snap!, CS Principles, AP"
-baseurl: "/fa16"
+baseurl: "/fa17"
 url: "http://cs10.org"
 
 # Build settings
@@ -20,16 +20,16 @@ sass:
 
 # Custom Data
 bCourses: 1453061
-labsCourse: cs10_fa16.html
-piazzaURL: berkeley/fall2016/cs10/home
+labsCourse: cs10_fa17.html
+piazzaURL: berkeley/fall2017/cs10/home
 # IS INST DOWN?
 labsurl: http://beautyjoy.github.io/bjc-r
 # labsurl: https://inst.eecs.berkeley.edu/~cs10/labs
 
 # This section controlls the interactive google calendar.
 # Should be in MomentJS format
-startDate: 2016-08-21 # First Sunday
-endDate:   2016-12-17 # Last Saturday
+startDate: 2017-08-20 # First Sunday
+endDate:   2017-12-16 # Last Saturday
 
 # Change the calendar to show Sun-Sat instead of M-F when an exam is near
 questDate: 2016-09-21
