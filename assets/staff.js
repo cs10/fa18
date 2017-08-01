@@ -67,8 +67,8 @@ var christianL = {
 
 var jessicaG = {
     name: 'TA Jessica Gao',
-    //img: 'Fa16/MatthewSchwartz.JPG',
-    //imgSrc: '../Fa16/MatthewSchwartz.JPG',
+    imgSrc: '../small/NPY.jpg',
+    img: 'NPY.jpg.jpg',
     //bio: 'MatthewBio'
 };
 
@@ -126,7 +126,7 @@ var bhumikaG = {
 };
 
 var julieH = {
-    name: 'LA Julie Han',
+    name: 'Reader Julie Han',
     imgSrc: '../small/NPY.jpg',
     img: 'NPY.jpg.jpg',
     bio: 'JulieBio'
