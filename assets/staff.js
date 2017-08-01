@@ -41,12 +41,11 @@ var mansiS = {
     bio: 'MansiBio'
 };
 
-var aranyU = {
-    name: 'TA Arany Uthayakumar',
-    img: 'Sp14/AranyUthayakumar.jpg',
-    imgSrc: 'AranyUthayakumar.jpg',
-    bio: 'AranyBio',
-    email: 'arany@cs10.org'
+var angelaW = {
+    name: 'TA Angela Wong',
+    img: 'Su17/AngelaWong.jpg',
+    imgSrc: '../Su17/AngelaWong.jpg',
+    email: 'angela@cs10.org',
 };
 
 var carlosF = {
@@ -116,8 +115,9 @@ var stevenT = {
 
 var yifatA = {
   name: 'TA Yifat Amir',
-  img: 'Fa16/YifatAmir.JPG',
-  imgSrc: '../Fa16/YifatAmir.JPG',
+  img: 'Su17/YifatAmir.jpg',
+  imgSrc: '../Sp17/YifatAmir.jpg',
+  imgCrazy: '../small/YifatAmirCrazy.jpg',
   bio: 'YifatBio',
   web: 'https://www.linkedin.com/in/yifat-amir-45633584',
   email: 'yifat@cs10.org'
@@ -171,7 +171,7 @@ var hectorA = {
 /*****************************************************************************/
 
 var inst = [ DanGarcia ];
-var tas = [ jobelV, laraM, mansiS, carlosF, christianL, erikD, jannaG, jobelV, laraM, lizzyS, meghnaD, patriciaX, stevenT, williamT, yifatA ];
+var tas = [ jobelV, laraM, mansiS, angelaW, christianL, erikD, jannaG, meghnaD, patriciaX, stevenT, yifatA ];
 var readers = [ addisonH, hectorA, matthewS,  noahJ, samuelS ];
 
 // If you need to add a new SECTION add it to this object.
