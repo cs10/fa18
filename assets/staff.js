@@ -19,7 +19,7 @@ var jobelV = {
     img: 'Fa13/JobelVecino.jpg',
     imgSrc: 'JobelVecino.jpg',
     bio: 'JobelBio',
-    email: 'jobel@cs10.org'
+    email: 'jobel@cs10.org',
     web: 'https://www.linkedin.com/in/jobel-kyle-vecino-b2841879/'
 };
 
