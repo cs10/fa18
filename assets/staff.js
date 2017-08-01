@@ -34,11 +34,19 @@ var laraM = {
 };
 
 var mansiS = {
-    name: 'Head TA-in-Training Mansi Shah',
+    name: 'Head TAiT Mansi Shah',
     img: 'MansiShah.jpg',
     imgSrc: '../Sp17/MansiShah.jpg',
     email: 'mansi@cs10.org',
     bio: 'MansiBio'
+};
+
+var addisonH = {
+    name: 'TA Addison Howe',
+    img: 'Fa16/AddisonHowe.JPG',
+    imgSrc: '../Fa16/AddisonHowe.JPG',
+    email: 'addison@cs10.org',
+    bio: ''
 };
 
 var angelaW = {
@@ -46,15 +54,7 @@ var angelaW = {
     img: 'Su17/AngelaWong.jpg',
     imgSrc: '../Su17/AngelaWong.jpg',
     email: 'angela@cs10.org',
-};
-
-var carlosF = {
-    name: 'TA Carlos Flores',
-    img: 'Fa16/CarlosFlores.jpg',
-    bio: 'CarlosBio',
-    imgSrc: '../Fa16/CarlosFlores.jpg',
-    imgCrazy: '../small/CarlosFloresCrazy.jpg',
-    email: 'carlos@cs10.org'
+    bio: 'AngelaBio'
 };
 
 var christianL = {
@@ -65,27 +65,18 @@ var christianL = {
     email: 'christian@cs10.org'
 };
 
-var lizzyS = {
-    name: 'TA Lizzy Steger',
-    img: 'Fa16/LizzySteger.JPG',
-    imgSrc: '../Fa16/LizzySteger.JPG',
-    bio: 'LizzyBio',
-    email: 'lizzy@cs10.org'
+var jessicaG = {
+    name: 'TA Jessica Gao',
+    //img: 'Fa16/MatthewSchwartz.JPG',
+    //imgSrc: '../Fa16/MatthewSchwartz.JPG',
+    //bio: 'MatthewBio'
 };
 
-var erikD = {
-    name: 'TA Erik Dahlquist',
-    img: 'Sp15/ErikDahlquist.jpg',
-    imgSrc: 'ErikDahlquist.jpg',
-    email: 'erik@cs10.org'
-};
-
-var jannaG = {
-    name: 'TA Janna Golden',
-    img: 'Sp14/JannaGolden.jpg',
-    imgSrc: 'JannaGolden.jpg',
-    bio: 'JannaBio',
-    email: 'janna@cs10.org'
+var matthewS = {
+    name: 'TA Matthew Schwartz',
+    img: 'Fa16/MatthewSchwartz.JPG',
+    imgSrc: '../Fa16/MatthewSchwartz.JPG',
+    bio: 'MatthewBio'
 };
 
 var meghnaD = {
@@ -100,17 +91,14 @@ var patriciaX = {
     img: '../Sp17/PatriciaXiao.jpg',
     imgSrc: '../Sp17/PatriciaXiao.jpg',
     email: 'patricia@cs10.org',
-    bio: 'PatriciaBio',
+    bio: 'PatriciaBio'
 };
 
-var stevenT = {
-    name: 'TA Steven Traversi',
-    img: 'Sp14/StevenTraversi.jpg',
-    imgSrc: 'StevenTraversi.jpg',
-    imgCrazy: '../small/StevenTraversiCrazy.jpg',
-    web: 'http://steven.codes',
-    bio: 'StevenBio',
-    email: 'steven@cs10.org'
+var samuelS = {
+    name: 'TA Samuel Starks',
+    img: 'Fa16/SamStarks.jpg',
+    imgSrc: '../Fa16/SamStarks.jpg',
+    bio: 'SamBio'
 };
 
 var yifatA = {
@@ -123,47 +111,32 @@ var yifatA = {
   email: 'yifat@cs10.org'
 };
 
-var williamT = {
-  name: 'TA William Tang',
-  img: 'Fa16/WilliamTang.JPG',
-  imgSrc: '../Fa16/WilliamTang.JPG',
-  bio: 'WillBio',
-  email: 'william@cs10.org'
-};
-
 // Readers
-
-var addisonH = {
-    name: 'Reader Addison Howe',
-    img: 'Fa16/AddisonHowe.JPG',
-    imgSrc: '../Fa16/AddisonHowe.JPG',
+var arvindN = {
+    name: 'Reader Arvind Nandakumar',
+    imgSrc: '../Sp17/las/ArvindNandakumar.jpg',
+    img: 'ArvindNandakumar.jpg'
 };
 
-var samuelS = {
-    name: 'Reader Samuel Starks',
-    img: 'Fa16/SamStarks.jpg',
-    imgSrc: '../Fa16/SamStarks.jpg',
+var bhumikaG = {
+    name: 'Reader Bhumika Goel',
+    imgSrc: '../Su17/BhumikaGoel.jpg',
+    img: 'BhumikaGoel.jpg',
+    bio: 'BhumikaBio'
 };
 
-var matthewS = {
-    name: 'Reader Matthew Schwartz',
-    img: 'Fa16/MatthewSchwartz.JPG',
-    imgSrc: '../Fa16/MatthewSchwartz.JPG',
+var julieH = {
+    name: 'LA Julie Han',
+    imgSrc: '../small/NPY.jpg',
+    img: 'NPY.jpg.jpg',
+    bio: 'JulieBio'
 };
 
-var noahJ = {
-    name: 'Reader Noah Jacobs',
-    imgSrc: '../Fa16/NoahJacobs.jpg',
-    img: 'Fa16/NoahJacobs.jpg',
+var niketK = {
+    name: 'Reader Niket Kulkarni',
+    imgSrc: '../small/NPY.jpg',
+    img: 'NPY.jpg.jpg'
 };
-
-var hectorA = {
-    name: 'Reader Hector Aguilar',
-    imgSrc: '../Fa16/HectorAguilar.jpg',
-    img: 'Fa16/HectorAguilar.jpg',
-    imgCrazy: '../small/HectorAguilarCrazy.jpg',
-};
-
 
 
 /*****************************************************************************/
@@ -171,8 +144,8 @@ var hectorA = {
 /*****************************************************************************/
 
 var inst = [ DanGarcia ];
-var tas = [ jobelV, laraM, mansiS, angelaW, christianL, erikD, jannaG, meghnaD, patriciaX, stevenT, yifatA ];
-var readers = [ addisonH, hectorA, matthewS,  noahJ, samuelS ];
+var tas = [ jobelV, laraM, mansiS, addisonH, angelaW, christianL, jessicaG, matthewS, meghnaD, patriciaX, samuelS, yifatA ];
+var readers = [ arvindN, bhumikaG, julieH, niketK ];
 
 // If you need to add a new SECTION add it to this object.
 // Follow the same format.
