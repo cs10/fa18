@@ -11,7 +11,7 @@ CS10.
 I'm pretty good at floating. Being sassy.
 
 ## HAVE YOU DONE ANYTHING REMARKABLE? HAS ANYTHING MEMORABLE HAPPENED TO YOU?
-Becoming CS10's mascot was a pretty sweet.
+Becoming CS10's mascot was pretty sweet.
 
 ## WHAT COMMITMENTS WILL BE CONSUMING YOUR CYCLES THIS SEMESTER?
 Filling up this space because this reader has not filled out their bio yet.

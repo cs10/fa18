@@ -46,7 +46,7 @@ var addisonH = {
     img: 'Fa16/AddisonHowe.JPG',
     imgSrc: '../Fa16/AddisonHowe.JPG',
     email: 'addison@cs10.org',
-    bio: ''
+    bio: 'AddisonBio'
 };
 
 var angelaW = {
@@ -69,7 +69,7 @@ var jessicaG = {
     name: 'TA Jessica Gao',
     imgSrc: '../small/NPY.jpg',
     img: 'NPY.jpg.jpg',
-    //bio: 'MatthewBio'
+    bio: 'JessicaBio'
 };
 
 var matthewS = {
@@ -83,7 +83,8 @@ var meghnaD = {
     name: 'TA Meghna Dasgupta',
     img: 'Fa16/MeghnaDasgupta.jpg',
     imgSrc: '../Fa16/MeghnaDasgupta.jpg',
-    email: 'meghna@cs10.org'
+    email: 'meghna@cs10.org',
+    bio: 'MeghnaBio'
 };
 
 var patriciaX = {
@@ -115,7 +116,8 @@ var yifatA = {
 var arvindN = {
     name: 'Reader Arvind Nandakumar',
     imgSrc: '../Sp17/las/ArvindNandakumar.jpg',
-    img: 'ArvindNandakumar.jpg'
+    img: 'ArvindNandakumar.jpg',
+    bio: 'ArvindBio'
 };
 
 var bhumikaG = {
@@ -135,7 +137,8 @@ var julieH = {
 var niketK = {
     name: 'Reader Niket Kulkarni',
     imgSrc: '../small/NPY.jpg',
-    img: 'NPY.jpg.jpg'
+    img: 'NPY.jpg.jpg',
+    bio: 'NiketBio'
 };
 
 
