@@ -25,8 +25,8 @@ var jobelV = {
 
 var laraM = {
     name: 'Head TA Lara McConnaughey',
-    img: '../Sp17/LaraMcConnaughey.jpg',
-    imgSrc: 'LaraMcConnaughey.jpg',
+    img: 'LaraMcConnaughey.jpg',
+    imgSrc: '../Sp17/LaraMcConnaughey.jpg',
     imgCrazy: '../small/LaraMcConnaugheyCrazy.jpg',
     web: 'http://laralinmcc.github.io/',
     bio: 'LaraBio',
@@ -69,6 +69,7 @@ var jessicaG = {
     name: 'TA Jessica Gao',
     imgSrc: '../small/NPY.jpg',
     img: 'NPY.jpg.jpg',
+    email: 'jessica@cs10.org',
     bio: 'JessicaBio'
 };
 
@@ -76,6 +77,7 @@ var matthewS = {
     name: 'TA Matthew Schwartz',
     img: 'Fa16/MatthewSchwartz.JPG',
     imgSrc: '../Fa16/MatthewSchwartz.JPG',
+    email: 'matthew@cs10.org',
     bio: 'MatthewBio'
 };
 
@@ -99,7 +101,16 @@ var samuelS = {
     name: 'TA Samuel Starks',
     img: 'Fa16/SamStarks.jpg',
     imgSrc: '../Fa16/SamStarks.jpg',
+    email: 'sam@cs10.org',
     bio: 'SamBio'
+};
+
+var schuylerR = {
+    name: 'TA Schuyler Ross',
+    img: 'NPY.jpg.jpg',
+    imgSrc: '../small/NPY.jpg',
+    email: 'schuyler@cs10.org',
+    bio: 'SchuylerBio'
 };
 
 var yifatA = {
@@ -141,13 +152,20 @@ var niketK = {
     bio: 'NiketBio'
 };
 
+var vardaS = {
+    name: 'Reader Varda Shrivastava',
+    imgSrc: '../Sp17/las/VardaShrivastava.jpg',
+    img: 'VardaShrivastava.jpg',
+    bio: 'VardaBio'
+ };
+
 
 /*****************************************************************************/
 /** LIST DEFINITIONS **/
 /*****************************************************************************/
 
 var inst = [ DanGarcia ];
-var tas = [ jobelV, laraM, mansiS, addisonH, angelaW, christianL, jessicaG, matthewS, meghnaD, patriciaX, samuelS, yifatA ];
+var tas = [ jobelV, laraM, mansiS, addisonH, angelaW, christianL, jessicaG, matthewS, meghnaD, patriciaX, samuelS, schuylerR, yifatA ];
 var readers = [ arvindN, bhumikaG, julieH, niketK ];
 
 // If you need to add a new SECTION add it to this object.
