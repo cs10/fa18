@@ -78,11 +78,11 @@ cs10.week2 = {
     lect1: lect('Building Blocks', 'https://drive.google.com/folderview?id=0B7pxUEY76zATN0UtTFp6cDdxTjQ&usp=sharing'
             //lectureURL('12LLM36NEfkylUsy9mG-1TnvorovQbYxhUDI_cMSzDuU')
     ),
-    lab1: lab('Build Your Own Blocks', 'berkeley_bjc/intro_pair/2-loops-variables.topic', true),
+    lab1: lab('Build Your Own Blocks', 'berkeley_bjc/intro_pair/2-loops-variables.topic'),
     lect2: lect('Numbers and Abstraction', 'https://drive.google.com/folderview?id=0B7pxUEY76zATRGxuRkVCOFlNWWs&usp=sharing'
             //lectureURL('1TVXERNz4ude_YYsPccwwirFWxXQXSs2ex-cccHytfzo')
     ),
-    lab2: lab('Conditionals and Reporters', 'berkeley_bjc/intro_pair/3-conditionals.topic'),
+    lab2: lab('Conditionals and Reporters', 'berkeley_bjc/intro_pair/3-conditionals.topic', true),
     disc: disc('Anatomy of a Computer and the Power of Binary', true),
     hw: hw1
 };
@@ -144,7 +144,7 @@ cs10.week5 = {
     readings: 'No Readings for this Week - Study for the Quest!',
     lect1: lect('Programming Paradigms', 'https://drive.google.com/drive/folders/0B7pxUEY76zATb1ZMRDFXN25oLVU?usp=sharing'),
     lab1: lab('Quest Review'),
-    lect2: lect('<br><a href="exams/quest.html">Quest</a><br><br>Weds 9/20<br>In Class<br>245 Li Ka Shing'),
+    lect2: lect('<br><a href="exams/quest.html">Quest</a><br><br>Weds 9/21<br>In Class<br>Pauley Ballroom'),
     //lab2: lab('Finch Lab', 'berkeley_bjc/robots/robots.topic'),
     lab2: lab('Testing, HW3', 'berkeley_bjc/2048-testing/2048.topic'),
     disc: disc('Quest Debrief and HW3 Introduction'),
@@ -277,9 +277,9 @@ cs10.week10 = {
 cs10.week11 = {
     readings: 'No Readings for this Week - Study for the Midterm!',
     disc: disc('Midterm Debrief'),
-    lect1: lect('<br><br><div class="exam inner">Midterm Exam Part I</a><br><br>Monday 10/30<br>245 Li Ka Shing</div>'
+    lect1: lect('<br><br><div class="exam inner">Midterm Exam Part I</a><br><br>Monday 10/31<br>Pauley Ballroom</div>'
     ),
-    lect2: lect('<br><br><div class="exam inner">Midterm Exam Part II</a><br><br>Wednesday 11/1<br>245 Li Ka Shing</div>'
+    lect2: lect('<br><br><div class="exam inner">Midterm Exam Part II</a><br><br>Wednesday 11/2<br>Pauley Ballroom</div>'
     ),
     //lab1: lab('The Internet', 'berkeley_bjc/areas/internet.topic', true),
     lab1: lab('Online <span class="snap">snap</span> Midterm'),
