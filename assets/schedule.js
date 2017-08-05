@@ -78,11 +78,11 @@ cs10.week2 = {
     lect1: lect('Building Blocks', 'https://drive.google.com/folderview?id=0B7pxUEY76zATN0UtTFp6cDdxTjQ&usp=sharing'
             //lectureURL('12LLM36NEfkylUsy9mG-1TnvorovQbYxhUDI_cMSzDuU')
     ),
-    lab1: lab('Build Your Own Blocks', 'berkeley_bjc/intro_pair/2-loops-variables.topic'),
+    lab1: lab('Build Your Own Blocks', 'berkeley_bjc/intro_pair/2-loops-variables.topic', true),
     lect2: lect('Numbers and Abstraction', 'https://drive.google.com/folderview?id=0B7pxUEY76zATRGxuRkVCOFlNWWs&usp=sharing'
             //lectureURL('1TVXERNz4ude_YYsPccwwirFWxXQXSs2ex-cccHytfzo')
     ),
-    lab2: lab('Conditionals and Reporters', 'berkeley_bjc/intro_pair/3-conditionals.topic', true),
+    lab2: lab('Conditionals and Reporters', 'berkeley_bjc/intro_pair/3-conditionals.topic'),
     disc: disc('Anatomy of a Computer and the Power of Binary', true),
     hw: hw1
 };
