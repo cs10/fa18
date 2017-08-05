@@ -31,25 +31,25 @@ var hw1Spec         = docs('1ybuatsrUMCI-tHHRPwxUpGoZoGxk_SEiGEArocQtIlI')
     mtProjSpec      = docs('18842eevTYk7EuQppnrbqKpj-79EFGtJyPGJV8S-H-zs')
     exploreSpec     = docs('13X3zh24-JIFVs8p7X8iBRxrSMdiZELIyZ82d__xGSds')
     finalProjSpec   = docs('1czO__vPK5sdLOZp5apqXyM6FCGQw7fESisCRM__9Wis')
-    hw0             = hw('HW0', '8/28', 'quizzes/2262950')
-    hw1             = hw('HW1: Word Guessing', '9/5', 'assignments/7725682', hw1Spec)
-    hw2             = hw('HW2: Encryptify', '9/16', 'assignments/7725961', hw2Spec)
-    hw3             = hw('HW3: 2048','10/7', 'assignments/7725684', hw3Spec)
-    mProposal       = hw('Midterm Project Proposals', '10/7', 'assignments/7725687', mtProjSpec)
-    mMilestone      = hw('Midterm Project<br> Milestone', '10/14', 'assignments/7725686')
-    mProject        = hw('Midterm Project', '10/21', 'assignments/7725685', mtProjSpec)
-    explorePost     = hw('"Explore" Writing Assignment', '11/11', '/discussion_topics/5042373', exploreSpec)
-    explorePostDoc  = hw('"Explore" Writing Assignment Document Submission', '11/11', '/assignments/7751901')
-    exploreComments = hw('"Explore" Comments', '11/18', '/discussion_topics/5042373')
-    fProposal       = hw('Final Project Proposal', '11/18', 'assignments/7725681', finalProjSpec)
-    fMilestone      = hw('Final Project Milestone', '11/25', 'assignments/7725680')
-    fProject        = hw('Final Project', '12/2', 'assignments/7725679')
+    hw0             = hw('HW0')//, '8/28', 'quizzes/2262950')
+    hw1             = hw('HW1: Word Guessing')//, '9/5', 'assignments/7725682', hw1Spec)
+    hw2             = hw('HW2')//: Encryptify', '9/16', 'assignments/7725961', hw2Spec)
+    hw3             = hw('HW3: 2048')//,'10/7', 'assignments/7725684', hw3Spec)
+    mProposal       = hw('Midterm Project Proposals')//, '10/7', 'assignments/7725687', mtProjSpec)
+    mMilestone      = hw('Midterm Project<br> Milestone')//, '10/14', 'assignments/7725686')
+    mProject        = hw('Midterm Project')//, '10/21', 'assignments/7725685', mtProjSpec)
+    explorePost     = hw('"Explore" Writing Assignment')//, '11/11', '/discussion_topics/5042373', exploreSpec)
+    explorePostDoc  = hw('"Explore" Writing Assignment Document Submission')//, '11/11', '/assignments/7751901')
+    exploreComments = hw('"Explore" Comments')//, '11/18', '/discussion_topics/5042373')
+    fProposal       = hw('Final Project Proposal')//, '11/18', 'assignments/7725681', finalProjSpec)
+    fMilestone      = hw('Final Project Milestone')//, '11/25', 'assignments/7725680')
+    fProject        = hw('Final Project')//, '12/2', 'assignments/7725679')
 
 // ==================================================
 // ==========     SCHEDULE ITEMS           ==========
 // ==================================================
 
-// AUG 22 - 26
+// AUG 21 - 25
 cs10.week1 = {
     readings: 'No Readings',
     lect1: lect('No Lecture Monday'),
@@ -62,7 +62,7 @@ cs10.week1 = {
     hw: hw0
 };
 
-// AUG 29 - SEP 2
+// AUG 28 - SEP 1
 cs10.week2 = {
     readings: [
         reading('Prof. Harvey\'s Intro to Abstraction',
@@ -87,7 +87,7 @@ cs10.week2 = {
     hw: hw1
 };
 
-// SEP 5 - 9
+// SEP 4 - 8
 cs10.week3 = {
     readings: [
         reading('The Story of Alan Turing &amp; His Machine',
@@ -109,7 +109,7 @@ cs10.week3 = {
 // cs10.week3.lect3.classes = 'exam';
 // cs10.week3.work.title += '<hr><strong>Finch Robots Lab (Sect 111)</strong>';
 
-// SEP 12 - 16
+// SEP 11 - 15
 cs10.week4 = {
     readings: [
         reading('What is an Algorithm (book excerpts)?',
@@ -139,7 +139,7 @@ cs10.week4 = {
     hw: hw2
 };
 
-// SEP 19 - 23 
+// SEP 18 - 22 
 cs10.week5 = {
     readings: 'No Readings for this Week - Study for the Quest!',
     lect1: lect('Programming Paradigms', 'https://drive.google.com/drive/folders/0B7pxUEY76zATb1ZMRDFXN25oLVU?usp=sharing'),
@@ -153,7 +153,7 @@ cs10.week5 = {
 
 cs10.week5.lect2.classes = 'exam';
 
-// SEP 26 - 30
+// SEP 25 - 29
 cs10.week6 = {
     readings: [
         reading('BtB Chapter 5',
@@ -175,7 +175,7 @@ cs10.week6 = {
     hw: hw3
 };
 
-// OCT 3 - 7
+// OCT 2 - 6
 cs10.week7 = {
     readings: [
         reading('The End of Moore\'s Law',
@@ -183,10 +183,10 @@ cs10.week7 = {
         reading('eWEEK at 30: Multicore CPUs Keep Chip Makers in Step With Moore\'s Law',
             'https://docs.google.com/document/d/1FC-_lcn_EWlGXLfPDlQbSQeE1Q4NpTG39S-kVkHRxv8/edit?usp=sharing')
     ],
-    lect1: lect('Artificial Intelligence', 'https://drive.google.com/drive/folders/0B7pxUEY76zATZXo0elZmQWl1aHM?usp=sharing', "Pat Virtue"
+    lect1: lect('Guest Lecture I'//, 'https://drive.google.com/drive/folders/0B7pxUEY76zATZXo0elZmQWl1aHM?usp=sharing', "Pat Virtue"
             //lectureURL('13WLfJKmyCxLIT8kJfbxlbp2hU9mb7MSfW3o16Uxv6Cw')
     ),
-    lect2: lect('Social Implications of Computing I', 'https://drive.google.com/drive/folders/0B7pxUEY76zATdHQtNlJuUkRFOUk?usp=sharing'
+    lect2: lect('Social Implications of Computing I'//, 'https://drive.google.com/drive/folders/0B7pxUEY76zATdHQtNlJuUkRFOUk?usp=sharing'
         //lectureURL('1NuOa586nkC1m95X_5LYyiI4gs0s3XL5eRZF7DeH81us')
     ),
     lab1: lab('Tic-Tac-Toe, Boards', 'berkeley_bjc/lists/tic-tac-toe.topic', true),
@@ -195,7 +195,7 @@ cs10.week7 = {
     hw: [hw3, mProposal]
 };
 
-// OCT 10 - 14
+// OCT 9 - 13
 cs10.week8 = {
     readings: [
         reading('BtB chapter 2, pg. 19-29, 36-42',
@@ -209,13 +209,13 @@ cs10.week8 = {
             //lectureURL('1NFpvg3lzj3hrojXZPk42xoBM3MEFEy8FRl-VeR9Sdxs')
     ),
     lab1: lab('Trees and Fractals Using Recursion', 'berkeley_bjc/recur/recursion-trees-fractals.topic', true),
-    lect2: lect('Social Implications of Computing II: Privacy', 'https://drive.google.com/drive/folders/0B7pxUEY76zATTXE5STFOS21fU2s?usp=sharing', "Gerald Friedland"),
+    lect2: lect('Social Implications of Computing II'),//: Privacy', 'https://drive.google.com/drive/folders/0B7pxUEY76zATTXE5STFOS21fU2s?usp=sharing', "Gerald Friedland"),
     lab2: lab('Midterm Project Work Session'),
     disc: disc('Recursion', true),
     hw: mMilestone
 };
 
-// OCT 17 - 21
+// OCT 16 - 20
 cs10.week9 = {
     readings: [
         reading('As We May Think',
@@ -228,7 +228,8 @@ cs10.week9 = {
             //lectureURL('1M5dhs9NnnDvs62dSNO22tcLYg-JGo_wDvNfVosQMSUs')
             //lectureURL('1o4GtTha_TbRNCvqp7wEchJxGaeoENnH3KTX0Hl6nvD0')
     ),
-    lect2: lect('Social Implications of Computing III', 'https://drive.google.com/drive/folders/0B7pxUEY76zATbktNZkszSnVXNmc?usp=sharing'
+    lect2: lect('Social Implications of Computing III'
+    	    //, 'https://drive.google.com/drive/folders/0B7pxUEY76zATbktNZkszSnVXNmc?usp=sharing'
             //lectureURL('1eXJOOJotmIOCTdwYadz6_hJ8SRvvl0bmuKxZwdx8_lY')
             //'L15 - HCI'),
     ),
@@ -239,7 +240,7 @@ cs10.week9 = {
 //cs10.week9.lect2.title += '<br><br><div class="exam inner"><a href="exams/midterm.html">Midterm Exam</a><br><br>Wednesday 3/16<br>7 - 9 PM | 155 Dwinelle Hall</div>';
 
 
-// OCT 24 - 28
+// OCT 23 - 27
 cs10.week10 = {
     readings: [
         reading('TED: What is the Internet?',
@@ -272,7 +273,7 @@ cs10.week10 = {
     hw: 'No homework - Study for the Midterm Exam!'
 };
 
-// OCT 31 - NOV 4
+// OCT 30 - NOV 3
 cs10.week11 = {
     readings: 'No Readings for this Week - Study for the Midterm!',
     disc: disc('Midterm Debrief'),
@@ -290,7 +291,7 @@ cs10.week11.lect1.classes = 'exam';
 cs10.week11.lect2.classes = 'exam';
 
 
-// NOV 7 - 11
+// NOV 6 - 10
 cs10.week12 = {
     readings: [
         reading(
@@ -318,14 +319,14 @@ cs10.week12 = {
     hw: [explorePost, explorePostDoc]
 };
 
-// NOV 14 - 18
+// NOV 13 - 17
 cs10.week13 = {
     readings: [
         reading('Addicted to Apps', 'http://www.nytimes.com/2013/08/25/sunday-review/addicted-to-apps.html?_r=0'),
         reading('CS8 lecture 1', 'https://www.youtube.com/watch?v=69hHbVza7XI&t=27m49s', 'optional')
     ],    
     disc: disc('The Internet'),
-    lect1: lect('HCI', 'https://www.dropbox.com/s/wq8uys72ffupp14/CS10%20Fall%202016.pdf?dl=0', "Eric Paulos"),
+    lect1: lect('Guest Lecture II'),//'HCI', 'https://www.dropbox.com/s/wq8uys72ffupp14/CS10%20Fall%202016.pdf?dl=0', "Eric Paulos"),
     lect2: lect('The Internet', 'https://drive.google.com/drive/folders/0B7pxUEY76zATZmNCb2ZuVmJKVW8?usp=sharing'
             //lectureURL('16NZgPMLObCthVot7vZwofOqctfhir2xKj6ajTyc1FZw')
             //lectureURL('1MLG5pjfSrvZ17WNp5CSfPbPa3QOnxKtNGKlfRIGgEPw')
@@ -336,7 +337,7 @@ cs10.week13 = {
 };
 
 
-// NOV 21 - 25
+// NOV 20 - 24
 cs10.week14 = {
     readings: [
         reading('A World Without Work', 'http://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/'),
@@ -355,7 +356,7 @@ cs10.week14 = {
     hw: fMilestone
 };
 
-// NOV 28 - DEC 2
+// NOV 27 - DEC 1
 cs10.week15 = {
     readings: [
         reading('BtB Chapter 6','http://www.bitsbook.com/wp-content/uploads/2008/12/chapter6.pdf'),
@@ -364,7 +365,7 @@ cs10.week15 = {
     ],       
     disc: disc('Farewell! Recap and Feedback'),
     lab1: lab('Project Work Session', null, true),
-    lect1: lect('Saving the World with Computing', 'https://drive.google.com/drive/folders/0B7pxUEY76zATcUQ4ZTFSNjREOHc?usp=sharing', "Kathy Yelick"
+    lect1: lect('Saving the World with Computing'//, 'https://drive.google.com/drive/folders/0B7pxUEY76zATcUQ4ZTFSNjREOHc?usp=sharing', "Kathy Yelick"
             //lectureURL('0B7pxUEY76zATblJZa25NNUl1cGM')
             //lectureURL('1_k3boAVzNT3W_z-uhmbdP5tugM4PUuGwT-BPSmU8A-o')
     ),
@@ -377,14 +378,14 @@ cs10.week15 = {
 };
 
 // DEAD WEEK
-// DEC 5 - 9
+// DEC 4 - 8
 cs10.week16 = {
     special: 'RRR Week -- No Class',
     readings: 'No Reading.',
     hw: 'Study for the Final'
 };
 
-// DEC 12 - 16
+// DEC 11 - 15
 cs10.week17 = {
     readings: 'No Reading.',    
     lab1: lab('<br><br><div class="exam inner">Final Exam<br><br>Tuesday 12/13<br>7:00 - 10:00 PM<br>Pauley Ballroom</div>'),
