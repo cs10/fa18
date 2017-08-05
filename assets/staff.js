@@ -165,7 +165,7 @@ var vardaS = {
 /*****************************************************************************/
 
 var inst = [ DanGarcia ];
-var tas = [ jobelV, laraM, mansiS, addisonH, angelaW, christianL, jessicaG, matthewS, meghnaD, patriciaX, samuelS, schuylerR, yifatA ];
+var tas = [ laraM, jobelV, mansiS, addisonH, angelaW, christianL, jessicaG, matthewS, meghnaD, patriciaX, samuelS, schuylerR, yifatA ];
 var readers = [ arvindN, bhumikaG, julieH, niketK, vardaS ];
 
 // If you need to add a new SECTION add it to this object.
