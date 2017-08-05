@@ -390,7 +390,7 @@ cs10.week17 = {
     readings: 'No Reading.',
     hw: 'Enjoy your Winter Break!'
 };
-cs10.week17.lab1.classes = 'exam';
+//cs10.week17.lab1.classes = 'exam';
 
 
 // Load the Calendar
