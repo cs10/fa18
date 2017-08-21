@@ -19,9 +19,9 @@ sass:
     sass_dir: assets/_sass
 
 # Custom Data
-bCourses: 1453061
+bCourses: 1464571
 labsCourse: cs10_fa17.html
-piazzaURL: berkeley/fall2017/cs10/home
+piazzaURL: berkeley/fall2017/compsci10/home
 # IS INST DOWN?
 labsurl: http://beautyjoy.github.io/bjc-r
 # labsurl: https://inst.eecs.berkeley.edu/~cs10/labs
