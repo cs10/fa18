@@ -161,13 +161,14 @@ table#calendar, #calendar th, #calendar td {
   background-color: #e0e0e0;
 }
 /* Center the week numbers */
-#calendar tr:nth-child(3n + 2):not(:first-child) td:first-child,
-#calendar tr:nth-child(49):not(:first-child) td:first-child {
+#calendar tr:nth-child(3n + 2):not(:first-child) td:nth-child(-n + 2),
+#calendar tr:nth-child(49):not(:first-child) td:nth-child(-n + 2) {
   text-align: center;
 }
-/*#calendar .cal-due-date { background-color: #fff !important; }*/
-#calendar .cal-exam { background-color: #b6d7a8 !important; }
+#calendar .cal-due-date { background-color: #fffece !important; }
+#calendar .cal-exam { background-color: #cbcbfc !important; }
 #calendar .cal-no-class { background-color: #222 !important; color: #fff !important;n}
+#calendar .cal-work-session { background-color: #f0cccb !important; }
 #calendar th:nth-child(2) { min-width: 80px; }
 
 /******************************************************************************/
