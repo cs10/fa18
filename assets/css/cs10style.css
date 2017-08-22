@@ -165,7 +165,7 @@ table#calendar, #calendar th, #calendar td {
 #calendar tr:nth-child(49):not(:first-child) td:nth-child(-n + 2) {
   text-align: center;
 }
-#calendar .cal-due-date { background-color: #fffece !important; }
+#calendar .cal-due-date { background-color: #ffffaa !important; }
 #calendar .cal-exam { background-color: #cbcbfc !important; }
 #calendar .cal-no-class { background-color: #222 !important; color: #fff !important;n}
 #calendar .cal-work-session { background-color: #f0cccb !important; }
