@@ -16,8 +16,8 @@ var DanGarcia = {
 
 var jobelV = {
     name: 'Head TA Jobel Vecino',
-    img: 'Fa13/JobelVecino.jpg',
-    imgSrc: 'JobelVecino.jpg',
+    img: 'JobelVecino.jpg',
+    imgSrc: '../Fa17/JobelVecinoNEW.jpg',
     bio: 'JobelBio',
     email: 'jobel@cs10.org',
     web: 'https://www.linkedin.com/in/jobel-kyle-vecino-b2841879/'
@@ -36,7 +36,7 @@ var laraM = {
 var mansiS = {
     name: 'Head TAiT Mansi Shah',
     img: 'MansiShah.jpg',
-    imgSrc: '../Sp17/MansiShah.jpg',
+    imgSrc: '../Fa17/MansiShahNEW.jpg',
     email: 'mansi@cs10.org',
     bio: 'MansiBio'
 };
@@ -51,8 +51,8 @@ var addisonH = {
 
 var angelaW = {
     name: 'TA Angela Wong',
-    img: 'Su17/AngelaWong.jpg',
-    imgSrc: '../Su17/AngelaWong.jpg',
+    img: 'Angela Wong.jpg',
+    imgSrc: '../Fa17/AngelaWongNEW.jpg',
     email: 'angela@cs10.org',
     bio: 'AngelaBio'
 };
@@ -67,8 +67,8 @@ var christianL = {
 
 var jessicaG = {
     name: 'TA Jessica Gao',
-    imgSrc: '../small/NPY.jpg',
-    img: 'NPY.jpg.jpg',
+    imgSrc: '../Fa17/JessicaGao.jpg',
+    img: 'Jessica Gao.jpg',
     email: 'jessica@cs10.org',
     bio: 'JessicaBio'
 };
@@ -99,16 +99,16 @@ var patriciaX = {
 
 var samuelS = {
     name: 'TA Samuel Starks',
-    img: 'Fa16/SamStarks.jpg',
-    imgSrc: '../Fa16/SamStarks.jpg',
+    img: 'SamStarks.jpg',
+    imgSrc: '../Fa17/SamStarksNEW.jpg',
     email: 'sam@cs10.org',
     bio: 'SamBio'
 };
 
 var schuylerR = {
     name: 'TA Schuyler Ross',
-    img: 'NPY.jpg.jpg',
-    imgSrc: '../small/NPY.jpg',
+    img: 'Schuyler Ross.jpg',
+    imgSrc: '../Fa17/SchuylerRoss.jpg',
     email: 'schuyler@cs10.org',
     bio: 'SchuylerBio'
 };
@@ -140,8 +140,8 @@ var bhumikaG = {
 
 var julieH = {
     name: 'Reader Julie Han',
-    imgSrc: '../small/NPY.jpg',
-    img: 'NPY.jpg.jpg',
+    imgSrc: '../Fa17/JulieHan.jpg',
+    img: 'Julie Han.jpg',
     bio: 'JulieBio'
 };
 
