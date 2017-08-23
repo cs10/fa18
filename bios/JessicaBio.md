@@ -1,17 +1,17 @@
 ## WHERE DID YOU GROW UP? WHAT WAS YOUR PATH TO CAL?
-I was originally a character in an MIT program called Scratch. Someone stuck an antenna on me and now here I am.
+I grew up in San Francisco. I didn't want to come to Cal, because it is too close to home, but I ended up loving it here!
 
 ## HOW MUCH PROGRAMMING HAVE YOU DONE (& WHAT LANGUAGES)?
-Snap! I'm all over the website!
+I took CS 10, CS 61a, CS 8, and I am taking CS 61b this semester. So I've worked with mainly Python, but I am excited to be learning Java this semester.
 
 ## WHAT ARE YOUR HOBBIES?
-CS10. 
+Reading, music, martial arts, apologetics 
 
 ## WHAT ARE SOME OF YOUR TALENTS & SKILLS?
-I'm pretty good at floating. Being sassy.
+Uhh...
 
 ## HAVE YOU DONE ANYTHING REMARKABLE? HAS ANYTHING MEMORABLE HAPPENED TO YOU?
-Becoming CS10's mascot was pretty sweet.
+I once made chocolate-covered jalepenos with white pepper for April Fools and gave it to some friends...it was awesome. 
 
 ## WHAT COMMITMENTS WILL BE CONSUMING YOUR CYCLES THIS SEMESTER?
-Filling up this space because this TA has not filled out their bio yet.
+Besides for CS10, CS61b and my work at ETS will be consuming my time. 
