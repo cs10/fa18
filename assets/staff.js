@@ -124,6 +124,7 @@ var yifatA = {
 };
 
 // Readers
+
 var arvindN = {
     name: 'Reader Arvind Nandakumar',
     imgSrc: '../Sp17/las/ArvindNandakumar.jpg',
@@ -157,7 +158,123 @@ var vardaS = {
     imgSrc: '../Sp17/las/VardaShrivastava.jpg',
     img: 'VardaShrivastava.jpg',
     bio: 'VardaBio'
- };
+};
+
+ // Lab Assistants
+
+var abbyC = {
+	name: 'LA Abby Cohn',
+	imgSrc: '../Fa17/LAs/AbbyCohn.jpg',
+	img: 'AbbyCohn',
+};
+
+var anneL = {
+	name: 'LA Anne Leal',
+	imgSrc: '../Fa17/LAs/AnneLeal.jpg',
+	img: 'Anne Leal',
+};
+
+var bardiaB = {
+    name: 'LA Bardia Barahman',
+    imgSrc: '../Sp17/las/BardiaBarahman.jpg',
+    img: 'BardiaBarahman.jpg',
+};
+
+var batoolN = {
+    name: 'LA Batool Naqvi',
+    imgSrc: '../Sp17/las/BatoolNaqvi.jpg',
+    img: 'BatoolNaqvi.jpg',
+};
+
+var brendanH = {
+    name: 'LA Brendan Henrique',
+    imgSrc: '../Fa17/LAs/BrendanHenrique.jpg',
+    img: 'BrendanHenrique.jpg',
+};
+
+var brianaO = {
+    name: 'LA Briana Ong',
+    imgSrc: '../Fa17/LAs/BrianaOng.jpg',
+    img: 'BrianaOng.jpg',
+};
+
+var grantK = {
+    name: 'LA Grant Kehn',
+    imgSrc: '../Fa17/LAs/GrantKehn.jpg',
+    img: 'GrantKehn.jpg',
+};
+
+var hannahV = {
+    name: 'LA Hannah Verdonk',
+    imgSrc: '../Sp17/las/HannahVerdonk.jpg',
+    img: 'HannahVerdonk.jpg',
+};
+
+var jingjingJ = {
+    name: 'LA Jingjing Jia',
+    imgSrc: '../Fa17/LAs/JingjingJia.jpg',
+    img: 'JingjingJia.jpg',
+};
+
+var jocelynS = {
+    name: 'LA Jocelyn Sun',
+    imgSrc: '../Fa17/LAs/JocelynSun.jpg',
+    img: 'JocelynSun.jpg',
+};
+
+var maryamS = {
+    name: 'LA Maryam Sabeti',
+    imgSrc: '../Fa17/LAs/MaryamSabeti.jpg',
+    img: 'MaryamSabeti.jpg',
+};
+
+var mattR = {
+    name: 'LA Matt Ronnau',
+    imgSrc: '../Fa17/LAs/MattRonnau.jpg',
+    img: 'MattRonnau.jpg',
+};
+
+var maxY = {
+    name: 'LA Max Yao',
+    imgSrc: '../Sp17/las/MaxYao.jpg',
+    img: 'MaxYao.jpg',
+};
+
+var maxsonY = {
+    name: 'LA Maxson Yang',
+    imgSrc: '../Fa17/LAs/MaxsonYang.jpg',
+    img: 'MaxsonYang.jpg',
+};
+
+var meaganT = {
+    name: 'LA Meagan Tang',
+    imgSrc: '../Fa17/LAs/MeaganTang.jpg',
+    img: 'MeaganTang.jpg',
+};
+
+var nikiZ = {
+    name: 'LA Niki Zarkub',
+    imgSrc: '../Fa17/LAs/NikiZarkub.jpg',
+    img: 'NikiZarkub.jpg',
+};
+
+var rosemarieD = {
+    name: 'LA Rosemarie De La Melena',
+    imgSrc: '../Fa17/LAs/RosemarieDeLaMelena.jpg',
+    img: 'RosemarieDeLaMelena.jpg',
+};
+
+var sandraK = {
+    name: 'LA Sandra Kung',
+    imgSrc: '../Fa17/LAs/SandraKung.jpg',
+    img: 'SandraKung.jpg',
+};
+
+var veraG = {
+    name: 'LA Vera Gold',
+    imgSrc: '../Sp17/las/VeraGold.jpg',
+    img: 'VeraGold.jpg',
+};
 
 
 /*****************************************************************************/
@@ -165,15 +282,20 @@ var vardaS = {
 /*****************************************************************************/
 
 var inst = [ DanGarcia ];
-var tas = [ laraM, jobelV, mansiS, addisonH, angelaW, christianL, jessicaG, matthewS, meghnaD, patriciaX, samuelS, schuylerR, yifatA ];
+var tas = [ laraM, jobelV, mansiS, addisonH, angelaW, christianL, jessicaG,
+            matthewS, meghnaD, patriciaX, samuelS, schuylerR, yifatA ];
 var readers = [ arvindN, bhumikaG, julieH, niketK, vardaS ];
+var las = [ abbyC, anneL, bardiaB, batoolN, brendanH, brianaO, grantK, hannahV,
+            jingjingJ, jocelynS, maryamS, mattR, maxY, maxsonY, meaganT, nikiZ,
+            rosemarieD, sandraK, veraG ];
 
 // If you need to add a new SECTION add it to this object.
-// Follow the same format.
+// Follow the same formt.
 var all = {
     readers: readers,
     tas: tas,
-    inst: inst
+    inst: inst,
+    las: las
 };
 
 /*****************************************************************************/
@@ -296,3 +418,4 @@ function normalImage(image, normalPath) {
 buildGroup('inst', 5);
 buildGroup('tas', 5);
 buildGroup('readers', 5);
+buildGroup('las', 5);
