@@ -43,8 +43,8 @@ var mansiS = {
 
 var addisonH = {
     name: 'TA Addison Howe',
-    img: 'Fa16/AddisonHowe.JPG',
-    imgSrc: '../Fa16/AddisonHowe.JPG',
+    img: 'AddisonHowe.JPG',
+    imgSrc: '../Sp17/AddisonHowe.jpg',
     email: 'addison@cs10.org',
     bio: 'AddisonBio'
 };
