@@ -16,7 +16,7 @@ CS10
 
 ## WHAT ARE SOME OF YOUR TALENTS & SKILLS?
 
-I’m a member of Cal Wushu and have been doing Wushu since I was about 7 years old. However, I haven’t competed since graduating from High School. I also like to dance and am  part of [M]ovement a dance organization on campus.
+I’m a member of Cal Wushu and have been doing Wushu since I was about 7 years old. However, I haven’t competed since graduating from High School. I also like to dance and am part of [M]ovement a dance organization on campus.
 
 ## HAVE YOU DONE ANYTHING REMARKABLE? HAS ANYTHING MEMORABLE HAPPENED TO YOU?
 
@@ -24,4 +24,4 @@ In Taiwan a monkey once slapped my leg so hard it gave me a bruise.
 
 ## WHAT COMMITMENTS WILL BE CONSUMING YOUR CYCLES THIS SEMESTER?
 
-I am an intern this summer at Amazon on their Alexa Shopping team.
+I am taking CS169 (Software Engineering), Info 159 (Natural Language Processing) and Info C167 (Social Media and Virtual Communication). In addition to my course load I will be interning as a Speech Analyst at SRI International. I will also be travelling to 3 different conferences this semester: EMNLP, Richard Tapia Diversity in Computing, and Grace Hopper Women in Computing.
