@@ -8,7 +8,7 @@ I’d never programmed before coming to Cal, so my first exposure to computer sc
 
 ## WHAT ARE YOUR HOBBIES?
 
-I really enjoy learning new things, watching TV, and singing (though I’m not very good at it).
+I really enjoy learning new things, reading, watching TV, and singing (though I’m not very good at it).
 
-## WHAT ARE SOME OF YOUR TALENTS & SKILLS?
-My classes (CS70, Stat 134, Stat 133, Data 8), teaching CS10, research, and some awesome clubs :)
+## WHAT COMMITMENTS WILL BE CONSUMING YOUR CYCLES THIS SEMESTER?
+My classes (CS170: Algorithms, CS186: Databases, Data100: Principles of Data Science, Ling100: Introduction to Linguistics), teaching CS10, and research! :) 
