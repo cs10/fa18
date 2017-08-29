@@ -12,8 +12,16 @@
 
   Looking for LAB LINK shortcuts?
   Look in _data/labs.yml
+
+  Looking for LECTURE LINK shortcuts?
+  Look in _data/lectures.yml
+
+  Looking for HW LINK shortcuts?
+  Look in _data/hws.yml
 -->
 {% assign lab = site.data.labs %}
+{% assign lecture = site.data.lectures %}
+{% assign hw = site.data.hws %}
 <table id="calendar">
   <tr>
     <th>Week</th>
@@ -40,11 +48,11 @@
       <span>No Readings</span><br>
     </td>
     <td rowspan="3" class="cal-due-date">
-      HW0 due 8/25 - <a href="https://bcourses.berkeley.edu/courses/1464571/quizzes/2272256">submit</a>
+      HW0 due 8/25 - <a href="{{hw.hw0-submit}}">submit</a>
     </td>
   </tr>
   <tr>
-    <td>1. Welcome & Abstraction</td>
+    <td><a href="{{lecture.one}}">1. Welcome & Abstraction</a></td>
     <td><a href="{{lab.intro-to-snap}}">Lab 1: Welcome to NetsBlox!</a></td>
   </tr>
   <tr>
@@ -62,7 +70,7 @@
       to<br>
       9/1
     </td>
-    <td>2. Building Blocks</td>
+    <td><a href="{{lecture.two}}">2. Building Blocks</a></td>
     <td><a href="{{lab.byob}}">Lab 2: Build Your Own Blocks</a></td>
     <td rowspan="3">
       <span>Quiz - First Lab of the Week</span><br>
@@ -72,7 +80,7 @@
       <a href="https://bcourses.berkeley.edu/courses/1464571/files/folder/Readings?preview=71492306" class="optional">Scratch: Programming for All</a>
     </td>
     <td rowspan="3" class="cal-due-date">
-      HW1 due 9/6 - <a href="http://cs10.org/fa17/assign.html?https://docs.google.com/document/d/e/2PACX-1vSF7lBxORBVl_mpqQgrSa-TD2EF2pyoBIncnvO8ppuCy6_uOBB7hWhJvGy5SzLL-X515UzSmvP4ozdZ/pub">spec</a> - <a href="https://bcourses.berkeley.edu/courses/1464571/assignments/7821493">submit</a>
+      HW1 due 9/6 - <a href="{{hw.hw1-spec}}">spec</a> - <a href="{{hw.hw1-submit}}">submit</a>
     </td>
   </tr>
   <tr>
