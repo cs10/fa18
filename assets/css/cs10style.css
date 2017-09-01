@@ -133,6 +133,7 @@ tr.cal:nth-child(odd), .light {
   border: none;
 }
 table#calendar {
+  width: 100%;
   font-family: sans-serif;
   border-collapse: collapse;
   font-size: 14px;

@@ -18,10 +18,15 @@
 
   Looking for HW LINK shortcuts?
   Look in _data/hws.yml
+
+  Looking for DISCUSSION LINK shortcuts?
+  Look in _data/discussions.yml
+
 -->
 {% assign lab = site.data.labs %}
-{% assign lecture = site.data.lectures %}
+{% assign lect = site.data.lectures %}
 {% assign hw = site.data.hws %}
+{% assign disc = site.data.discussions %}
 <table id="calendar">
   <tr>
     <th>Week</th>
@@ -52,7 +57,7 @@
     </td>
   </tr>
   <tr>
-    <td><a href="{{lecture.one}}">1. Welcome & Abstraction</a></td>
+    <td><a href="{{lect.one}}">1. Welcome & Abstraction</a></td>
     <td><a href="{{lab.intro-to-snap}}">Lab 1: Welcome to NetsBlox!</a></td>
   </tr>
   <tr>
@@ -70,7 +75,7 @@
       to<br>
       9/1
     </td>
-    <td><a href="{{lecture.two}}">2. Building Blocks</a></td>
+    <td><a href="{{lect.two}}">2. Building Blocks</a></td>
     <td><a href="{{lab.byob}}">Lab 2: Build Your Own Blocks</a></td>
     <td rowspan="3">
       <span>Quiz - First Lab of the Week</span><br>
@@ -84,12 +89,12 @@
     </td>
   </tr>
   <tr>
-    <td><a href="{{lecture.three}}">3. Numbers & Abstraction</a></td>
+    <td><a href="{{lect.three}}">3. Numbers & Abstraction</a></td>
     <td><a href="{{lab.conds-and-reporters}}">Lab 3: Conditionals & Reporters</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>Discussion 2: The Power of Binary</td>
+    <td><a href="{{disc.two}}">Discussion 2: The Power of Binary</a></td>
   </tr>
 
   <!-- week 3 -->
