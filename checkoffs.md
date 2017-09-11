@@ -41,18 +41,18 @@ To get checked off, you should prepare answers to the specific questions for eac
 * [Lab 4](#lab4) (Week 3)
 * [Lab 5](#lab5)
 * [Lab 6](#lab6) (Week 4)
-* [Lab 7](#lab7) (Week 5)
-* [Lab 8](#lab8)
+* [Lab 7](#lab7) 
+* [Lab 8](#lab8) (Week 5)
 * [Lab 9](#lab9) (Week 6)
 * [Lab 10](#lab10) (Week 7)
-* [Lab 11](#lab11)
-* [Lab 12](#lab12) (Week 8)
-* [Lab 13](#lab13) (Week 9)
-* [Lab 14](#lab14)
+* [Lab 11](#lab11) (Week 8)
+* [Lab 12](#lab12) (Week 9)
+* [Lab 13](#lab13) (Week 10)
+* [Lab 14](#lab14) (Week 11)
 * [Lab 15](#lab15)
 * [Lab 16](#lab16) (Week 12)
 * [Lab 17](#lab17)
-* [Lab 18](#lab18)
+* [Lab 18](#lab18) (Week 13)
 </div>
 
 ---
@@ -136,7 +136,7 @@ To get checked off, you should prepare answers to the specific questions for eac
 
 ---
 
-# Week 4: Lab 6 and 7
+# Week 4: Labs 6 and 7
 
 ## Lab 6: Algorithms {#lab6}
 
@@ -189,7 +189,7 @@ To get checked off, you should prepare answers to the specific questions for eac
 
 ---
 
-# Week 6: Labs 9 and 10
+# Week 6: Lab 9
 
 ## Lab 9: Concurrency {#lab9}
 
@@ -205,6 +205,10 @@ To get checked off, you should prepare answers to the specific questions for eac
 
 * What were some strategies your team thought of in the card sorting activity? How do these relate to how a computer handles concurrency?
 * Give an example of when concurrency might cause a problem in a computer program.
+
+---
+
+# Week 7: Lab 10
 
 ## Lab 10: Tic-Tac-Toe, Boards {#lab10}
 
@@ -222,7 +226,7 @@ To get checked off, you should prepare answers to the specific questions for eac
 
 ---
 
-# Week 7: Lab 11
+# Week 8: Lab 11
 
 ## Lab 11: Trees and Fractals Using Recursion {#lab11}
 **Required**
@@ -240,7 +244,7 @@ To get checked off, you should prepare answers to the specific questions for eac
 
 ---
 
-# Week 8: Lab 12
+# Week 9: Lab 12
 
 ## Lab 12: Recursive Reporters {#lab12}
 
@@ -259,9 +263,19 @@ To get checked off, you should prepare answers to the specific questions for eac
 
 ------
 
-# Week 9: Lab 13
+# Week 10: Lab 13
 
-## Lab 13: Functions as Data and HOFs {#lab13}
+## Lab 13: Finch Lab {#lab13}
+
+**Required**
+
+You can get checked off for this lab as long as you show up to lab and work on it. No questions!
+
+---
+
+# Week 11: Labs 14 and 15
+
+## Lab 14: Functions as Data and HOFs {#lab14}
 
 **Required**
 
@@ -277,12 +291,7 @@ To get checked off, you should prepare answers to the specific questions for eac
 * How can we store functions as variables or lists? When might it be useful to have a list containing functions?
 * What is the domain and range of the `compose` block? How would you construct the `compose-from-list` block?
 
-
----
-
-# Week 11: Lab 14
-
-## Lab 14: Besides Blocks: Welcome to Python {#lab14}
+## Lab 15: Besides Blocks: Welcome to Python {#lab15}
 
 **Required**
 
@@ -298,16 +307,9 @@ To get checked off, you should prepare answers to the specific questions for eac
 * What is the difference between the "=", "!=", and "==" python commands?
 * What is the domain and range for the "+" function in python?
 
-
 ------
 
-# Week 12: Lab 15 and 16
-
-## Lab 15: Finch Lab {#lab15}
-
-**Required**
-
-You can get checked off for this lab as long as you show up to lab and work on it. No questions!
+# Week 12: Labs 16 and 17
 
 ## Lab 16: Besides Blocks: Data Structures in Python {#lab16}
 
@@ -323,11 +325,6 @@ You can get checked off for this lab as long as you show up to lab and work on i
 * How to open the Python interpreter and run a script.
 * How do you make a directory, enter a directory, and check what is inside your current directory?
 * How do you define a function in python?
-
-
-------
-
-# Week 13: Lab 17
 
 ## Lab 17: Besides Blocks: Text Processing in Python {#lab17}
 
@@ -346,19 +343,11 @@ You can get checked off for this lab as long as you show up to lab and work on i
 
 ------
 
-# Week 14: Lab 18
+# Week 13: Lab 18
 
-## Lab 18:The Internet {#lab18}
+TBD!
 
-**Required**
-
-* Chooose between whois and Traceroute, and explain how the command works. What information does it tell you?
-* What is the difference between latency and throughput?
-* What is your information footprint? How could you go about limiting it?
-
-**More Self-Check Questions**
-
-* How does telnet work?
+------
 
 <!-- Keep the /div at the bottom -->
 </div>
