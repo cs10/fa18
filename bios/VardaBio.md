@@ -1,17 +1,14 @@
 ## WHERE DID YOU GROW UP? WHAT WAS YOUR PATH TO CAL?
-I was originally a character in an MIT program called Scratch. Someone stuck an antenna on me and now here I am.
+I was born in Bangalore (the Silicon Valley of India) but have lived in over eight cities across India, Bangladesh and Indonesia. I attended incredibly diverse, international high schools and knew I wanted to attend university in the US. Cal was one of my top choices, and I'm so glad I'm here (I grew up in tropical Asia, so the East Coast is too cold for me).
 
 ## HOW MUCH PROGRAMMING HAVE YOU DONE (& WHAT LANGUAGES)?
-Snap! I'm all over the website!
+I came to Cal intending to major in Media Studies and didn't have any programming experience before CS10. I'm now trying to double major with CS. I've programmed in Snap!, Python and am learning Java.
 
 ## WHAT ARE YOUR HOBBIES?
-CS10. 
-
-## WHAT ARE SOME OF YOUR TALENTS & SKILLS?
-I'm pretty good at floating. Being sassy.
+I love art; both appreciating and creating it. I also enjoy traveling (so far, I've been to over a dozen countries) and cooking (hmu for some bomb enchiladas and Indian food)!
 
 ## HAVE YOU DONE ANYTHING REMARKABLE? HAS ANYTHING MEMORABLE HAPPENED TO YOU?
-Becoming CS10's mascot was pretty sweet.
+This summer, I attended a ten-day silent (sans technology) meditation retreat. Although it was really challenging, it was a memorable experience. 
 
 ## WHAT COMMITMENTS WILL BE CONSUMING YOUR CYCLES THIS SEMESTER?
-Filling up this space because this reader has not filled out their bio yet.
+CS10, my classes (CS61B, Data 8, MS10, ISF10) and ASUC.
