@@ -158,7 +158,8 @@ table#calendar, #calendar th, #calendar td {
 }
 #calendar tr:nth-child(6n + 2) td,
 #calendar tr:nth-child(6n + 3) td,
-#calendar tr:nth-child(6n + 4) td {
+#calendar tr:nth-child(6n + 4) td,
+#calendar tr:nth-child(49) td {
   background-color: #e0e0e0;
 }
 /* Center the week numbers */
