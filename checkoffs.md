@@ -331,10 +331,10 @@ You can get checked off for this lab as long as you show up to lab and work on i
 **Required**
 
 * What are the arguments of the `open` function and what does it return?
-* Show us your `count_words` function.
+* Show us your `izzle` function.
 * How do we choose how something is sorted when using the `sorted` function in Python?
 * Show us your `top_n_words` and `print_top_n_words` functions. 
-* Show us your `average_word_length` function. 
+* Show us your `apply_language_game` function. 
 
 **More Self-Check Questions**
 
