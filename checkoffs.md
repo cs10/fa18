@@ -317,13 +317,13 @@ You can get checked off for this lab as long as you show up to lab and work on i
 
 * What is the difference between = and == in python?
 * Show us the result of running the autograder.
-* What is a directory?
+* What is a dictionary?
 * What does 0-indexing mean?
 
 **Self-Check Questions**
 
 * How to open the Python interpreter and run a script.
-* How do you make a directory, enter a directory, and check what is inside your current directory?
+* How do you make a dictionary, enter a dictionary, and check what is inside your current dictionary?
 * How do you define a function in python?
 
 ## Lab 17: Besides Blocks: Text Processing in Python {#lab17}
