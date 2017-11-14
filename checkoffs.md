@@ -343,7 +343,7 @@ You can get checked off for this lab as long as you show up to lab and work on i
 
 ------
 
-# Week 13: Lab 18 Data and Python {#lab17}
+# Week 13: Lab 18 Data and Python {#lab18}
 
 **Required**
 
