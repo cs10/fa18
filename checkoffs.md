@@ -349,7 +349,7 @@ You can get checked off for this lab as long as you show up to lab and work on i
 
 **Required**
 
-* What are some important commands that you can use to keep only certain rows in a table? (Answers could include where, select) 
+* What are some important commands that you can use to keep only certain rows in a table?
 * Describe the three main steps of working with data as per this lab. 
 * What commands did you use to find the price of the most expensive listing in San Francisco? 
 * Show us your scatter plot? What are some things you notice from this plot? 
