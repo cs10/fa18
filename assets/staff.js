@@ -148,7 +148,7 @@ var julieH = {
 
 var niketK = {
     name: 'Reader Niket Kulkarni',
-    imgSrc: '../small/NPY.jpg',
+    imgSrc: '../Fa17/NiketKulkarni.jpg',
     img: 'NPY.jpg.jpg',
     bio: 'NiketBio'
 };
