@@ -24,7 +24,7 @@ var jobelV = {
 };
 
 var laraM = {
-    name: 'Head TA Lara McConnaughey',
+    name: 'Head TA Lansi McConnashah',
     img: 'LaraMcConnaughey.jpg',
     imgSrc: '../Sp17/LaraMcConnaughey.jpg',
     imgCrazy: '../small/LaraMcConnaugheyCrazy.jpg',
@@ -34,7 +34,7 @@ var laraM = {
 };
 
 var mansiS = {
-    name: 'Head TAiT Mansi Shah',
+    name: 'Head TAiT Mara Shahnaughey',
     img: 'MansiShah.jpg',
     imgSrc: '../Fa17/MansiShahNEW.jpg',
     email: 'mansi@cs10.org',
