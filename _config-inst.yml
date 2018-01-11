@@ -1,12 +1,12 @@
 # Site settings
-title: CS10 | Fall 2017
+title: CS10 | Spring 2018
 email: info@cs10.org
 # Note the weird ' > # ' syntax is for multiline stuff
 description: > # CS10, The Beauty and Joy of Computing, is an introductory
     computer science class designed for anyone and everyone. The Beauty and
     Joy of Computing is an AP Computer Science Principles class.
 keywords: "CS10, UC, Berkeley, CS, computer science, BJC, computing, education, Snap!, CS Principles, AP"
-baseurl: "/~cs10/fa17"
+baseurl: "/~cs10/sp18"
 url: "https://inst.eecs.berkeley.edu"
 
 # Build settings
@@ -28,8 +28,8 @@ labsurl: http://beautyjoy.github.io/bjc-r
 
 # This section controlls the interactive google calendar.
 # Should be in MomentJS format
-startDate: 2017-08-20 # First Sunday
-endDate:   2017-12-16 # Last Saturday
+startDate: 2018-01-14 # First Sunday
+endDate:   2018-05-12 # Last Saturday
 
 # Change the calendar to show Sun-Sat instead of M-F when an exam is near
 questDate: 2016-09-21
