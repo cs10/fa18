@@ -124,12 +124,10 @@ var vardaS = {
 /*****************************************************************************/
 
 var inst = [ DanGarcia ];
-var tas = [ laraM, jobelV, mansiS, addisonH, angelaW, christianL, jessicaG,
-            matthewS, meghnaD, patriciaX, samuelS, schuylerR, yifatA ];
-var readers = [ arvindN, bhumikaG, julieH, niketK, vardaS ];
-var las = [ abbyC, anneL, bardiaB, batoolN, brendanH, brianaO, grantK, hannahV,
-            jingjingJ, jocelynS, maryamS, mattR, maxY, maxsonY, meaganT, nikiZ,
-            rosemarieD, sandraK, veraG ];
+var tas = [ laraM, mansiS, addisonH, angelaW, christianL, julieH, 
+            niketK, matthewS, samuelS, schuylerR ];
+var readers = [ arvindN, bhumikaG, vardaS ];
+var las = [ ];
 
 // If you need to add a new SECTION add it to this object.
 // Follow the same formt.
