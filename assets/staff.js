@@ -109,10 +109,6 @@ var bhumikaG = {
     bio: 'BhumikaBio'
 };
 
-var brendanH = {
-    name: 'Reader Brendan Henrique'
-};
-
 var vardaS = {
     name: 'Reader Varda Shrivastava',
     imgSrc: '../Sp17/las/VardaShrivastava.jpg',
