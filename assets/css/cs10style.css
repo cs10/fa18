@@ -156,21 +156,23 @@ table#calendar, #calendar th, #calendar td {
 #calendar th {
   text-align: center;
 }
-#calendar tr:nth-child(6n + 2) td,
-#calendar tr:nth-child(6n + 3) td,
-#calendar tr:nth-child(6n + 4) td,
-#calendar tr:nth-child(49) td {
+
+/* Set every alternating row to different colors */
+#calendar tr:nth-child(4n+2) td,
+#calendar tr:nth-child(4n+3) td {
   background-color: #e0e0e0;
 }
-/* Center the week numbers */
-#calendar tr:nth-child(3n + 2):not(:first-child) td:nth-child(-n + 2),
-#calendar tr:nth-child(49):not(:first-child) td:nth-child(-n + 2) {
+
+/* Center the week numbers and dates */
+#calendar tr:nth-child(2n) td:nth-child(9n+1),
+#calendar tr:nth-child(2n) td:nth-child(9n+2) {
   text-align: center;
 }
-#calendar .cal-due-date { background-color: #ffffaa !important; }
-#calendar .cal-exam { background-color: #cbcbfc !important; }
-#calendar .cal-no-class { background-color: #222 !important; color: #fff !important;n}
-#calendar .cal-work-session { background-color: #f0cccb !important; }
+
+#calendar .cal-due-date { background-color: #e1f7d5 !important; }
+#calendar .cal-exam { background-color: #9fd4fc !important; }
+#calendar .cal-no-class { background-color: #191970 !important; color: #fff !important;n}
+#calendar .cal-work-session { background-color: #cbcbfc !important; }
 #calendar th:nth-child(2) { min-width: 80px; }
 
 /******************************************************************************/

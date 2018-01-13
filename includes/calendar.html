@@ -27,529 +27,131 @@
 {% assign lect = site.data.lectures %}
 {% assign hw = site.data.hws %}
 {% assign disc = site.data.discussions %}
+{% assign weeks = site.data.weeks %}
+
 <table id="calendar">
   <tr>
     <th>Week</th>
-    <th>Date</th>
-    <th>Lecture</th>
-    <th>Lab/Discussion</th>
+    <th>Dates</th>
     <th>Readings</th>
+    <th>Lectures</th>
+    <th>Labs</th>
+    <th>Discussion</th>
     <th>Due Dates/Notes</th>
   </tr>
+{% for week in weeks %}
+  <tr>
+    <td rowspan = 2>{{ week.number }} </td>
 
-  <!-- week 1 -->
-  <tr>
-    <td rowspan="3">
-      1
-    </td>
-    <td rowspan="3">
-      8/21<br>
-      to<br>
-      8/25
-    </td>
-    <td class="cal-no-class">No Lecture</td>
-    <td></td>
-    <td rowspan="3">
-      <span>No Readings</span><br>
-    </td>
-    <td rowspan="3" class="cal-due-date">
-      HW0 due 8/25 - <a href="{{hw.hw0-submit}}">submit</a>
-    </td>
-  </tr>
-  <tr>
-    <td><a href="{{lect.one}}">1. Welcome & Abstraction</a></td>
-    <td><a href="{{lab.intro-to-snap}}">Lab 1: Welcome to NetsBlox!</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Discussion 1: Welcome to CS10!</td>
+    <td rowspan = 2>{{ week.dates }}</td>
+
+    {% if week.readings == null %}
+      <td rowspan = 2>No Readings</td>
+    {% else %}
+      <td rowspan = 2>
+        {% for reading in week.readings %}
+          <a class="{% if reading.required %}required{% else %}optional{% endif %}"
+             href="{{ reading.link }}">
+            {{ reading.title }}
+          </a>
+          <br>
+        {% endfor %}
+      </td>
+    {% endif %}
+
+    {% if week.lect1 == null %}
+      <td class="cal-no-class">No Lecture</td>
+    {% elsif week.lect1.exam %}
+      <td class="cal-exam">{{ week.lect1.title }}</td>
+    {% elsif week.lect1.link == null %}
+      <td>{{ week.lect1.title }} </td>
+    {% elsif week.lect1.link != null %}
+      <td><a href = "{{ week.lect1.link }}">{{ week.lect1.title }}</a></td>
+    {% endif %}
+
+    {% if week.lab1 == null %}
+      <td class="cal-no-class">No Lab</td>
+    {% elsif week.lab1.work-session %}
+      <td class="cal-work-session">{{ week.lab1.title }}</td>
+    {% elsif week.lab1.exam %}
+      <td class="cal-exam">{{ week.lab1.title }}</td>
+    {% elsif week.lab1.link == null %}
+      <td>{{ week.lab1.title }} </td>
+    {% else %}
+      <td><a href = "{{ week.lab1.link }}">{{ week.lab1.title }}</a></td>
+    {% endif %}
+
+    {% if week.disc == null %}
+      <td class="cal-no-class" rowspan = 2>No Discussion</td>
+    {% else %}
+      <td rowspan = 2>
+        {% if week.disc.link == null %}
+          {{ week.disc.title }}
+        {% elsif week.disc.link != null %}
+          <a href= "{{ week.disc.link }}"> {{ week.disc.title }} </a>
+        {% endif %}
+        {% if week.disc.solutions != null %}
+          <a href= "{{ week.disc.solutions }}"> (Solutions) </a>
+        {% endif %}
+        {% if week.disc.demo != null %}
+          <a href= "{{ week.disc.demo }}"> (Demo) </a>
+        {% endif %}
+      </td>
+    {% endif %}
+
+    {% if week.notes == null %}
+      <td class="cal-due-date" rowspan = 2></td>
+    {% else %}
+      <td class="cal-due-date" rowspan = 2>
+        {% for note in week.notes %}
+          {{ note.title }}
+          {% for l in note.links %}
+            {% if l.link == null %}
+            {{ l.title }}
+            {% else %}
+            <a href="l.link"> {{ l.title }}</a>
+            {% endif %}
+          {% endfor %}
+          <br>
+        {% endfor %}
+      </td>
+    {% endif %}
   </tr>
 
-  <!-- week 2 -->
   <tr>
-    <td rowspan="3">
-      2
-    </td>
-    <td rowspan="3">
-      8/28<br>
-      to<br>
-      9/1
-    </td>
-    <td><a href="{{lect.two}}">2. Building Blocks</a></td>
-    <td><a href="{{lab.byob}}">Lab 2: Build Your Own Blocks</a></td>
-    <td rowspan="3">
-      <span>Quiz 1 - First Lab of the Week</span><br>
-      <a href="http://cs10.org/fa17/assign.html?//docs.google.com/document/d/1PZJ_LYYWRYu12cTbBKF9IyY4BqEG-BibgisBoQn9BpY/pub" class="required">Introduction to Abstraction</a><br>
-      <a href="https://www.youtube.com/watch?v=dU1xS07N-FA" class="required">Learning to Code!</a><br>
-      <a href="https://bcourses.berkeley.edu/courses/1464571/files/folder/Readings?preview=71492308" class="optional">Is Abstraction the Key to Computing?</a><br>
-      <a href="https://bcourses.berkeley.edu/courses/1464571/files/folder/Readings?preview=71492306" class="optional">Scratch: Programming for All</a>
-    </td>
-    <td rowspan="3" class="cal-due-date">
-      HW1 due 9/6 - <a href="{{hw.hw1-spec}}">spec</a> - <a href="{{hw.hw1-submit}}">submit</a>
-    </td>
-  </tr>
-  <tr>
-    <td><a href="{{lect.three}}">3. Numbers & Abstraction</a></td>
-    <td><a href="{{lab.conds-and-reporters}}">Lab 3: Conditionals & Reporters</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="{{disc.two}}">Discussion 2: The Power of Binary</a> (<a href="{{disc.two-sol}}">Solutions</a>)</td>
-  </tr>
+    {% if week.lect2 == null %}
+      <td class="cal-no-class">No Lecture</td>
+    {% elsif week.lect2.exam %}
+      <td class="cal-exam">{{ week.lect2.title }}</td>
+    {% elsif week.lect2.link == null %}
+      <td>{{ week.lect2.title }} </td>
+    {% else %}
+      <td><a href = "{{ week.lect2.link }}">{{ week.lect2.title }}</a></td>
+    {% endif %}
 
-  <!-- week 3 -->
+    {% if week.lab2 == null %}
+      <td class="cal-no-class">No Lab</td>
+    {% elsif week.lab2.exam %}
+      <td class="cal-exam">{{ week.lab2.title }}</td>
+    {% elsif week.lab2.work-session %}
+      <td class="cal-work-session">{{ week.lab2.title }}</td>
+    {% elsif week.lab2.link == null %}
+      <td>2. {{ week.lab2.title }} </td>
+    {% else %}
+      <td><a href = "{{ week.lab2.link }}">{{ week.lab2.title }}</a></td>
+    {% endif %}
+  </tr>
+{% endfor %}
+
   <tr>
-    <td rowspan="3">
-      3
-    </td>
-    <td rowspan="3">
-      9/4<br>
-      to<br>
-      9/8
-    </td>
-    <td class="cal-no-class">No Lecture - Enjoy Labor Day!</td>
-    <td>
-      <a href="{{lab.abstraction}}">Lab 4: Abstraction</a>
-    </td>
-    <td rowspan="3">
-      <span>Quiz 2 - Second Lab of the Week</span><br>
-      <a href="https://www.youtube.com/watch?v=CQhrMmbiaM0&feature=youtu.be" class="required">The Story of Alan Turing & His Machine</a><br>
-      <a href="http://cs10.org/fa17/resources/readings/btb/chapter1.pdf" class="required">BtB Chapter 1</a>
-    </td>
-    <td rowspan="6" class="cal-due-date">
-      HW2 due 9/20 - <a href="{{hw.hw2-spec}}">spec</a> - <a href="{{hw.hw2-submit}}">submit</a>
+    <td>17</td>
+    <td rowspan=2 colspan =6 text-align="center" class="cal-exam">
+      Paper Final Exam
       <br>
-      HW2 Party 9/18 - 8-10pm
-      <br>310 Soda
-    </td>
-  </tr>
-  <tr>
-    <td><a href={{lect.four}}>4. Lists & Scoping</a></td>
-    <td>
-        <a href="{{lab.lists}}">Lab 5: Lists</a>
-    </td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="{{disc.three}}">Discussion 3: All About Lists</a> (<a href="{{disc.three-sol}}">Solutions</a>)</td>
-  </tr>
-
-  <!-- week 4 -->
-  <tr>
-    <td rowspan="3">
-      4
-    </td>
-    <td rowspan="3">
-      9/11<br>
-      to<br>
-      9/15
-    </td>
-    <td><a href="{{lect.five}}">5. Algorithms (Yifat Amir)</a></td>
-    <td>
-      <a href="{{lab.algorithms}}">Lab 6: Algorithms</a>
-    </td>
-    <td rowspan="3">
-      <span>Quiz 3 - First Lab of the Week</span><br>
-      <a href="https://bcourses.berkeley.edu/courses/1464571/files/folder/Readings?preview=71492305" class="required">What is an Algorithm?</a><br>
-      <a href="https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world" class="required">How Algorithms Shape Our World</a><br>
-      <a href="https://www.wired.com/2014/11/algorithms-great-can-also-ruin-lives/" class="required">Algorithms are Great and All, But They Can Also Ruin Lives</a><br>
-      <a href="https://news.ycombinator.com/item?id=8630311" class="required">Hacker News Comments on "Algorithms are Great and All..."</a><br>
-      <a href="http://io9.gizmodo.com/the-10-algorithms-that-dominate-our-world-1580110464" class="optional">The 10 Algorithms That Dominate Our World</a><br>
-      <a href="https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04" class="optional">The real 10 algorithms that dominate our world</a>
-    </td>
-  </tr>
-  <tr>
-    <td><a href="{{lect.six}}">6. Algorithmic Complexity (Lara McConnaughey)</a></td>
-    <td>
-      <a href="{{lab.complexity}}">Lab 7: Algorithmic Complexity</a>
-    </td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="{{disc.four}}">Discussion 4: Algorithmic Complexity & Quest Review</a> (<a href="{{disc.four-sol}}">Solutions</a>)</td>
-  </tr>
-
-  <!-- week 5 -->
-  <tr>
-    <td rowspan="3">
-      5
-    </td>
-    <td rowspan="3">
-      9/18<br>
-      to<br>
-      9/22
-    </td>
-    <td class="cal-exam">Quest - In-Lecture</td>
-    <td>Lab Work Session</td>
-    <td rowspan="3">
-      <span>No Readings - Study for the Quest!</span>
-    </td>
-    <td rowspan="9" class="cal-due-date">
-      HW3 due 10/6 - <a href="{{hw.hw3-spec}}">spec</a> - <a href="{{hw.hw3-submit}}">submit</a>
+      Tuesday, 5/8/18, 8-11AM
       <br>
-      HW3 Party 10/2 - 8-10pm<br>
-      310 Soda<br>
-      Midterm Project Proposal<br>due 10/7 - <a href="{{hw.midterm-spec}}">spec</a> - <a href="{{hw.midterm-proposal}}">submit</a>
+      Good luck!
     </td>
-  </tr>
-  <tr>
-    <td><a href="{{lect.seven}}">7. Testing + HW3 (Steven Traversi)</a></td>
-    <td>
-        <a href="{{lab.2048-testing}}">Lab 8: Testing + HW3</a>
-    </td> 
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="{{disc.five}}">Discussion 5: Scoping, Mutability & HW3 Introduction</a> (<a href="{{disc.five-sol}}">Solutions</a>) (<a href="{{disc.five-demo}}">demo</a>)</td>
-  </tr>
-
-  <!-- week 6 -->
-  <tr>
-    <td rowspan="3">
-      6
-    </td>
-    <td rowspan="3">
-      9/25<br>
-      to<br>
-      9/29
-    </td>
-    <td><a href="{{lect.eight}}">8. Concurrency</a></td>
-    <td><a href="{{lab.concurrency}}">Lab 9: Concurrency</a></td>
-    <td rowspan="3">
-      <span>Quiz 4 - First Lab of the Week</span><br>
-      <a href="https://www.nytimes.com/2015/09/27/technology/smaller-faster-cheaper-over-the-future-of-computer-chips.html?_r=0" class="required">The End of Moore's Law</a><br>
-      <a href="https://docs.google.com/document/d/1FC-_lcn_EWlGXLfPDlQbSQeE1Q4NpTG39S-kVkHRxv8/edit" class="required">eWeek at 30: Multicore CPUs Keep Chip Makers in Step with Moore's Law</a>
-    </td>
-  </tr>
-  <tr>
-    <td><a href="{{lect.nine}}">9. Programming Paradigms</a></td>
-    <td>HW3 Work Session</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="{{disc.six}}">Discussion 6: Concurrency & Paradigms</a> (<a href="{{disc.six-sol}}">Solutions</a>)</td>
-  </tr>
-
-  <!-- week 7 -->
-  <tr>
-    <td rowspan="3">
-      7
-    </td>
-    <td rowspan="3">
-      10/2<br>
-      to<br>
-      10/6
-    </td>
-    <td><a href="{{lect.ten}}">10. Recursion I</a></td>
-    <td><a href="{{lab.tic-tac-toe}}">Lab 10: Tic-Tac-Toe & Boards</a></td>
-    <td rowspan="3">
-      <span>Quiz 5 - First Lab of the Week</span><br>
-      <a href="https://archive.org/details/AlanKeyD1987" class="required">Alan Kay: Doing with Images Makes Symbols - 4:04 to 9:20</a><br>
-      <a href="https://www.youtube.com/watch?v=_z2oFCR-0pc&feature=youtu.be" class="required">Present Shock - When Everything Happened Now</a><br>
-      <a href="http://www.nytimes.com/2013/08/25/sunday-review/addicted-to-apps.html?_r=0" class="optional">Addicted to Apps</a><br>
-    </td>
-  </tr>
-  <tr>
-    <td><a href="{{lect.eleven}}">11. HCI (Eric Paulos)</a></td>
-    <td><a href="{{lab.trees-fractals}}">Lab 11: Recursion with Trees & Fractals</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="{{disc.seven}}">Discussion 7: Introduction to Recursion</a> (<a href="{{disc.seven-sol}}">Solutions</a>) (<a href="{{disc.seven-demo}}">demo</a>)</td>
-  </tr>
-
-  <!-- week 8 -->
-  <tr>
-    <td rowspan="3">
-      8
-    </td>
-    <td rowspan="3">
-      10/9<br>
-      to<br>
-      10/13
-    </td>
-    <td><a href="{{lect.twelve}}">12. Privacy (Gerald Friedland)</a></td>
-    <td>Midterm Project Work Session</td>
-    <td rowspan="3">
-      <span>Quiz 6 - First Lab of the Week</span><br>
-      <a href="http://www.bitsbook.com/wp-content/uploads/2008/12/chapter2.pdf" class="required">BtB Chapter 2, pg. 19-29, 36-42</a><br>
-      <a href="http://www.bitsbook.com/wp-content/uploads/2008/12/chapter2.pdf" class="optional">Rest of BtB Chapter 2</a>
-    </td>
-    <td rowspan="9" class="cal-due-date">
-      Midterm Project Proposal<br>due 10/7 - <a href="{{hw.midterm-spec}}">spec</a> - <a href="{{hw.midterm-proposal}}">submit</a>
-      <br>
-      Midterm Project<br>due 10/20 - <a href="{{hw.midterm-spec}}">spec</a> - <a href="{{hw.midterm-submit}}">submit</a>
-      <br>
-      Midterm Project Party<br>
-      10/15 - 4-6pm - 310 Soda
-    </td>
-  </tr>
-  <tr>
-    <td><a href="{{lect.thirteen}}">13. Recursion II</a></td>
-    <td><a href="{{lab.recursive-reports}}">Lab 12: Recursive Reporters</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="{{disc.eight}}">Discussion 8: More Recursion</a> (<a href="{{disc.eight-sol}}">Solutions</a>) (<a href="{{disc.eight-demo}}">demo</a>)</td>
-  </tr>
-
-  <!-- week 9 -->
-  <tr>
-    <td rowspan="3">
-      9
-    </td>
-    <td rowspan="3">
-      10/16<br>
-      to<br>
-      10/20
-    </td>
-    <td><a href="{{lect.fourteen}}">14. Cyberpolitics (Jobel Vecino)</a></td>
-    <td>Midterm Project Work Session</td>
-    <td rowspan="3">
-      <span>Quiz 7 - First Lab of the Week</span><br>
-      <a href="https://www.wired.com/story/russian-hackers-attack-ukraine/" class="required">How an Entire Nation Became a Test Lab for Cyberwar</a><br>
-      <a href="http://www.currenthistory.com/Deibert_CurrentHistory.pdf" class="optional">Cyberspace After Snowden</a>
-    </td>
-  </tr>
-  <tr>
-    <td><a href="{{lect.fifteen}}">15. Computers in Education</a></td>
-    <td>Midterm Project Work Session</td>
-  </tr>
-  <tr>
-    <td><a href="{{lect.mid-review}}">Midterm Review Session 10/19<br>
-        8-10pm - 160 Kroeber</a></td>
-    <td><a href="{{disc.nine}}">Discussion 9: Midterm Review</a> (<a href="{{disc.nine-sol}}"">Solutions</a>) (<a href="{{disc.nine-demo}}">demo</a>)</td>
-  </tr>
-
-  <!-- week 10 -->
-  <tr>
-    <td rowspan="3">
-      10
-    </td>
-    <td rowspan="3">
-      10/23<br>
-      to<br>
-      10/27
-    </td>
-    <td class="cal-exam">Midterm Exam Part I - In-Lecture</td>
-    <td class="cal-exam">In-Lab Online Midterm</td>
-    <td rowspan="3">
-      <span>No Readings - Study for the Midterm!</span>
-    </td>
-  </tr>
-  <tr>
-    <td class="cal-exam">Midterm Exam Part II - In-Lecture</td>
-    <td><a href="{{lab.finch}}">Lab 13: Finches!</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Discussion 10: Social Implications</td>
-  </tr>
-
-  <!-- week 11 -->
-  <tr>
-    <td rowspan="3">
-      11
-    </td>
-    <td rowspan="3">
-      10/30<br>
-      to<br>
-      11/3
-    </td>
-    <td><a href="{{lect.sixteen}}">16. Procedures as Data - Higher Order Functions</a></td>
-    <td><a href="{{lab.hofs-funcs-as-data}}">Lab 14: Procedures as Data - Higher Order Procedures</a></td>
-    <td rowspan="3">
-      <span>Quiz 8 - First Lab of the Week</span><br>
-      <a href="http://blog.trinket.io/why-python/" class="required">Why Python is a Great First Language</a><br>
-      <a href="http://www.newyorker.com/business/currency/the-gnu-manifesto-turns-thirty" class="optional">The GNU Manifesto Turns Thirty</a><br>
-      <a href="https://medium.com/@oceankidbilly/python-vs-r-vs-cobol-which-is-best-for-data-science-7b2979c6a000" class="optional">Python vs. COBOL parody</a>
-    </td>
-    <td rowspan="6" class="cal-due-date">
-      Explore Post<br>
-      due 11/8 - <a href="{{hw.explore-spec}}">spec</a> - <a href="{{hw.explore-submit}}">submit</a>
-      <br>
-      Explore Post Comments<br>
-      due 11/12 - <a href="{{hw.explore-comments}}">submit</a>
-      <br>
-      Final Project Proposal<br>
-      due 11/10 - <a href="{{hw.final-spec}}">spec</a> - <a href="{{hw.final-proposal}}">submit</a>
-    </td>
-  </tr>
-  <tr>
-    <td><a href="{{lect.seventeen}}">17. Python I</a></td>
-    <td><a href="{{lab.python-1}}">Lab 15: Besides Blocks - Welcome to Python</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="{{disc.eleven}}">Discussion 11: Introduction to Python</a> (<a href="{{disc.eleven-demo}}">demo</a>) (<a href="{{disc.eleven-sol}}">solution</a>)</td>
-  </tr>
-
-  <!-- week 12 -->
-  <tr>
-    <td rowspan="3">
-      12
-    </td>
-    <td rowspan="3">
-      11/6<br>
-      to<br>
-      11/10
-    </td>
-    <td><a href={{lect.eighteen}}>18. Python II</a></td>
-    <td><a href={{lab.python-2}}>Lab 16: Besides Blocks - Data Structures in Python</a></td>
-    <td rowspan="3">
-      <span>Quiz 9 - First Lab of the Week</span><br>
-      <a href="https://hbr.org/2013/11/how-to-start-thinking-like-a-data-scientist" class="required">How to Start Thinking Like a Data Scientist</a><br>
-      <a href="https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation" class="required">Correlation does not imply causation</a><br>
-      <a href="http://www.tylervigen.com/spurious-correlations" class="optional">Spurious Correlations</a>
-    </td>
-  </tr>
-  <tr>
-    <td><a href="{{lect.nineteen}}">19. Python III</a></td>
-    <td><a href="{{lab.python-3}}">Lab 17: Besides Blocks - Text Processing in Python</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td class="cal-no-class">No Discussion - Enjoy Veteran's Day!</td>
-  </tr>
-
-  <!-- week 13 -->
-  <tr>
-    <td rowspan="3">
-      13
-    </td>
-    <td rowspan="3">
-      11/13<br>
-      to<br>
-      11/17
-    </td>
-    <td><a href="{{lect.twenty}}">20. Artificial Intelligence (Pat Virtue)</a></td>
-    <td>Final Project Work Session</td>
-    <td rowspan="3">
-      <span>Quiz 10 - First Lab of the Week</span><br>
-      <a href="http://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/" class="required">A World Without Work</a><br>
-      <a href="https://www.youtube.com/watch?v=7Pq-S557XQU" class="required">Humans Need Not Apply</a><br>
-      <a href="https://www.youtube.com/watch?v=69hHbVza7XI&t=27m49s" class="optional">CS8 Lecture 1</a>
-    </td>
-    <td rowspan="9" class="cal-due-date">
-      Final Project Proposal<br>
-      due 11/10 - <a href="{{hw.final-spec}}">spec</a> - <a href="{{hw.final-proposal}}">submit</a>
-      <br>
-      Final Project Milestone<br>
-      due 11/19 - <a href="{{hw.final-milestone}}">submit</a>
-      <br>
-      Final Project<br>
-      due 12/1 - <a href="{{hw.final-spec}}">spec</a> - <a href="{{hw.final-submit}}">submit</a>
-    </td>
-  </tr>
-  <tr>
-    <td><a href="{{lect.twenty-one}}">21. CS10 Alumni Panel</a></td>
-    <td><a href="{{lab.python-4}}">Lab 18: Besides Blocks - Data Science with Python</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="{{disc.twelve}}">Discussion 12: More Python</a> (<a href="{{disc.twelve-sol}}">solution</a>) </td>
-  </tr>
-
-  <!-- week 14 -->
-  <tr>
-    <td rowspan="3">
-      14
-    </td>
-    <td rowspan="3">
-      11/20<br>
-      to<br>
-      11/24
-    </td>
-    <td><a href="{{lect.twenty-two}}">22. Limits of Computing</a></td>
-    <td>Final Project Work Session</td>
-    <td rowspan="3">
-      <span>Quiz 11 - First Lab of the Week</span><br>
-      <a href="https://www.ted.com/talks/shyam_sankar_the_rise_of_human_computer_cooperation/" class="required">The Rise of Human-Computer Cooperation</a><br>
-      <a href="https://youtu.be/YX40hbAHx3s" class="required">P vs. NP and the Computational Complexity Zoo</a><br>
-      <a href="https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/" class="optional">As We May Think</a><br>
-    </td>
-  </tr>
-  <tr>
-    <td class="cal-no-class" rowspan="2" colspan = "2">No Class - Enjoy Thanksgiving!</td>
-  </tr>
-  <tr>
-  </tr>
-
-  <!-- week 15 -->
-  <tr>
-    <td rowspan="3">
-      15
-    </td>
-    <td rowspan="3">
-      11/27<br>
-      to<br>
-      12/1
-    </td>
-    <td><a href="{{lect.twenty-three}}">23. Saving the World With Computing<br>(Kathy Yelick)</a></td>
-    <td>Final Project Work Session</td>
-    <td rowspan="3">
-      <span>Quiz 12 - First Lab of the Week</span><br>
-      <a href="https://www.youtube.com/watch?v=T2DXrs0OpHU" class="required">What is Quantum?</a><br>
-      <a href="http://www.businessinsider.com/why-be-excited-about-quantum-computers-2015-4" class="required">What's Exciting About Quantum Computers?</a><br>
-      <a href="http://www.bitsbook.com/wp-content/uploads/2008/12/chapter6.pdf" class="optional">BtB Chapter 6</a><br>
-      <a href="https://drive.google.com/file/d/0B3vESj3HTRTkbVo1dTV5SUp4T0U/view" class="optional">BtB pg. 305-316</a>
-    </td>
-  </tr>
-  <tr>
-    <td><a href="{{lect.twenty-four}}">24. Conclusion</a></td>
-    <td class="cal-exam">In-Lab Final Exam</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="{{disc.thirteen}}">Discussion 13: Farewell, Recap & Feedback</a> (<a href="{{disc.thirteen-slides}}">slides</a>) (<a href="{{disc.thirteen-sol}}">solution</a>)</td>
-  </tr>
-
-  <!-- week 16 -->
-  <tr>
-    <td rowspan="2">
-      16
-    </td>
-    <td rowspan="2">
-      12/4<br>
-      to<br>
-      12/8
-    </td>
-    <td>
-      CS Ed Day<br>
-      Tuesday, December 5
-    </td>
-    <td class="cal-no-class" rowspan="2">
-      RRR Week
-    </td>
-    <td rowspan="2">
-      No Readings
-    </td>
-    <td rowspan="2">
-      Study for the Final!
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Final Review Session
-    </td>
-  </tr>
-
-
-  <!-- week 17 -->
-  <tr>
-    <td rowspan="1">
-      17
-    </td>
-    <td rowspan="1">
-      12/11<br>
-      to<br>
-      12/15
-    </td>
-    <td class="cal-exam">Paper Final Exam <br> 
-                         Wednesday, December 13, 7-10 PM<br>
-                         245 Li Ka Shing</td>
-    <td></td>
-    <td colspan="3">Good luck on your finals. Have a great Winter Break!</td>
   </tr>
 
 </table>

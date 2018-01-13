@@ -1,0 +1,496 @@
+#######################################################
+###################### WEEK 1 #########################
+#######################################################
+
+- number: 1
+  dates: 1/15 to 1/19
+  readings: null
+  lect1: null
+  lab1: null
+  lect2:
+    title: Welcome and Abstraction
+    link: null
+  lab2:
+    title: 1. Welcome to Netsblox!
+    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/1-introduction-netsblox.topic&course=cs10_fa17.html&novideo&noreading&noassignment
+  disc:
+    title: Welcome to CS10!
+    link: null
+    solutions: null
+    demo: null
+  notes:
+    - title: HW0 due 1/19
+
+#######################################################
+###################### WEEK 2 #########################
+#######################################################
+
+- number: 2
+  dates: 1/22 to 1/26
+  readings:
+    - title: Introduction to Abstraction
+      required: true
+      link: http://cs10.org/fa17/assign.html?//docs.google.com/document/d/1PZJ_LYYWRYu12cTbBKF9IyY4BqEG-BibgisBoQn9BpY/pub
+    - title: Learning to Code!
+      required: true
+      link: https://www.youtube.com/watch?v=dU1xS07N-FA
+    - title: Is Abstraction the Key to Computing?
+      required: false
+      link: #TODO: Fill in when bCourses is made
+    - title: Scratch&#58; Programming for All
+      required: false
+      link: #TODO: Fill in when bCourses is made
+  lect1:
+    title: Building Blocks
+    link: null
+  lab1:
+    title: 2. Build Your Own Blocks
+    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables-netsblox.topic&course=cs10_fa17.html&novideo&noreading&noassignment
+  lect2:
+    title: Numbers and Abstraction
+    link: null
+  lab2:
+    title: 3. Conditionals and Reporters
+    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/3-conditionals.topic&course=cs10_fa17.html&novideo&noreading&noassignment
+  disc:
+    title: The Power of Binary
+    link: null
+    solutions: null
+    demo: null
+  notes:
+    - title: Reading Quiz 1- First lab of the week
+    - title: HW1 due 2/2
+
+#######################################################
+###################### WEEK 3 #########################
+#######################################################
+
+- number: 3
+  dates: 1/29 to 2/2
+  readings:
+    - title: What is an Algorithm?
+      required: true
+      link: #TODO:Add link when bCourses is made
+    - title: How Algorithms Shape Our World
+      required: true
+      link: https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world
+    - title: Algorithms are Great and All, But They Can Also Ruin Lives
+      required: true
+      link: https://www.wired.com/2014/11/algorithms-great-can-also-ruin-lives/
+    - title: Hacker News Comments on "Algorithms are Great and All..."
+      required: true
+      link: https://news.ycombinator.com/item?id=8630311
+    - title: The 10 Algorithms That Dominate Our World
+      required: false
+      link: http://io9.gizmodo.com/the-10-algorithms-that-dominate-our-world-1580110464
+    - title: The real 10 algorithms that dominate our world
+      required: false
+      link: https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04
+  lect1:
+    title: Lists and Scoping
+    link: null
+  lab1:
+    title: 4. Abstraction
+    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/4-abstraction-testing.topic&course=cs10_fa17.html&novideo&noreading&noassignment
+  lect2:
+    title: Algorithms
+    link: null
+  lab2:
+    title: 5. Lists
+    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=cs10_fa17.html&novideo&noreading&noassignment
+  disc:
+    title: All About Lists
+    link: null
+    solutions: null
+    demo: null
+  notes:
+    - title: Reading Quiz 2- First lab of the week
+    - title: HW1 due 2/2
+    - title: HW2 due 2/16
+
+#######################################################
+###################### WEEK 4 #########################
+#######################################################
+
+- number: 4
+  dates: 2/5 to 2/9
+  readings:
+    - title: The Story of Alan Turing & His Machine
+      required: true
+      link: https://www.youtube.com/watch?v=CQhrMmbiaM0&feature=youtu.be
+    - title: BtB Chapter 1
+      required: true
+      link: http://cs10.org/fa17/resources/readings/btb/chapter1.pdf
+  lect1:
+    title: Algorithmic Complexity
+    link: null
+  lab1:
+    title: 6. Algorithms
+    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic&course=cs10_fa17.html&novideo&noreading&noassignment
+  lect2:
+    title: Programming Paradigms
+    link: null
+  lab2:
+    title: 7. Algorithmic Complexity
+    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithm-complexity.topic&course=cs10_fa17.html&novideo&noreading&noassignment
+  disc:
+    title: Algorithmic Complexity + Quest Review
+    link: null
+    solutions: null
+    demo: null
+  notes:
+    - title: Reading Quiz 3- First lab of the week
+    - title: HW2 due 2/16
+
+#######################################################
+###################### WEEK 5 #########################
+#######################################################
+
+- number: 5
+  dates: 2/12 to 2/16
+  readings: null
+  lect1:
+    title: Quest- In Lecture
+    exam: true
+  lab1:
+    title: HW2 Work Session
+    work-session: true
+  lect2:
+    title: Testing + HW3
+    link: null
+  lab2:
+    title: 8. Testing + HW3
+    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=cs10_fa17.html&novideo&noreading&noassignment
+  disc:
+    title: Scoping, Mutability, and HW3 Intro
+    link: null
+    solutions: null
+    demo: null
+  notes:
+    - title: HW3 due 3/2
+
+#######################################################
+###################### WEEK 6 #########################
+#######################################################
+
+- number: 6
+  dates: 2/19 to 2/23
+  readings:
+    - title: The End of Moore's Law
+      required: true
+      link: https://www.nytimes.com/2015/09/27/technology/smaller-faster-cheaper-over-the-future-of-computer-chips.html?_r=0
+    - title: eWeek at 30&#58; Multicore CPUs Keep Chip Makers in Step with Moore's Law
+      required: true
+      link: https://docs.google.com/document/d/1FC-_lcn_EWlGXLfPDlQbSQeE1Q4NpTG39S-kVkHRxv8/edit
+  lect1: null
+  lab1:
+    title: HW3 Work Session
+    work-session: true
+  lect2:
+    title: Concurrency
+    link: null
+  lab2:
+    title: 9. Concurrency
+    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/concurrency.topic&course=cs10_fa17.html&novideo&noreading&noassignment
+  disc:
+    title: Concurrency and Paradigms
+    link: null
+    solutions: null
+    demo: null
+  notes:
+    - title: Reading Quiz 4- First lab of the week
+    - title: HW3 due 3/2
+
+#######################################################
+###################### WEEK 7 #########################
+#######################################################
+
+- number: 7
+  dates: 2/26 to 3/2
+  readings:
+    - title: Alan Kay&#58 Doing with Images Makes Symbols - 4:04 to 9:20
+      required: true
+      link: https://archive.org/details/AlanKeyD1987
+    - title: Present Shock - When Everything Happened Now
+      required: true
+      link: https://www.youtube.com/watch?v=_z2oFCR-0pc&feature=youtu.be
+    - title: Addicted to Apps
+      required: false
+      link: http://www.nytimes.com/2013/08/25/sunday-review/addicted-to-apps.html?_r=0
+  lect1:
+    title: TBA
+  lab1:
+    title: 10. Tic-Tac-Toe, Boards
+    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=cs10_fa17.html&novideo&noreading&noassignment
+  lect2:
+    title: Recursion I
+    link: null
+  lab2:
+    title: 11. Trees and Fractals Using Recursion
+    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=cs10_fa17.html&novideo&noreading&noassignment
+  disc:
+    title: Introduction to Recursion
+    link: null
+    solutions: null
+    demo: null
+  notes:
+    - title: Reading Quiz 5- First lab of the week
+    - title: HW3 due 3/2
+    - title: Midterm Project Proposal due 3/4
+
+#######################################################
+###################### WEEK 8 #########################
+#######################################################
+
+- number: 8
+  dates: 3/5 to 3/9
+  readings:
+    - title: BtB Chapter 2, pg. 19-29, 36-42
+      required: true
+      link: http://www.bitsbook.com/wp-content/uploads/2008/12/chapter2.pdf
+    - title: Rest of BtB Chapter 2
+      required: false
+      link: http://www.bitsbook.com/wp-content/uploads/2008/12/chapter2.pdf
+  lect1:
+    title: TBA
+  lab1:
+    title: Midterm Project Work Session
+    work-session: true
+  lect2:
+    title: Recursion II
+    link: null
+  lab2:
+    title: 12. Recursive Reporters
+    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=cs10_fa17.html&novideo&noreading&noassignment
+  disc:
+    title: More Recursion
+    link: null
+    solutions: null
+    demo: null
+  notes:
+    - title: Reading Quiz 6- First lab of the week
+    - title: Midterm Project due 3/23
+
+#######################################################
+###################### WEEK 9 #########################
+#######################################################
+
+- number: 9
+  dates: 3/12 to 3/16
+  readings:
+    - title: As We May Think
+      required: true
+      link: https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
+  lect1:
+    title: Procedures as Data - Higher Order Procedures
+    link: null
+  lab1:
+    title: 13. Functions as Data and HOFs
+    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/hofs/hofs-practice.topic&course=cs10_fa17.html&novideo&noreading&noassignment
+  lect2:
+    title: TBA
+    link: null
+  lab2:
+    title: Midterm Project Work Session
+    work-session: true
+  disc:
+    title: Functions as Data + Midterm Review
+    link: null
+    solutions: null
+    demo: null
+  notes:
+    - title: Reading Quiz 7- First lab of the week
+    - title: Midterm Project due 3/23
+
+#######################################################
+###################### WEEK 10 #########################
+#######################################################
+
+- number: 10
+  dates: 3/19 to 3/23
+  readings: null
+  lect1:
+    title: Midterm Exam Part I
+    exam: true
+  lab1:
+    title: Online Midterm
+    exam: true
+  lect2:
+    title: Midterm Exam Part II
+    exam: true
+  lab2:
+    title: 14. Finch Lab
+    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/robots/robots.topic&course=cs10_fa17.html&novideo&noreading&noassignment
+  disc:
+    title: Social Implications
+    link: null
+    solutions: null
+    demo: null
+  notes: null
+
+#######################################################
+###################### WEEK 11 #########################
+#######################################################
+
+- number: 11
+  dates: 3/26 to 3/30
+
+#######################################################
+###################### WEEK 12 #########################
+#######################################################
+
+- number: 12
+  dates: 4/1 to 4/6
+  readings:
+    - title: Why Python is a Great First Language
+      required: true
+      link: http://blog.trinket.io/why-python/
+    - title: The GNU Manifesto Turns Thirty
+      required: false
+      link: http://www.newyorker.com/business/currency/the-gnu-manifesto-turns-thirty
+    - title: Python vs. COBOL parody
+      required: false
+      link: https://medium.com/@oceankidbilly/python-vs-r-vs-cobol-which-is-best-for-data-science-7b2979c6a000
+  lect1:
+    title: Python I
+    link: null
+  lab1:
+    title: 15. Besides Blocks&#58 Welcome to Python
+    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-welcome.topic&course=cs10_fa17.html&novideo&noreading&noassignment
+  lect2:
+    title: Python II
+    link: null
+  lab2:
+    title: 16. Besides Blocks&#58 Data Structures in Python
+    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=cs10_fa17.html&novideo&noreading&noassignment
+  disc:
+    title: Introduction to Python
+    link: null
+    solutions: null
+    demo: null
+  notes:
+    - title: Reading Quiz 8- Second lab of the week
+    - title: Explore Post due 4/7
+    - title: Final Project Proposal due 4/7
+
+#######################################################
+###################### WEEK 13 #########################
+#######################################################
+
+- number: 13
+  dates: 4/9 to 4/13
+  readings:
+    - title: A World Without Work
+      required: true
+      link: http://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/
+    - title: Humans Need Not Apply
+      required: true
+      link: https://www.youtube.com/watch?v=7Pq-S557XQU
+    - title: CS8 Lecture 1
+      required: false
+      link: https://www.youtube.com/watch?v=69hHbVza7XI&t=27m49s
+  lect1:
+    title: TBA
+    link: null
+  lab1:
+    title: Final Project Work Session
+    work-session: true
+  lect2:
+    title: Python III
+    link: null
+  lab2:
+    title: 17. Besides Blocks&#58 Text Processing in Python
+    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=cs10_fa17.html&novideo&noreading&noassignment
+  disc:
+    title: More Python
+    link: null
+    solutions: null
+    demo: null
+  notes:
+    - title: Reading Quiz 9- First lab of the week
+    - title: Final Project due 4/27
+
+#######################################################
+###################### WEEK 14 #########################
+#######################################################
+
+- number: 14
+  dates: 4/16 to 4/20
+  readings:
+    - title: How to Start Thinking Like a Data Scientist
+      required: true
+      link: https://hbr.org/2013/11/how-to-start-thinking-like-a-data-scientist
+    - title: Correlation does not imply causation
+      required: true
+      link: https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation
+    - title: Spurious Correlations
+      required: false
+      link: http://www.tylervigen.com/spurious-correlations
+  lect1:
+    title: TBA
+    link: null
+  lab1:
+    title: Final Project Work Session
+    work-session: true
+  lect2:
+    title: TBA
+    link: null
+  lab2:
+    title: 18. Besides Blocks&#58 Data Science with Python
+    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=cs10_fa17.html&novideo&noreading&noassignment
+  disc:
+    title: More Python
+    link: null
+    solutions: null
+    demo: null
+  notes:
+    - title: Reading Quiz 10- First lab of the week
+    - title: Final Project due 4/27
+
+#######################################################
+###################### WEEK 15 #########################
+#######################################################
+
+- number: 15
+  dates: 4/23 to 4/27
+  readings:
+    - title: What is Quantum?
+      required: true
+      link: https://www.youtube.com/watch?v=T2DXrs0OpHU
+    - title: What's Exciting About Quantum Computers?
+      required: true
+      link: http://www.businessinsider.com/why-be-excited-about-quantum-computers-2015-4
+    - title: BtB Chapter 6
+      required: false
+      link: http://www.bitsbook.com/wp-content/uploads/2008/12/chapter6.pdf
+    - title: BtB pg. 305-316
+      required: false
+      link: https://drive.google.com/file/d/0B3vESj3HTRTkbVo1dTV5SUp4T0U/view
+  lect1:
+    title: Limits of Computing
+    link: null
+  lab1:
+    title: Final Project Work Session
+    work-session: true
+  lect2:
+    title: Conclusion
+    link: null
+  lab2:
+    title: In-Lab Final Exam
+    exam: true
+  disc:
+    title: Farewell + Final Review
+    link: null
+    solutions: null
+    demo: null
+  notes:
+    - title: Reading Quiz 10- First lab of the week
+    - title: Final Project due 4/27
+
+#######################################################
+###################### WEEK 16 #########################
+#######################################################
+
+- number: 16
+  dates: 4/30 to 5/4
+  

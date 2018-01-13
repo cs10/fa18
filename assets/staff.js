@@ -109,6 +109,12 @@ var bhumikaG = {
     bio: 'BhumikaBio'
 };
 
+var brendanH = {
+    name: 'Reader Brendan Henrique',
+    imgSrc: '../Fa17/LAs/BrendanHenrique.jpg',
+    img: 'BrendanHenrique.jpg'
+};
+
 var vardaS = {
     name: 'Reader Varda Shrivastava',
     imgSrc: '../Sp17/las/VardaShrivastava.jpg',
@@ -124,9 +130,9 @@ var vardaS = {
 /*****************************************************************************/
 
 var inst = [ DanGarcia ];
-var tas = [ laraM, mansiS, addisonH, angelaW, christianL, julieH, 
+var tas = [ laraM, mansiS, addisonH, angelaW, christianL, julieH,
             niketK, matthewS, samuelS, schuylerR ];
-var readers = [ arvindN, bhumikaG, vardaS ];
+var readers = [ arvindN, bhumikaG, brendanH, vardaS ];
 var las = [ ];
 
 // If you need to add a new SECTION add it to this object.
