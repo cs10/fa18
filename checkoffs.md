@@ -41,18 +41,18 @@ To get checked off, you should prepare answers to the specific questions for eac
 * [Lab 4](#lab4) (Week 3)
 * [Lab 5](#lab5)
 * [Lab 6](#lab6) (Week 4)
-* [Lab 7](#lab7) 
+* [Lab 7](#lab7)
 * [Lab 8](#lab8) (Week 5)
 * [Lab 9](#lab9) (Week 6)
 * [Lab 10](#lab10) (Week 7)
-* [Lab 11](#lab11) (Week 8)
-* [Lab 12](#lab12) (Week 9)
-* [Lab 13](#lab13) (Week 10)
-* [Lab 14](#lab14) (Week 11)
-* [Lab 15](#lab15)
-* [Lab 16](#lab16) (Week 12)
-* [Lab 17](#lab17)
-* [Lab 18](#lab18) (Week 13)
+* [Lab 11](#lab11)
+* [Lab 12](#lab12) (Week 8)
+* [Lab 13](#lab13) (Week 9)
+* [Lab 14](#lab14) (Week 10)
+* [Lab 15](#lab15) (Week 12)
+* [Lab 16](#lab16)
+* [Lab 17](#lab17) (Week 13)
+* [Lab 18](#lab18) (Week 14)
 </div>
 
 ---
@@ -61,7 +61,7 @@ To get checked off, you should prepare answers to the specific questions for eac
 
 # Week 1: Lab 1: No check-off needed!
 
-## Lab 1: Welcome to Snap<em>!</em>   {#lab1}
+## Lab 1: Welcome to Netsblox<em>!</em>   {#lab1}
 * No questions for this lab!
 
 ---
@@ -83,7 +83,7 @@ To get checked off, you should prepare answers to the specific questions for eac
 * Did you customize your flower block in any ways? Be creative.
 * Show your customized bug dance.
 
---- 
+---
 
 ## Lab 3: Conditionals and Variables {#lab3}
 
@@ -123,16 +123,16 @@ To get checked off, you should prepare answers to the specific questions for eac
 
 **Required**
 
-* What is a list? Why would we use a list of 10 elements instead of just making 10 variables? 
+* What is a list? Why would we use a list of 10 elements instead of just making 10 variables?
 * What do `map`, `keep`, and `combine` each do? What are their inputs and outputs? What are these types of functions called?
 * Show us your `acronym` block.
-* Show us your `expand _` block. 
-* What's the difference between the `for each` loop and the `for (i)` loop we've used in previous labs? 
+* Show us your `expand _` block.
+* What's the difference between the `for each` loop and the `for (i)` loop we've used in previous labs?
 
 ** More Self-Check Questions **
 
-* Look back at the `swap items` block. Why do we need a "temp" variable? 
-* When would we want to use a loop versus a higher order function? 
+* Look back at the `swap items` block. Why do we need a "temp" variable?
+* When would we want to use a loop versus a higher order function?
 
 ---
 
@@ -145,13 +145,13 @@ To get checked off, you should prepare answers to the specific questions for eac
 * What is an algorithm? Please give an example both in real life and from class.
 * Please show both your “Find the number X in Unsorted List” and “Find the number X in Sorted List” blocks and describe the difference in the algorithms used.
 * Are algorithms which are (on average) faster always "better"? Why or why not?
-* What might some "trade-offs" to different computer science algorithms be? 
-* How can abstraction and algorithms relate in computer science? 
+* What might some "trade-offs" to different computer science algorithms be?
+* How can abstraction and algorithms relate in computer science?
 
 **More Self-Check Questions**
 
 * What is memoization? When is it useful?
-* If you have an unsorted list, do you think it will be faster to use your “Find the number X in Unsorted List” block, or sort the list and use your “Find the number X in Sorted List”? Remember that sorting takes time. 
+* If you have an unsorted list, do you think it will be faster to use your “Find the number X in Unsorted List” block, or sort the list and use your “Find the number X in Sorted List”? Remember that sorting takes time.
 
 ## Lab 7: Algorithm Complexity {#lab7}
 
@@ -177,15 +177,15 @@ To get checked off, you should prepare answers to the specific questions for eac
 **Required**
 
 * How does the **test** block work? What is its domain/range?
-* Show us the output of your **test** block on **merge column**. Explain why this output makes sense, and how the test block is checking this block. 
-* How will writing tests help you for the 2048 assignment? 
-* How do **merge up** and **merge column** work? What are the domain/range of each block? 
-* What is the domain and range of the **update display** block? 
+* Show us the output of your **test** block on **merge column**. Explain why this output makes sense, and how the test block is checking this block.
+* How will writing tests help you for the 2048 assignment?
+* How do **merge up** and **merge column** work? What are the domain/range of each block?
+* What is the domain and range of the **update display** block?
 
 **More Self-Check Questions**
 
 * What tests could you have written for HW2 (Encryptify)?
-* Explain how each of the HW3 blocks (that you are going to fill in as your  hw assignment) are supposed to work, to your lab partner(s). 
+* Explain how each of the HW3 blocks (that you are going to fill in as your  hw assignment) are supposed to work, to your lab partner(s).
 
 ---
 
@@ -208,7 +208,7 @@ To get checked off, you should prepare answers to the specific questions for eac
 
 ---
 
-# Week 7: Lab 10
+# Week 7: Labs 10 and 11
 
 ## Lab 10: Tic-Tac-Toe, Boards {#lab10}
 
@@ -224,11 +224,8 @@ To get checked off, you should prepare answers to the specific questions for eac
 
 * Show your neat end-game feature that you added to the maze game.
 
----
-
-# Week 8: Lab 11
-
 ## Lab 11: Trees and Fractals Using Recursion {#lab11}
+
 **Required**
 
 * Please show me your “crazy-tree” block.
@@ -237,14 +234,13 @@ To get checked off, you should prepare answers to the specific questions for eac
 * What defines a recursive block? What are the two necessary “cases” that a recursive block must consider? Name and define them.
 * Please show me your “snowflake” block.
 
-
 **More Self-Check Questions**
 
 * Please shoe me your "C-Curve" block.
 
 ---
 
-# Week 9: Lab 12
+# Week 8: Lab 12
 
 ## Lab 12: Recursive Reporters {#lab12}
 
@@ -261,21 +257,11 @@ To get checked off, you should prepare answers to the specific questions for eac
 * Why might we want to write a function recursively instead of iteratively or using a HOF?
 * How might we be able to use recursive reporters to improve runtime?
 
-------
-
-# Week 10: Lab 13
-
-## Lab 13: Finch Lab {#lab13}
-
-**Required**
-
-You can get checked off for this lab as long as you show up to lab and work on it. No questions!
-
 ---
 
-# Week 11: Labs 14 and 15
+# Week 9: Lab 13
 
-## Lab 14: Functions as Data and HOFs {#lab14}
+## Functions as Data and HOFs {#lab13}
 
 **Required**
 
@@ -290,6 +276,24 @@ You can get checked off for this lab as long as you show up to lab and work on i
 
 * How can we store functions as variables or lists? When might it be useful to have a list containing functions?
 * What is the domain and range of the `compose` block? How would you construct the `compose-from-list` block?
+
+------
+
+# Week 10: Lab 14
+
+## Lab 14: Finch Lab {#lab14}
+
+**Required**
+
+You can get checked off for this lab as long as you show up to lab and work on it. No questions!
+
+---
+
+# Week 11: Spring Break
+
+---
+
+# Week 12: Labs 15 and 16
 
 ## Lab 15: Besides Blocks: Welcome to Python {#lab15}
 
@@ -307,9 +311,6 @@ You can get checked off for this lab as long as you show up to lab and work on i
 * What is the difference between the "=", "!=", and "==" python commands?
 * What is the domain and range for the "+" function in python?
 
-------
-
-# Week 12: Labs 16 and 17
 
 ## Lab 16: Besides Blocks: Data Structures in Python {#lab16}
 
@@ -326,6 +327,10 @@ You can get checked off for this lab as long as you show up to lab and work on i
 * How do you make a dictionary, enter a dictionary, and check what is inside your current dictionary?
 * How do you define a function in python?
 
+---
+
+# Week 13: Lab 17
+
 ## Lab 17: Besides Blocks: Text Processing in Python {#lab17}
 
 **Required**
@@ -333,8 +338,8 @@ You can get checked off for this lab as long as you show up to lab and work on i
 * What are the arguments of the `open` function and what does it return?
 * Show us your `izzle` function.
 * How do we choose how something is sorted when using the `sorted` function in Python?
-* Show us your `top_n_words` and `print_top_n_words` functions. 
-* Show us your `apply_language_game` function. 
+* Show us your `top_n_words` and `print_top_n_words` functions.
+* Show us your `apply_language_game` function.
 
 **More Self-Check Questions**
 
@@ -343,16 +348,16 @@ You can get checked off for this lab as long as you show up to lab and work on i
 
 ------
 
-# Week 13: Lab 18 
+# Week 14: Lab 18
 
 ## Lab 18: Besides Blocks: Data and Python {#lab18}
 
 **Required**
 
 * What are some important commands that you can use to keep only certain rows in a table?
-* Describe the three main steps of working with data as per this lab. 
-* What commands did you use to find the price of the most expensive listing in San Francisco? 
-* Show us your scatter plot? What are some things you notice from this plot? 
+* Describe the three main steps of working with data as per this lab.
+* What commands did you use to find the price of the most expensive listing in San Francisco?
+* Show us your scatter plot? What are some things you notice from this plot?
 
 ------
 
