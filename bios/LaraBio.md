@@ -24,4 +24,4 @@ In Taiwan a monkey once slapped my leg so hard it gave me a bruise.
 
 ## WHAT COMMITMENTS WILL BE CONSUMING YOUR CYCLES THIS SEMESTER?
 
-I am taking CS169 (Software Engineering), Info 159 (Natural Language Processing) and Info C167 (Social Media and Virtual Communication). In addition to my course load I will be interning as a Speech Analyst at SRI International. I will also be travelling to 3 different conferences this semester: EMNLP, Richard Tapia Diversity in Computing, and Grace Hopper Women in Computing.
+I am taking CS 164 (Compilers and Programming Languages), Ling 243 (Language, Computation, and Cognition) and Ling 109 (Bilingualism), and EE16A (Designing Information Devices and Systems).
