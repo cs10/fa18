@@ -56,7 +56,7 @@ var christianL = {
 };
 
 var julieH = {
-    name: 'Reader Julie Han',
+    name: 'TA Julie Han',
     imgSrc: '../Fa17/JulieHan.jpg',
     img: 'Julie Han.jpg',
     bio: 'JulieBio'
@@ -71,7 +71,7 @@ var matthewS = {
 };
 
 var niketK = {
-    name: 'Reader Niket Kulkarni',
+    name: 'TA Niket Kulkarni',
     imgSrc: '../Fa17/NiketKulkarni.jpg',
     img: 'NPY.jpg.jpg',
     bio: 'NiketBio'
