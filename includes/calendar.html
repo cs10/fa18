@@ -109,7 +109,7 @@
             {% if l.link == null %}
             {{ l.title }}
             {% else %}
-            <a href="l.link"> {{ l.title }}</a>
+            <a href="{{ l.link }}"> {{ l.title }}</a>
             {% endif %}
           {% endfor %}
           <br>
