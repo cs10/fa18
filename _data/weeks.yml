@@ -39,10 +39,10 @@
       link: https://www.youtube.com/watch?v=dU1xS07N-FA
     - title: Is Abstraction the Key to Computing?
       required: false
-      link: #TODO: Fill in when bCourses is made
+      link: https://bcourses.berkeley.edu/courses/1469192/files/folder/Readings?preview=72405623
     - title: Scratch&#58; Programming for All
       required: false
-      link: #TODO: Fill in when bCourses is made
+      link: https://bcourses.berkeley.edu/courses/1469192/files/folder/Readings?preview=72405621
   lect1:
     title: Building Blocks
     link: null
