@@ -9,7 +9,7 @@
   lab1: null
   lect2:
     title: Welcome and Abstraction
-    link: null
+    link: https://drive.google.com/file/d/17LDixepFelsmjH8UI_SrK20wuN4b4xaN/view?usp=sharing
   lab2:
     title: 1. Welcome to Netsblox!
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/1-introduction-netsblox.topic&course=cs10_fa17.html&novideo&noreading&noassignment
@@ -45,7 +45,7 @@
       link: https://bcourses.berkeley.edu/courses/1469192/files/folder/Readings?preview=72405621
   lect1:
     title: Building Blocks
-    link: null
+    link: https://drive.google.com/drive/folders/1fUi4ob8Cscrid9RRF47cz0X2vkUwIphF?usp=sharing
   lab1:
     title: 2. Build Your Own Blocks
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables-netsblox.topic&course=cs10_fa17.html&novideo&noreading&noassignment
@@ -73,7 +73,7 @@
   readings:
     - title: What is an Algorithm?
       required: true
-      link: #TODO:Add link when bCourses is made
+      link: https://bcourses.berkeley.edu/courses/1469192/files/folder/Readings?preview=72405620
     - title: How Algorithms Shape Our World
       required: true
       link: https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world
