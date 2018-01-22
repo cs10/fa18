@@ -170,6 +170,7 @@
     solutions: null
     demo: null
   notes:
+    - title: HW2 due 2/16
     - title: HW3 due 3/2
 
 #######################################################
@@ -375,6 +376,7 @@
     - title: Reading Quiz 8- Second lab of the week
     - title: Explore Post due 4/7
     - title: Final Project Proposal due 4/7
+    - title: Explore Post Comments due 4/11
 
 #######################################################
 ###################### WEEK 13 #########################
@@ -411,6 +413,7 @@
     demo: null
   notes:
     - title: Reading Quiz 9- First lab of the week
+    - title: Explore Post Comments due 4/11
     - title: Final Project due 4/27
 
 #######################################################
