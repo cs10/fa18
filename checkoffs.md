@@ -93,7 +93,7 @@ To get checked off, you should prepare answers to the specific questions for eac
 * Show us the `traffic signal _`, `letter grade _`, and `state of water _` blocks.
 * Explain the difference between a **command** and a **reporter** block.
 * Show us the `is _ between _ and _ ?` block.
-* Show us your number guessing game.
+* What does [this mystery reporter](http://beautyjoy.github.io/bjc-r/cur/programming/functions/mystery-reporter-netsblox.html?topic=berkeley_bjc%2Fintro_pair%2F3-conditionals-netsblox.topic&course=cs10_sp18.html&novideo&noreading&noassignment) report when run with the inputs "hello" and 5.
 
 **More Self-Check Questions**
 
