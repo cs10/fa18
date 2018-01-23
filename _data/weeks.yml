@@ -63,6 +63,11 @@
   notes:
     - title: Reading Quiz 1- First lab of the week
     - title: HW1 due 2/2
+      links:
+        - title: (spec)
+          link: http://cs10.org/sp18/assign.html?https://docs.google.com/document/d/e/2PACX-1vTbSr5zTW0BRNjWSFQn1ia_OnAm5-Vi3rzMZ21ifOPC9LJX0C5w8bWKcqq6gg95TIXQSvmyRUYRm2fX/pub
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1469192/assignments/7860173
 
 #######################################################
 ###################### WEEK 3 #########################
@@ -109,6 +114,11 @@
   notes:
     - title: Reading Quiz 2- First lab of the week
     - title: HW1 due 2/2
+      links:
+        - title: (spec)
+          link: http://cs10.org/sp18/assign.html?https://docs.google.com/document/d/e/2PACX-1vTbSr5zTW0BRNjWSFQn1ia_OnAm5-Vi3rzMZ21ifOPC9LJX0C5w8bWKcqq6gg95TIXQSvmyRUYRm2fX/pub
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1469192/assignments/7860173
     - title: HW2 due 2/16
 
 #######################################################
