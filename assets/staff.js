@@ -120,11 +120,78 @@ var vardaS = {
     imgSrc: '../Sp17/las/VardaShrivastava.jpg',
     img: 'VardaShrivastava.jpg',
     bio: 'VardaBio'
-};
+}; 
 
  // Lab Assistants
+var aaronBaker = {
+    name: 'LA Aaron Baker',
+    imgSrc: '../Sp18/las/AaronBaker.jpg',
+    imgCrazy: '../Sp18/las/AaronBakerCrazy.jpg',
+    img: 'AaronBaker.jpg'
+};
 
+var avikSethia = {
+    name: 'LA Avik Sethia',
+    imgSrc: '../Sp18/las/AvikSethia.jpg',
+    imgCrazy: '../Sp18/las/AvikSethiaCrazy.jpg',
+    img: 'AvikSethia.jpg'
+};
 
+var deveshAgarwal = {
+    name: 'LA Devesh Agarwal',
+    imgSrc: '../Sp18/las/DeveshAgarwal.jpg',
+    imgCrazy: '../Sp18/las/DeveshAgarwalCrazy.jpg',
+    img: 'DeveshAgarwal.jpg'
+};
+
+var kathleenGao = {
+    name: 'LA Kathleen Gao',
+    imgSrc: '../Sp18/las/KathleenGao.jpg',
+    imgCrazy: '../Sp18/las/KathleenGaoCrazy.jpg',
+    img: 'KathleenGao.jpg'
+};
+
+var kevinYu = {
+    name: 'LA Kevin Yu',
+    imgSrc: '../Sp18/las/KevinYu.jpg',
+    imgCrazy: '../Sp18/las/KevinYuCrazy.jpg',
+    img: 'KevinYu.jpg'
+};
+
+var lillianOhara = {
+    name: 'LA Lillian Ohara',
+    imgSrc: '../Sp18/las/LillianOhara.jpg',
+    imgCrazy: '../Sp18/las/LillianOharaCrazy.jpg',
+    img: 'LillianOhara.jpg'
+};
+
+var murtazaAli = {
+    name: 'LA Murtaza Ali',
+    imgSrc: '../Sp18/las/MurtazaAli.jpg',
+    imgCrazy: '../Sp18/las/LillianOharaCrazy.jpg',
+    img: 'LillianOhara.jpg'
+};
+
+var nathanaelShin = {
+    name: 'LA Nathanael Shin',
+    imgSrc: '../Sp18/las/NathanaelShin.jpg',
+    imgCrazy: '../Sp18/las/NathanaelShinCrazy.jpg',
+    img: 'NathanaelShin.jpg'
+};
+
+var shannonHearn = {
+    name: 'LA Shannon Hearn',
+    imgSrc: '../Sp18/las/ShannonHearn.jpg',
+    imgCrazy: '../Sp18/las/ShannonHearnCrazy.jpg',
+    img: 'ShannonHearn.jpg'
+};
+
+var stevenTong = {
+    name: 'LA Steven Tong',
+    imgSrc: '../Sp18/las/StevenTong.jpg',
+    imgCrazy: '../Sp18/las/StevenTongCrazy.jpg',
+    img: 'StevenTong.jpg'
+};
 /*****************************************************************************/
 /** LIST DEFINITIONS **/
 /*****************************************************************************/
@@ -133,7 +200,8 @@ var inst = [ DanGarcia ];
 var tas = [ laraM, mansiS, addisonH, angelaW, christianL, julieH,
             niketK, matthewS, samuelS, schuylerR ];
 var readers = [ arvindN, bhumikaG, brendanH, vardaS ];
-var las = [ ];
+var las = [ aaronBaker, avikSethia, deveshAgarwal, kathleenGao, kevinYu, lillianOhara, murtazaAli,
+            nathanaelShin,  shannonHearn, stevenTong];
 
 // If you need to add a new SECTION add it to this object.
 // Follow the same formt.
