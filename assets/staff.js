@@ -186,7 +186,7 @@ var mattRonnau = {
 var murtazaAli = {
     name: 'LA Murtaza Ali',
     imgSrc: '../Sp18/las/MurtazaAli.jpg',
-    imgCrazy: '../Sp18/las/LillianOharaCrazy.jpg',
+    imgCrazy: '../Sp18/las/MurtazaAliCrazy.jpg',
     img: 'MurtazaAli.jpg'
 };
 
