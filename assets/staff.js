@@ -120,7 +120,7 @@ var vardaS = {
     imgSrc: '../Sp17/las/VardaShrivastava.jpg',
     img: 'VardaShrivastava.jpg',
     bio: 'VardaBio'
-}; 
+};
 
  // Lab Assistants
 var aaronBaker = {
@@ -137,11 +137,23 @@ var avikSethia = {
     img: 'AvikSethia.jpg'
 };
 
+var batoolNaqvi = {
+    name: 'LA Batoon Naqvi',
+    imgSrc: '../Sp17/las/BatoolNaqvi.jpg',
+    img: 'BatoolNaqvi.jpg'
+};
+
 var deveshAgarwal = {
     name: 'LA Devesh Agarwal',
     imgSrc: '../Sp18/las/DeveshAgarwal.jpg',
     imgCrazy: '../Sp18/las/DeveshAgarwalCrazy.jpg',
     img: 'DeveshAgarwal.jpg'
+};
+
+var grantKehn = {
+    name: 'LA Grant Kehn',
+    imgSrc: '../Fa17/LAs/GrantKehn.jpg',
+    img: 'GrantKehn.jpg'
 };
 
 var kathleenGao = {
@@ -165,11 +177,17 @@ var lillianOhara = {
     img: 'LillianOhara.jpg'
 };
 
+var mattRonnau = {
+    name: 'LA Matt Ronnau',
+    imgSrc: '../Fa17/LAs/MattRonnau.jpg',
+    img: 'MattRonnau.jpg'
+};
+
 var murtazaAli = {
     name: 'LA Murtaza Ali',
     imgSrc: '../Sp18/las/MurtazaAli.jpg',
     imgCrazy: '../Sp18/las/LillianOharaCrazy.jpg',
-    img: 'LillianOhara.jpg'
+    img: 'MurtazaAli.jpg'
 };
 
 var nathanaelShin = {
@@ -177,6 +195,12 @@ var nathanaelShin = {
     imgSrc: '../Sp18/las/NathanaelShin.jpg',
     imgCrazy: '../Sp18/las/NathanaelShinCrazy.jpg',
     img: 'NathanaelShin.jpg'
+};
+
+var nikiZarkub = {
+    name: 'LA Niki Zarkub',
+    imgSrc: '../Fa17/LAs/NikiZarkub.jpg',
+    img: 'NikiZarkub.jpg'
 };
 
 var shannonHearn = {
@@ -200,8 +224,8 @@ var inst = [ DanGarcia ];
 var tas = [ laraM, mansiS, addisonH, angelaW, christianL, julieH,
             niketK, matthewS, samuelS, schuylerR ];
 var readers = [ arvindN, bhumikaG, brendanH, vardaS ];
-var las = [ aaronBaker, avikSethia, deveshAgarwal, kathleenGao, kevinYu, lillianOhara, murtazaAli,
-            nathanaelShin,  shannonHearn, stevenTong];
+var las = [ aaronBaker, avikSethia, batoolNaqvi, deveshAgarwal, grantKehn, kathleenGao, kevinYu, lillianOhara,
+            mattRonnau, murtazaAli, nathanaelShin, nikiZarkub, shannonHearn, stevenTong];
 
 // If you need to add a new SECTION add it to this object.
 // Follow the same formt.
