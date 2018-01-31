@@ -404,6 +404,18 @@ var patriciaYu = {
   imgSrc: 'NPY3D.jpg'
 };
 
+var qimingWu = {
+  name: 'LA QiMing Wu',
+  img: 'NPY3D.jpg',
+  imgSrc: 'NPY3D.jpg'
+};
+
+var rafaelF = {
+    name: 'LA Rafael Felix',
+    imgSrc: '../Sp17/las/RafaelFelix.jpg',
+    img: 'MattRonnau.jpg'
+};
+
 var ruqiaMohammad = {
   name: 'LA Ruqia Mohammad',
   img: 'NPY3D.jpg',
@@ -445,13 +457,12 @@ var tas = [ laraM, mansiS, addisonH, angelaW, christianL, julieH,
             niketK, matthewS, samuelS, schuylerR ];
 var readers = [ arvindN, bhumikaG, brendanH, vardaS ];
 
-var las = [ aarishIrfan, aaronBaker, abbyC, alyssaLo, alyssaSugarman, austinChang,avikSethia, 
+var las = [ aarishIrfan, aaronBaker, abbyC, alyssaLo, alyssaSugarman, austinChang, avikSethia, 
             baileyHarrison, barbaraLiao, batoolN, benChen, brianaO, bryantBettencourt, chrisTong, claireDM,
             deveshAgarwal, dustinChen, emilyKhalili, faizShamji, floraDong, grantK, isaacMerritt, jacquelineLi,
             janiceK, janiceNg, jennySong, jocelynS, jordynPinochi, kaelaSeiersen, kathleenGao, kellyannYe, 
-            kevinYu, lamPham, lillianOhara, lucyWhite, mattR, 
-            markPreston, maxsonY, murtazaAli, nathanaelShin, neilRabb, nikiZ, patriciaYu, ruqiaMohammad,
-            shannonHearn, sofieHerbeck, stevenTong];
+            kevinYu, lamPham, lillianOhara, lucyWhite, mattR, markPreston, maxsonY, murtazaAli, nathanaelShin, neilRabb, nikiZ, 
+            patriciaYu, qimingWu, rafaelF, ruqiaMohammad, shannonHearn, sofieHerbeck, stevenTong];
 
 // If you need to add a new SECTION add it to this object.
 // Follow the same formt.
