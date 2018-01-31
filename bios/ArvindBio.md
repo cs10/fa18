@@ -1,17 +1,17 @@
 ## WHERE DID YOU GROW UP? WHAT WAS YOUR PATH TO CAL?
-I was originally a character in an MIT program called Scratch. Someone stuck an antenna on me and now here I am.
+I grew up everywhere (Canada, Australia, Singapore, U.A.E, United States). I'm pretty international, but not actually international.
 
 ## HOW MUCH PROGRAMMING HAVE YOU DONE (& WHAT LANGUAGES)?
-Snap! I'm all over the website!
+I can program in Python, Java, C, HTML & Friends, and most important Snap!
 
 ## WHAT ARE YOUR HOBBIES?
 CS10. 
 
 ## WHAT ARE SOME OF YOUR TALENTS & SKILLS?
-I'm pretty good at floating. Being sassy.
+Sometime i paint my nails with cool designs.
 
 ## HAVE YOU DONE ANYTHING REMARKABLE? HAS ANYTHING MEMORABLE HAPPENED TO YOU?
-Becoming CS10's mascot was pretty sweet.
+No. I'm pretty boring. Don't be like me. Fill your life with meaning and fun :)
 
 ## WHAT COMMITMENTS WILL BE CONSUMING YOUR CYCLES THIS SEMESTER?
-Filling up this space because this reader has not filled out their bio yet.
+Classes, CS 10, Netflix (I don't actually have netflix). 
