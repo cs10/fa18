@@ -121,7 +121,7 @@ var vardaS = {
     imgSrc: '../Sp17/las/VardaShrivastava.jpg',
     img: 'VardaShrivastava.jpg',
     bio: 'VardaBio'
-}; 
+};
 
  // Lab Assistants
 
@@ -374,8 +374,8 @@ var maxsonY = {
 var murtazaAli = {
     name: 'LA Murtaza Ali',
     imgSrc: '../Sp18/las/MurtazaAli.jpg',
-    imgCrazy: '../Sp18/las/LillianOharaCrazy.jpg',
-    img: 'LillianOhara.jpg'
+    imgCrazy: '../Sp18/las/MurtazaAliCrazy.jpg',
+    img: 'MurtazaAli.jpg'
 };
 
 var neilRabb = {
@@ -444,6 +444,7 @@ var inst = [ DanGarcia ];
 var tas = [ laraM, mansiS, addisonH, angelaW, christianL, julieH,
             niketK, matthewS, samuelS, schuylerR ];
 var readers = [ arvindN, bhumikaG, brendanH, vardaS ];
+
 var las = [ aarishIrfan, aaronBaker, abbyC, alyssaLo, alyssaSugarman, austinChang,avikSethia, 
             baileyHarrison, barbaraLiao, batoolN, benChen, brianaO, bryantBettencourt, chrisTong, claireDM,
             deveshAgarwal, dustinChen, emilyKhalili, faizShamji, floraDong, grantK, isaacMerritt, jacquelineLi,
