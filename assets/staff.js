@@ -130,6 +130,12 @@ var brianaO = {
     img: 'BrianaOng.jpg',
 };
 
+var grantK = {
+    name: 'Reader Grant Kehn',
+    imgSrc: '../Fa17/LAs/GrantKehn.jpg',
+    img: 'GrantKehn.jpg',
+};
+
 var nikiZ = {
     name: 'Reader Niki Zarkub',
     imgSrc: '../Sp18/las/NikiZarkub.jpg',
@@ -262,12 +268,6 @@ var floraDong = {
   imgSrc: '../Sp18/las/FloraDong.jpg',
   imgCrazy: '../Sp18/las/FloraDongCrazy.jpg',
   img: 'FloraDong.jpg'
-};
-
-var grantK = {
-    name: 'LA Grant Kehn',
-    imgSrc: '../Fa17/LAs/GrantKehn.jpg',
-    img: 'GrantKehn.jpg',
 };
 
 var isaacMerritt = {
@@ -450,11 +450,12 @@ var yifeiZheng = {
 var inst = [ DanGarcia ];
 var tas = [ laraM, mansiS, addisonH, angelaW, bhumikaG, christianL, julieH,
             niketK, matthewS, samuelS, schuylerR, vardaS];
-var readers = [ arvindN, brendanH, brianaO, nikiZ, rafaelF];
+
+var readers = [ arvindN, brendanH, brianaO, grantK, nikiZ, rafaelF];
 
 var las = [ aarishIrfan, aaronBaker, abbyC, alyssaLo, alyssaSugarman, austinChang, avikSethia,
             baileyHarrison, barbaraLiao, batoolN, benChen, bryantBettencourt, chrisTong, claireDM,
-            deveshAgarwal, dustinChen, emilyKhalili, faizShamji, floraDong, grantK, isaacMerritt, jacquelineLi,
+            deveshAgarwal, dustinChen, emilyKhalili, faizShamji, floraDong, isaacMerritt, jacquelineLi,
             janiceK, janiceNg, jennySong, jocelynS, jordynPinochi, kaelaSeiersen, kathleenGao, kellyannYe,
             kevinYu, lamPham, lillianOhara, lucyWhite, mattR, markPreston, maxsonY, murtazaAli, nathanaelShin, neilRabb,
             patriciaYu, qimingWu, ruqiaMohammad, shannonHearn, sofieHerbeck, stevenTong];
@@ -586,6 +587,6 @@ function normalImage(image, normalPath) {
 /* more code to run on page load */
 // Parameters: a section (HTML 'id') and num of images per row.
 buildGroup('inst', 5);
-buildGroup('tas', 4);
-buildGroup('readers', 5);
+buildGroup('tas', 6);
+buildGroup('readers', 6);
 buildGroup('las', 6);
