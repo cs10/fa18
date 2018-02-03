@@ -59,7 +59,8 @@ var julieH = {
     name: 'TA Julie Han',
     imgSrc: '../Fa17/JulieHan.jpg',
     img: 'Julie Han.jpg',
-    bio: 'JulieBio'
+    bio: 'JulieBio',
+    email: 'julie@cs10.org'
 };
 
 var matthewS = {
@@ -453,16 +454,16 @@ var yifeiZheng = {
 /*****************************************************************************/
 
 var inst = [ DanGarcia ];
-var tas = [ laraM, mansiS, addisonH, angelaW, christianL, julieH,
-            niketK, matthewS, samuelS, schuylerR ];
-var readers = [ arvindN, bhumikaG, brendanH, vardaS ];
+var tas = [ laraM, mansiS, addisonH, angelaW, bhumikaG, christianL, julieH,
+            niketK, matthewS, samuelS, schuylerR, vardaS];
+var readers = [ arvindN, brendanH, brianaO, nikiZ, rafaelF];
 
 var las = [ aarishIrfan, aaronBaker, abbyC, alyssaLo, alyssaSugarman, austinChang, avikSethia, 
-            baileyHarrison, barbaraLiao, batoolN, benChen, brianaO, bryantBettencourt, chrisTong, claireDM,
+            baileyHarrison, barbaraLiao, batoolN, benChen, bryantBettencourt, chrisTong, claireDM,
             deveshAgarwal, dustinChen, emilyKhalili, faizShamji, floraDong, grantK, isaacMerritt, jacquelineLi,
             janiceK, janiceNg, jennySong, jocelynS, jordynPinochi, kaelaSeiersen, kathleenGao, kellyannYe, 
-            kevinYu, lamPham, lillianOhara, lucyWhite, mattR, markPreston, maxsonY, murtazaAli, nathanaelShin, neilRabb, nikiZ, 
-            patriciaYu, qimingWu, rafaelF, ruqiaMohammad, shannonHearn, sofieHerbeck, stevenTong];
+            kevinYu, lamPham, lillianOhara, lucyWhite, mattR, markPreston, maxsonY, murtazaAli, nathanaelShin, neilRabb, 
+            patriciaYu, qimingWu, ruqiaMohammad, shannonHearn, sofieHerbeck, stevenTong];
 
 // If you need to add a new SECTION add it to this object.
 // Follow the same formt.
@@ -591,6 +592,6 @@ function normalImage(image, normalPath) {
 /* more code to run on page load */
 // Parameters: a section (HTML 'id') and num of images per row.
 buildGroup('inst', 5);
-buildGroup('tas', 5);
+buildGroup('tas', 4);
 buildGroup('readers', 5);
-buildGroup('las', 5);
+buildGroup('las', 6);
