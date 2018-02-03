@@ -450,7 +450,6 @@ var yifeiZheng = {
 var inst = [ DanGarcia ];
 var tas = [ laraM, mansiS, addisonH, angelaW, bhumikaG, christianL, julieH,
             niketK, matthewS, samuelS, schuylerR, vardaS];
-
 var readers = [ arvindN, brendanH, brianaO, grantK, nikiZ, rafaelF];
 
 var las = [ aarishIrfan, aaronBaker, abbyC, alyssaLo, alyssaSugarman, austinChang, avikSethia,
