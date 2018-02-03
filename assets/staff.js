@@ -47,6 +47,13 @@ var angelaW = {
     bio: 'AngelaBio'
 };
 
+var bhumikaG = {
+    name: 'TA Bhumika Goel',
+    imgSrc: '../Su17/BhumikaGoel.jpg',
+    img: 'BhumikaGoel.jpg',
+    bio: 'BhumikaBio'
+};
+
 var christianL = {
     name: 'TA Christian Lista-Nicoloso',
     img: 'Christian Lista-Nicoloso.JPG',
@@ -94,6 +101,13 @@ var schuylerR = {
     bio: 'SchuylerBio'
 };
 
+var vardaS = {
+    name: 'TA Varda Shrivastava',
+    imgSrc: '../Sp17/las/VardaShrivastava.jpg',
+    img: 'VardaShrivastava.jpg',
+    bio: 'VardaBio'
+};
+
 // Readers
 
 var arvindN = {
@@ -104,24 +118,29 @@ var arvindN = {
     bio: 'ArvindBio'
 };
 
-var bhumikaG = {
-    name: 'Reader Bhumika Goel',
-    imgSrc: '../Su17/BhumikaGoel.jpg',
-    img: 'BhumikaGoel.jpg',
-    bio: 'BhumikaBio'
-};
-
 var brendanH = {
     name: 'Reader Brendan Henrique',
     imgSrc: '../Fa17/LAs/BrendanHenrique.jpg',
     img: 'BrendanHenrique.jpg'
 };
 
-var vardaS = {
-    name: 'Reader Varda Shrivastava',
-    imgSrc: '../Sp17/las/VardaShrivastava.jpg',
-    img: 'VardaShrivastava.jpg',
-    bio: 'VardaBio'
+var brianaO = {
+    name: 'Reader Briana Ong',
+    imgSrc: '../Fa17/LAs/BrianaOng.jpg',
+    img: 'BrianaOng.jpg',
+};
+
+var nikiZ = {
+    name: 'Reader Niki Zarkub',
+    imgSrc: '../Sp18/las/NikiZarkub.jpg',
+    imgCrazy: '../Sp18/las/NikiZarkubCrazy.jpg',
+    img: 'NikiZarkub.jpg'
+};
+
+var rafaelF = {
+    name: 'Reader Rafael Felix',
+    imgSrc: '../Sp17/las/RafaelFelix.jpg',
+    img: 'MattRonnau.jpg'
 };
 
  // Lab Assistants
@@ -195,12 +214,6 @@ var benChen = {
   imgSrc: 'NPY3D.jpg'
 };
 
-var brianaO = {
-    name: 'LA Briana Ong',
-    imgSrc: '../Fa17/LAs/BrianaOng.jpg',
-    img: 'BrianaOng.jpg',
-};
-
 var bryantBettencourt = {
   name: 'LA Bryant Bettencourt',
   img: 'NPY3D.jpg',
@@ -224,12 +237,6 @@ var deveshAgarwal = {
     imgSrc: '../Sp18/las/DeveshAgarwal.jpg',
     imgCrazy: '../Sp18/las/DeveshAgarwalCrazy.jpg',
     img: 'DeveshAgarwal.jpg'
-};
-
-var dustinChen = {
-  name: 'LA Dustin Chen',
-  img: 'NPY3D.jpg',
-  imgSrc: 'NPY3D.jpg'
 };
 
 var dustinChen = {
@@ -392,13 +399,6 @@ var nathanaelShin = {
     img: 'NathanaelShin.jpg'
 };
 
-var nikiZ = {
-    name: 'LA Niki Zarkub',
-    imgSrc: '../Sp18/las/NikiZarkub.jpg',
-    imgCrazy: '../Sp18/las/NikiZarkubCrazy.jpg',
-    img: 'NikiZarkub.jpg'
-};
-
 var patriciaYu = {
   name: 'LA Patricia Yu',
   img: 'NPY3D.jpg',
@@ -409,12 +409,6 @@ var qimingWu = {
   name: 'LA QiMing Wu',
   img: 'NPY3D.jpg',
   imgSrc: 'NPY3D.jpg'
-};
-
-var rafaelF = {
-    name: 'LA Rafael Felix',
-    imgSrc: '../Sp17/las/RafaelFelix.jpg',
-    img: 'MattRonnau.jpg'
 };
 
 var ruqiaMohammad = {
@@ -458,11 +452,11 @@ var tas = [ laraM, mansiS, addisonH, angelaW, bhumikaG, christianL, julieH,
             niketK, matthewS, samuelS, schuylerR, vardaS];
 var readers = [ arvindN, brendanH, brianaO, nikiZ, rafaelF];
 
-var las = [ aarishIrfan, aaronBaker, abbyC, alyssaLo, alyssaSugarman, austinChang, avikSethia, 
+var las = [ aarishIrfan, aaronBaker, abbyC, alyssaLo, alyssaSugarman, austinChang, avikSethia,
             baileyHarrison, barbaraLiao, batoolN, benChen, bryantBettencourt, chrisTong, claireDM,
             deveshAgarwal, dustinChen, emilyKhalili, faizShamji, floraDong, grantK, isaacMerritt, jacquelineLi,
-            janiceK, janiceNg, jennySong, jocelynS, jordynPinochi, kaelaSeiersen, kathleenGao, kellyannYe, 
-            kevinYu, lamPham, lillianOhara, lucyWhite, mattR, markPreston, maxsonY, murtazaAli, nathanaelShin, neilRabb, 
+            janiceK, janiceNg, jennySong, jocelynS, jordynPinochi, kaelaSeiersen, kathleenGao, kellyannYe,
+            kevinYu, lamPham, lillianOhara, lucyWhite, mattR, markPreston, maxsonY, murtazaAli, nathanaelShin, neilRabb,
             patriciaYu, qimingWu, ruqiaMohammad, shannonHearn, sofieHerbeck, stevenTong];
 
 // If you need to add a new SECTION add it to this object.
