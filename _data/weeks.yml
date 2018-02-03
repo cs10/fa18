@@ -108,8 +108,8 @@
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=cs10_fa17.html&novideo&noreading&noassignment
   disc:
     title: All About Lists
-    link: null
-    solutions: null
+    link: http://cs10.org/sp18/discussion/03/Disc03.pdf
+    solutions: http://cs10.org/sp18/discussion/03/Disc03Sol.pdf
     demo: null
   notes:
     - title: Reading Quiz 2- First lab of the week
