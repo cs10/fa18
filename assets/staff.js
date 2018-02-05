@@ -138,15 +138,16 @@ var grantK = {
 
 var nikiZ = {
     name: 'Reader Niki Zarkub',
-    imgSrc: '../Sp18/las/NikiZarkub.jpg',
-    imgCrazy: '../Sp18/las/NikiZarkubCrazy.jpg',
-    img: 'NikiZarkub.jpg'
+    imgSrc: '../Fa17/LAs/NikiZarkub.jpg',
+    imgCrazy: '../Fa17/las/NikiZarkubCrazy.jpg',
+    img: 'NikiZarkub.jpg',
+    bio: 'NikiBio'
 };
 
 var rafaelF = {
     name: 'Reader Rafael Felix',
     imgSrc: '../Sp17/las/RafaelFelix.jpg',
-    img: 'MattRonnau.jpg'
+    img: 'RafaelFelix.jpg'
 };
 
  // Lab Assistants
