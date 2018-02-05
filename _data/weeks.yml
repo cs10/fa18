@@ -120,6 +120,11 @@
         - title: (submit)
           link: https://bcourses.berkeley.edu/courses/1469192/assignments/7860173
     - title: HW2 due 2/16
+      links:
+        - title: (spec)
+          link: http://cs10.org/sp18/assign.html?https://docs.google.com/document/d/e/2PACX-1vRwQti-a5OUm_BFJDfo3cL6eiGQ2GkOitzVcuB6fsxN-vEzF8oF58_9xj20VCvXd1KZ0B3VqZj5L_mH/pub
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1469192/assignments/7860174
 
 #######################################################
 ###################### WEEK 4 #########################
@@ -154,6 +159,11 @@
   notes:
     - title: Reading Quiz 3- First lab of the week
     - title: HW2 due 2/16
+      links:
+        - title: (spec)
+          link: http://cs10.org/sp18/assign.html?https://docs.google.com/document/d/e/2PACX-1vRwQti-a5OUm_BFJDfo3cL6eiGQ2GkOitzVcuB6fsxN-vEzF8oF58_9xj20VCvXd1KZ0B3VqZj5L_mH/pub
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1469192/assignments/7860174
 
 #######################################################
 ###################### WEEK 5 #########################
@@ -181,6 +191,11 @@
     demo: null
   notes:
     - title: HW2 due 2/16
+      links:
+        - title: (spec)
+          link: http://cs10.org/sp18/assign.html?https://docs.google.com/document/d/e/2PACX-1vRwQti-a5OUm_BFJDfo3cL6eiGQ2GkOitzVcuB6fsxN-vEzF8oF58_9xj20VCvXd1KZ0B3VqZj5L_mH/pub
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1469192/assignments/7860174
     - title: HW3 due 3/2
 
 #######################################################
