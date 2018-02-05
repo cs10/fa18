@@ -130,6 +130,12 @@ var brianaO = {
     img: 'BrianaOng.jpg',
 };
 
+var grantK = {
+    name: 'Reader Grant Kehn',
+    imgSrc: '../Fa17/LAs/GrantKehn.jpg',
+    img: 'GrantKehn.jpg',
+};
+
 var nikiZ = {
     name: 'Reader Niki Zarkub',
     imgSrc: '../Fa17/LAs/NikiZarkub.jpg',
@@ -263,12 +269,6 @@ var floraDong = {
   imgSrc: '../Sp18/las/FloraDong.jpg',
   imgCrazy: '../Sp18/las/FloraDongCrazy.jpg',
   img: 'FloraDong.jpg'
-};
-
-var grantK = {
-    name: 'LA Grant Kehn',
-    imgSrc: '../Fa17/LAs/GrantKehn.jpg',
-    img: 'GrantKehn.jpg',
 };
 
 var isaacMerritt = {
