@@ -186,8 +186,9 @@ var alyssaSugarman = {
 
 var austinChang = {
     name: 'LA Austin Chang',
-    img: 'NPY3D.jpg',
-  imgSrc: 'NPY3D.jpg'
+    imgSrc: '../Sp18/las/AustinChang.jpg',
+    imgCrazy: '../Sp18/las/AustinChangCrazy.jpg',
+    img: 'AustinChang.jpg',
 };
 
 var avikSethia = {
@@ -223,8 +224,9 @@ var benChen = {
 
 var bryantBettencourt = {
   name: 'LA Bryant Bettencourt',
-  img: 'NPY3D.jpg',
-  imgSrc: 'NPY3D.jpg'
+  imgSrc: '../Sp18/las/BryantBettencourt.jpg',
+    imgCrazy: '../Sp18/las/BryantBettencourtCrazy.jpg',
+    img: 'BryantBettencourt.jpg'
 };
 
 var chrisTong = {
@@ -235,8 +237,9 @@ var chrisTong = {
 
 var claireDM = {
   name: 'LA Claire Dominique Medina',
-  img: 'NPY3D.jpg',
-  imgSrc: 'NPY3D.jpg'
+  imgSrc: '../Sp18/las/ClaireMedina.jpg',
+    imgCrazy: '../Sp18/las/ClaireMedinaCrazy.jpg',
+    img: 'ClaireMedina.jpg'
 };
 
 var deveshAgarwal = {
@@ -250,6 +253,13 @@ var dustinChen = {
   name: 'LA Dustin Chen',
   img: 'NPY3D.jpg',
   imgSrc: 'NPY3D.jpg'
+};
+
+var edwardChoi = {
+    name: 'LA Edward Choi',
+    imgSrc: '../Sp18/las/EdwardChoi.jpg',
+    imgCrazy: '../Sp18/las/EdwardChoiCrazy.jpg',
+    img: 'EdwardChoi.jpg'
 };
 
 var emilyKhalili = {
@@ -280,14 +290,16 @@ var isaacMerritt = {
 
 var jacquelineLi = {
   name: 'LA Jacqueline Li',
-  img: 'NPY3D.jpg',
-  imgSrc: 'NPY3D.jpg'
+  imgSrc: '../Sp18/las/JacquelineLi.jpg',
+  imgCrazy: '../Sp18/las/JacquelineLiCrazy.jpg',
+  img: 'JacquelineLi.jpg'
 };
 
 var janiceK = {
   name: 'LA Janice Kok',
-  img: 'NPY3D.jpg',
-  imgSrc: 'NPY3D.jpg'
+  imgSrc: '../Sp18/las/JaniceJeaKok.jpg',
+  imgCrazy: '../Sp18/las/JaniceJeaKokCrazy.jpg',
+  img: 'JaniceJeaKok.jpg'
 };
 
 var janiceNg = {
@@ -308,6 +320,12 @@ var jocelynS = {
     img: 'JocelynSun.jpg',
 };
 
+var johnPesanello = {
+  name: 'LA John Pesanello',
+  imgSrc: '../Sp18/las/JohnPesanello.jpg',
+  imgCrazy: '../Sp18/las/JohnPesanelloCrazy.jpg',
+  img: 'JohnPesanello.jpg'
+};
 
 var jordynPinochi = {
   name: 'LA Jordyn Pinochi',
@@ -345,8 +363,9 @@ var kevinYu = {
 
 var lamPham = {
   name: 'LA Lam Pham',
-  img: 'NPY3D.jpg',
-  imgSrc: 'NPY3D.jpg'
+  imgSrc: '../Sp18/las/LamPham.jpg',
+    imgCrazy: '../Sp18/las/LamPhamCrazy.jpg',
+    img: 'LamPham.jpg'
 };
 
 var lillianOhara = {
@@ -455,8 +474,8 @@ var readers = [ arvindN, brendanH, brianaO, grantK, nikiZ, rafaelF];
 
 var las = [ aarishIrfan, aaronBaker, abbyC, alyssaLo, alyssaSugarman, austinChang, avikSethia,
             baileyHarrison, barbaraLiao, batoolN, benChen, bryantBettencourt, chrisTong, claireDM,
-            deveshAgarwal, dustinChen, emilyKhalili, faizShamji, floraDong, isaacMerritt, jacquelineLi,
-            janiceK, janiceNg, jennySong, jocelynS, jordynPinochi, kaelaSeiersen, kathleenGao, kellyannYe,
+            deveshAgarwal, dustinChen, edwardChoi, emilyKhalili, faizShamji, floraDong, isaacMerritt, jacquelineLi,
+            janiceK, janiceNg, jennySong, jocelynS, johnPesanello, jordynPinochi, kaelaSeiersen, kathleenGao, kellyannYe,
             kevinYu, lamPham, lillianOhara, lucyWhite, mattR, markPreston, maxsonY, murtazaAli, nathanaelShin, neilRabb,
             patriciaYu, qimingWu, ruqiaMohammad, shannonHearn, sofieHerbeck, stevenTong];
 
