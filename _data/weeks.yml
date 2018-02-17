@@ -186,8 +186,8 @@
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=cs10_fa17.html&novideo&noreading&noassignment
   disc:
     title: Scoping, Mutability, and HW3 Intro
-    link: null
-    solutions: null
+    link: http://cs10.org/sp18/discussion/05/Disc05.pdf
+    solutions: http://cs10.org/sp18/discussion/05/Disc05Sol.pdf
     demo: null
   notes:
     - title: HW2 due 2/16
