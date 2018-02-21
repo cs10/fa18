@@ -128,6 +128,7 @@ var brianaO = {
     name: 'Reader Briana Ong',
     imgSrc: '../Fa17/LAs/BrianaOng.jpg',
     img: 'BrianaOng.jpg',
+    bio: 'BrianaBio'
 };
 
 var grantK = {
@@ -147,7 +148,8 @@ var nikiZ = {
 var rafaelF = {
     name: 'Reader Rafael Felix',
     imgSrc: '../Sp17/las/RafaelFelix.jpg',
-    img: 'RafaelFelix.jpg'
+    img: 'RafaelFelix.jpg',
+    bio: 'RafaelBio'
 };
 
  // Lab Assistants

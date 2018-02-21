@@ -1,17 +1,18 @@
 ## WHERE DID YOU GROW UP? WHAT WAS YOUR PATH TO CAL?
-I’m from Lodi, California (the one in that CCR song,) which is in the Central Valley, between Stockton and Sacramento. I had fantastic math teachers in high school, and a ton of support from family, which ultimately led me to Cal as a math major.
+I grew up in Lodi, California. I had some fantastic teachers in high school that happened to be Cal grads, which but Berkeley on my radar.
 
 ## HOW MUCH PROGRAMMING HAVE YOU DONE (& WHAT LANGUAGES)?
-Until my first year at Cal, computers were magic. CS10, which I took in the Spring of 2015, was my first programming experience. I have since taken 61A/B and have played around with some personal projects in Python and Java. I’m thus a big believer in the efficacy of CS10 as an intro to CS.
+I had no idea how computers work before coming to Cal. I took CS10, CS61a, CS61b, and CS170. I’ve learned Snap!, Python, Java, and Matlab.
 
 ## WHAT ARE YOUR HOBBIES?
-I started practicing Judo in Stockton, and continue to play here at Cal. I enjoy reading and listening to music. 
+I enjoy reading, cooking, playing the piano, and practicing judo.
 
 ## WHAT ARE SOME OF YOUR TALENTS & SKILLS?
 I have played the piano for 16 years or so, although not as much recently.
 
 ## HAVE YOU DONE ANYTHING REMARKABLE? HAS ANYTHING MEMORABLE HAPPENED TO YOU?
-I was fortunate enough to travel to the UK this Summer, and spent some time traveling around Scotland on my own.
+I spent a few weeks in the UK this past Summer, which was a lot of fun.
 
 ## WHAT COMMITMENTS WILL BE CONSUMING YOUR CYCLES THIS SEMESTER?
-I am taking Math 153, 128A, and 126, as well as CS 170 this semester. As well as being a TA for CS10, I run an SLC study group for Math 55. Finally, I spend quite a bit of time on the mat at the RSF.
+This semester I’m taking Numerical Analysis, Combinatorics, and an education course. I’ll be teaching CS10, as well as an SLC study group for Math 55. Outside of that, I spend quite a few hours every week on the mat practicing judo. 
+
