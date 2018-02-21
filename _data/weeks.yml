@@ -221,7 +221,7 @@
     title: HW3 Work Session
     work-session: true
   lect2:
-    title: Concurrency
+    title: Concurrency (Lecturer Schuyler Ross)
     link: null
   lab2:
     title: 9. Concurrency
@@ -257,7 +257,7 @@
       required: false
       link: http://www.nytimes.com/2013/08/25/sunday-review/addicted-to-apps.html?_r=0
   lect1:
-    title: TBA
+    title: Social Implications of Computing I
   lab1:
     title: 10. Tic-Tac-Toe, Boards
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=cs10_fa17.html&novideo&noreading&noassignment
