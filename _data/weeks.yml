@@ -277,10 +277,15 @@
     - title: HW3 due 3/2
       links:
         - title: (spec)
-          link: https://docs.google.com/document/d/e/2PACX-1vTtsk-Avh76fkbfGdC8dVDxNKADWqPgxXdfMt22O3yHwoRTqOYDe8KpF8qQDB5yrutE7gLGp4GAO8Tf/pub
+          link: http://cs10.org/sp18/assign.html?https://docs.google.com/document/d/e/2PACX-1vTtsk-Avh76fkbfGdC8dVDxNKADWqPgxXdfMt22O3yHwoRTqOYDe8KpF8qQDB5yrutE7gLGp4GAO8Tf/pub
         - title: (submit)
           link: https://bcourses.berkeley.edu/courses/1469192/assignments/7860175
     - title: Midterm Project Proposal due 3/4
+      links:
+        - title: (spec)
+          link: http://cs10.org/sp18/assign.html?https://docs.google.com/document/d/e/2PACX-1vRjqrcm2a3N3vNv_Zf3neykwywpjfjyXu5MSBr5bzWOLr3kSTwvztB5GizPxeCkt5lfoS6pn7UXocK1/pub
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1469192/assignments/7860178
 
 #######################################################
 ###################### WEEK 8 #########################
@@ -314,6 +319,11 @@
   notes:
     - title: Reading Quiz 6- First lab of the week
     - title: Midterm Project due 3/16
+      links:
+        - title: (spec)
+          link: http://cs10.org/sp18/assign.html?https://docs.google.com/document/d/e/2PACX-1vRjqrcm2a3N3vNv_Zf3neykwywpjfjyXu5MSBr5bzWOLr3kSTwvztB5GizPxeCkt5lfoS6pn7UXocK1/pub
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1469192/assignments/7860177
 
 #######################################################
 ###################### WEEK 9 #########################
@@ -345,6 +355,11 @@
   notes:
     - title: Reading Quiz 7- First lab of the week
     - title: Midterm Project due 3/16
+      links:
+        - title: (spec)
+          link: http://cs10.org/sp18/assign.html?https://docs.google.com/document/d/e/2PACX-1vRjqrcm2a3N3vNv_Zf3neykwywpjfjyXu5MSBr5bzWOLr3kSTwvztB5GizPxeCkt5lfoS6pn7UXocK1/pub
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1469192/assignments/7860177
 
 #######################################################
 ###################### WEEK 10 #########################
