@@ -152,7 +152,7 @@
     title: 7. Algorithmic Complexity
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithm-complexity-update.topic&course=cs10_sp18.html&novideo&noreading&noassignment
   disc:
-    title: Algorithmic Complexity + Quest Review
+    title: Algorithmic Complexity, Paradigms, and Quest Review
     link: http://cs10.org/sp18/discussion/04/Disc04.pdf
     solutions: http://cs10.org/sp18/discussion/04/Disc04Sol.pdf
     demo: null
@@ -227,7 +227,7 @@
     title: 9. Concurrency
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/concurrency.topic&course=cs10_fa17.html&novideo&noreading&noassignment
   disc:
-    title: Concurrency and Paradigms
+    title: Concurrency and Mutability Review
     link: null
     solutions: null
     demo: null
