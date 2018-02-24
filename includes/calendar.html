@@ -102,18 +102,20 @@
     {% if week.notes == null %}
       <td class="cal-due-date" rowspan = 2></td>
     {% else %}
-      <td class="cal-due-date" rowspan = 2>
+      <td class="cal-due-date" style="vertical-align:top" rowspan = 2>
+        <ul style="-webkit-padding-start: 20px">
         {% for note in week.notes %}
-          {{ note.title }}
+          <li> {{ note.title }}
           {% for l in note.links %}
             {% if l.link == null %}
             {{ l.title }}
             {% else %}
             <a href="{{ l.link }}"> {{ l.title }}</a>
             {% endif %}
-          {% endfor %}
-          <br>
+            {% endfor %}
+          </li>
         {% endfor %}
+        </ul>
       </td>
     {% endif %}
   </tr>
