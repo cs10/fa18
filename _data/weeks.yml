@@ -188,7 +188,7 @@
     title: Scoping, Mutability, and HW3 Intro
     link: http://cs10.org/sp18/discussion/05/Disc05.pdf
     solutions: http://cs10.org/sp18/discussion/05/Disc05Sol.pdf
-    demo: null
+    demo: https://snap.berkeley.edu/snapsource/snap.html#present:Username=cs10staff&ProjectName=Mutability%20Discussion
   notes:
     - title: HW2 due 2/16
       links:
@@ -228,8 +228,8 @@
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/concurrency.topic&course=cs10_fa17.html&novideo&noreading&noassignment
   disc:
     title: Concurrency and Mutability Review
-    link: null
-    solutions: null
+    link: http://cs10.org/sp18/discussion/06/Disc06.pdf
+    solutions: http://cs10.org/sp18/discussion/06/Disc06Sol.pdf
     demo: null
   notes:
     - title: Reading Quiz 4- First lab of the week
