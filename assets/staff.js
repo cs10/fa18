@@ -121,7 +121,8 @@ var arvindN = {
 var brendanH = {
     name: 'Reader Brendan Henrique',
     imgSrc: '../Fa17/LAs/BrendanHenrique.jpg',
-    img: 'BrendanHenrique.jpg'
+    img: 'BrendanHenrique.jpg',
+    bio: 'BrendanBio'
 };
 
 var brianaO = {
