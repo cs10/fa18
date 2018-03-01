@@ -258,12 +258,13 @@
       link: http://www.nytimes.com/2013/08/25/sunday-review/addicted-to-apps.html?_r=0
   lect1:
     title: Social Implications of Computing I
+    link: https://drive.google.com/file/d/12DafuGb16nBbsxc6XETRavA9wDtzncBi/view?usp=sharing
   lab1:
     title: 10. Tic-Tac-Toe, Boards
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=cs10_fa17.html&novideo&noreading&noassignment
   lect2:
     title: Recursion I
-    link: null
+    link: https://drive.google.com/file/d/1y7uV2iycBCp_1Zz62dE7ZGlMYC5pjhzF/view?usp=sharing
   lab2:
     title: 11. Trees and Fractals Using Recursion
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=cs10_fa17.html&novideo&noreading&noassignment
@@ -301,12 +302,13 @@
       required: false
       link: http://www.bitsbook.com/wp-content/uploads/2008/12/chapter2.pdf
   lect1:
-    title: TBA
+    title: Social Implications of Computing II (Lecturer Mansi Shah)
+    link: null
   lab1:
     title: Midterm Project Work Session
     work-session: true
   lect2:
-    title: Recursion II
+    title: Recursion II (Lecturer Lara McConnaughey)
     link: null
   lab2:
     title: 12. Recursive Reporters
