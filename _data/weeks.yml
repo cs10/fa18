@@ -221,7 +221,8 @@
     title: HW3 Work Session
     work-session: true
   lect2:
-    title: Concurrency (Lecturer Schuyler Ross)
+    title: Concurrency
+    guest-lecturer: Schuyler Ross
     link: https://drive.google.com/file/d/1ATUDHzFrhmmKfbKbh_9ISRMkzdanPvnP/view?usp=sharing
   lab2:
     title: 9. Concurrency
@@ -302,13 +303,15 @@
       required: false
       link: http://www.bitsbook.com/wp-content/uploads/2008/12/chapter2.pdf
   lect1:
-    title: Social Implications of Computing II (Lecturer Mansi Shah)
-    link: null
+    title: Social Implications of Computing II
+    guest-lecturer: Mansi Shah
+    link: https://drive.google.com/drive/folders/18sOpyOQWHYRdGVoQlNz2xjxb8-qJnppB?usp=sharing
   lab1:
     title: Midterm Project Work Session
     work-session: true
   lect2:
-    title: Recursion II (Lecturer Lara McConnaughey)
+    title: Recursion II
+    guest-lecturer: Lara McConnaughey
     link: null
   lab2:
     title: 12. Recursive Reporters
@@ -344,7 +347,7 @@
     title: 13. Functions as Data and HOFs
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/hofs/hofs-practice.topic&course=cs10_fa17.html&novideo&noreading&noassignment
   lect2:
-    title: TBA
+    title: Social Implications of Computing III
     link: null
   lab2:
     title: Midterm Project Work Session

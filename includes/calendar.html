@@ -64,9 +64,19 @@
     {% elsif week.lect1.exam %}
       <td class="cal-exam">{{ week.lect1.title }}</td>
     {% elsif week.lect1.link == null %}
-      <td>{{ week.lect1.title }} </td>
+      <td>
+        {% if week.lect1.guest-lecturer != null %}
+          <p>Guest Lecture: {{ week.lect1.guest-lecturer }}</p>
+        {% endif %}
+        {{ week.lect1.title }}
+      </td>
     {% elsif week.lect1.link != null %}
-      <td><a href = "{{ week.lect1.link }}">{{ week.lect1.title }}</a></td>
+      <td>
+        {% if week.lect1.guest-lecturer != null %}
+          <p>Guest Lecture: {{ week.lect1.guest-lecturer }}</p>
+        {% endif %}
+        <a href = "{{ week.lect1.link }}">{{ week.lect1.title }}</a>
+      </td>
     {% endif %}
 
     {% if week.lab1 == null %}
@@ -126,9 +136,19 @@
     {% elsif week.lect2.exam %}
       <td class="cal-exam">{{ week.lect2.title }}</td>
     {% elsif week.lect2.link == null %}
-      <td>{{ week.lect2.title }} </td>
-    {% else %}
-      <td><a href = "{{ week.lect2.link }}">{{ week.lect2.title }}</a></td>
+      <td>
+        {% if week.lect2.guest-lecturer != null %}
+          <p>Guest Lecture: {{ week.lect2.guest-lecturer }}</p>
+        {% endif %}
+        {{ week.lect2.title }}
+      </td>
+    {% elsif week.lect2.link != null %}
+      <td>
+        {% if week.lect2.guest-lecturer != null %}
+          <p>Guest Lecture: {{ week.lect2.guest-lecturer }}</p>
+        {% endif %}
+        <a href = "{{ week.lect2.link }}">{{ week.lect2.title }}</a>
+      </td>
     {% endif %}
 
     {% if week.lab2 == null %}
