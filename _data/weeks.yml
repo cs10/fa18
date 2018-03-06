@@ -271,8 +271,8 @@
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=cs10_fa17.html&novideo&noreading&noassignment
   disc:
     title: Introduction to Recursion
-    link: null
-    solutions: null
+    link: http://cs10.org/sp18/discussion/07/Disc07.pdf
+    solutions: http://cs10.org/sp18/discussion/07/Disc07Sol.pdf
     demo: null
   notes:
     - title: Reading Quiz 5- First lab of the week
