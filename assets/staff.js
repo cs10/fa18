@@ -121,7 +121,8 @@ var arvindN = {
 var brendanH = {
     name: 'Reader Brendan Henrique',
     imgSrc: '../Fa17/LAs/BrendanHenrique.jpg',
-    img: 'BrendanHenrique.jpg'
+    img: 'BrendanHenrique.jpg',
+    bio: 'BrendanBio'
 };
 
 var brianaO = {
@@ -135,6 +136,7 @@ var grantK = {
     name: 'Reader Grant Kehn',
     imgSrc: '../Fa17/LAs/GrantKehn.jpg',
     img: 'GrantKehn.jpg',
+    bio: 'GrantBio'
 };
 
 var nikiZ = {
