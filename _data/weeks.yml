@@ -459,7 +459,8 @@
       required: false
       link: https://www.youtube.com/watch?v=69hHbVza7XI&t=27m49s
   lect1:
-    title: TBA
+    title: Saving the World With Computing
+    guest-lecturer: Kathy Yelick
     link: null
   lab1:
     title: Final Project Work Session
@@ -497,13 +498,15 @@
       required: false
       link: http://www.tylervigen.com/spurious-correlations
   lect1:
-    title: TBA
+    title: Artificial Intelligence
+    guest-lecturer: Anca Dragan
     link: null
   lab1:
     title: Final Project Work Session
     work-session: true
   lect2:
-    title: TBA
+    title: Information Visualization
+    guest-lecturer: Marti Hearst
     link: null
   lab2:
     title: 18. Besides Blocks&#58 Data Science with Python
