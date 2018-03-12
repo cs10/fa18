@@ -466,7 +466,7 @@
     title: Final Project Work Session
     work-session: true
   lect2:
-    title: Python III
+    title: Limits of Computing
     link: null
   lab2:
     title: 17. Besides Blocks&#58 Text Processing in Python
@@ -540,7 +540,7 @@
       required: false
       link: https://drive.google.com/file/d/0B3vESj3HTRTkbVo1dTV5SUp4T0U/view
   lect1:
-    title: Limits of Computing
+    title: Alumni Panel
     link: null
   lab1:
     title: Final Project Work Session
