@@ -352,14 +352,14 @@
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/hofs/hofs-practice.topic&course=cs10_fa17.html&novideo&noreading&noassignment
   lect2:
     title: Social Implications of Computing III
-    link: null
+    link: https://drive.google.com/file/d/1ErdyVKQ8Esv6jovFFK1_o17rBE4xmcZB/view?usp=sharing
   lab2:
     title: Midterm Project Work Session
     work-session: true
   disc:
     title: Functions as Data + Midterm Review
-    link: null
-    solutions: null
+    link: http://cs10.org/sp18/discussion/09/Disc09.pdf
+    solutions: http://cs10.org/sp18/discussion/09/Disc09Sol.pdf
     demo: null
   notes:
     - title: Reading Quiz 7- First lab of the week
