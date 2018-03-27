@@ -51,7 +51,8 @@ var bhumikaG = {
     name: 'TA Bhumika Goel',
     imgSrc: '../Su17/BhumikaGoel.jpg',
     img: 'BhumikaGoel.jpg',
-    bio: 'BhumikaBio'
+    bio: 'BhumikaBio',
+    email: 'bhumika@cs10.org'
 };
 
 var christianL = {
@@ -82,7 +83,8 @@ var niketK = {
     name: 'TA Niket Kulkarni',
     imgSrc: '../Fa17/NiketKulkarni.jpg',
     img: 'NPY.jpg.jpg',
-    bio: 'NiketBio'
+    bio: 'NiketBio',
+    email: 'niket@cs10.org'
 };
 
 var samuelS = {
@@ -105,7 +107,8 @@ var vardaS = {
     name: 'TA Varda Shrivastava',
     imgSrc: '../Sp17/las/VardaShrivastava.jpg',
     img: 'VardaShrivastava.jpg',
-    bio: 'VardaBio'
+    bio: 'VardaBio',
+    email: 'varda@cs10.org'
 };
 
 // Readers

@@ -438,7 +438,14 @@
     demo: null
   notes:
     - title: Reading Quiz 8- Second lab of the week
-    - title: Explore Post due 4/7
+    - title: Explore Post due 4/6
+      links:
+        - title: (spec)
+          link: http://cs10.org/sp18/assign.html?https://docs.google.com/document/d/e/2PACX-1vSgbCaosN0s7DPLP6sCG61nsnL-mGlNPYs1bxabhaVLZWJllZVZiUL38Wb68Fyv3RU4152XN43kCwv0/pub
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1469192/discussion_topics/5295013
+        - title: (doc submit)
+          link: https://bcourses.berkeley.edu/courses/1469192/assignments/7860168
     - title: Final Project Proposal due 4/7
     - title: Explore Post Comments due 4/11
 
@@ -479,6 +486,9 @@
   notes:
     - title: Reading Quiz 9- First lab of the week
     - title: Explore Post Comments due 4/11
+      links:
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1469192/discussion_topics/5295013
     - title: Final Project due 4/27
 
 #######################################################
