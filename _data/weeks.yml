@@ -447,6 +447,11 @@
         - title: (doc submit)
           link: https://bcourses.berkeley.edu/courses/1469192/assignments/7860168
     - title: Final Project Proposal due 4/7
+      links:
+        - title: (spec)
+          link: http://cs10.org/sp18/assign.html?https://docs.google.com/document/d/e/2PACX-1vQTugLYjeYN7H6vXY7KYEGTQ7PL31agnzZYWTSvJ93EUiqlt6S3qZ8TmGaZFf351dIQOo0cR40Nh1UZ/pub
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1469192/assignments/7860172
     - title: Explore Post Comments due 4/11
 
 #######################################################
@@ -490,6 +495,9 @@
         - title: (submit)
           link: https://bcourses.berkeley.edu/courses/1469192/discussion_topics/5295013
     - title: Final Project due 4/27
+      links:
+        - title: (spec)
+          link: http://cs10.org/sp18/assign.html?https://docs.google.com/document/d/e/2PACX-1vQTugLYjeYN7H6vXY7KYEGTQ7PL31agnzZYWTSvJ93EUiqlt6S3qZ8TmGaZFf351dIQOo0cR40Nh1UZ/pub
 
 #######################################################
 ###################### WEEK 14 #########################
@@ -528,7 +536,15 @@
     demo: null
   notes:
     - title: Reading Quiz 10- First lab of the week
+    - title: Final Project Milestone due 4/18
+      links: 
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1469192/assignments/7860171
     - title: Final Project due 4/27
+      links:
+        - title: (spec)
+          link: http://cs10.org/sp18/assign.html?https://docs.google.com/document/d/e/2PACX-1vQTugLYjeYN7H6vXY7KYEGTQ7PL31agnzZYWTSvJ93EUiqlt6S3qZ8TmGaZFf351dIQOo0cR40Nh1UZ/pub
+
 
 #######################################################
 ###################### WEEK 15 #########################
@@ -569,6 +585,10 @@
   notes:
     - title: Reading Quiz 11- First lab of the week
     - title: Final Project due 4/27
+      links:
+        - title: (spec)
+          link: http://cs10.org/sp18/assign.html?https://docs.google.com/document/d/e/2PACX-1vQTugLYjeYN7H6vXY7KYEGTQ7PL31agnzZYWTSvJ93EUiqlt6S3qZ8TmGaZFf351dIQOo0cR40Nh1UZ/pub
+
 
 #######################################################
 ###################### WEEK 16 #########################
