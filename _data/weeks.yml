@@ -421,13 +421,13 @@
       link: https://medium.com/@oceankidbilly/python-vs-r-vs-cobol-which-is-best-for-data-science-7b2979c6a000
   lect1:
     title: Python I
-    link: null
+    link: https://drive.google.com/file/d/1-f9MiY4qNsWdAaHCgPrFDcCYkV7IQ-1Q/view?usp=sharing
   lab1:
     title: 15. Besides Blocks&#58 Welcome to Python
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-welcome.topic&course=cs10_fa17.html&novideo&noreading&noassignment
   lect2:
     title: Python II
-    link: null
+    link: https://drive.google.com/file/d/1IPHKYW25rKyTBIvd7FSnUEuvuGOohTkv/view?usp=sharing
   lab2:
     title: 16. Besides Blocks&#58 Data Structures in Python
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=cs10_fa17.html&novideo&noreading&noassignment
@@ -446,7 +446,7 @@
           link: https://bcourses.berkeley.edu/courses/1469192/discussion_topics/5295013
         - title: (doc submit)
           link: https://bcourses.berkeley.edu/courses/1469192/assignments/7860168
-    - title: Final Project Proposal due 4/7
+    - title: Final Project Proposal due 4/8
       links:
         - title: (spec)
           link: http://cs10.org/sp18/assign.html?https://docs.google.com/document/d/e/2PACX-1vQTugLYjeYN7H6vXY7KYEGTQ7PL31agnzZYWTSvJ93EUiqlt6S3qZ8TmGaZFf351dIQOo0cR40Nh1UZ/pub
