@@ -180,8 +180,9 @@ var aaronBaker = {
 
 var alyssaLo = {
     name: 'LA Alyssa Lo',
-    img: 'NPY3D.jpg',
-    imgSrc: 'NPY3D.jpg'
+    imgSrc: '../Sp18/las/AlyssaLo.jpg',
+    imgCrazy: '../Sp18/las/AlyssaLoCrazy.jpg',
+    img: 'AlyssaLo.jpg',
 };
 
 var alyssaSugarman = {
@@ -189,6 +190,13 @@ var alyssaSugarman = {
     imgSrc: '../Sp18/las/AlyssaSugarman.jpg',
     imgCrazy: '../Sp18/las/AlyssaSugarmanCrazy.jpg',
     img: 'AlyssaSugarman.jpg',
+};
+
+var audreyMa = {
+    name: 'LA Audrey Ma',
+    imgSrc: '../Sp18/las/AudreyMa.jpg',
+    imgCrazy: '../Sp18/las/AudreyMaCrazy.jpg',
+    img: 'AudreyMa.jpg',
 };
 
 var austinChang = {
@@ -219,8 +227,9 @@ var batoolN = {
 
 var barbaraLiao = {
   name: 'LA Barbara Liao',
-  img: 'NPY3D.jpg',
-  imgSrc: 'NPY3D.jpg'
+  imgSrc: '../Sp18/las/BarbaraLiao.jpg',
+  imgCrazy: '../Sp18/las/BarbaraLiaoCrazy.jpg',
+  img: 'BarbaraLiao.jpg'
 };
 
 var benChen = {
@@ -258,8 +267,9 @@ var deveshAgarwal = {
 
 var dustinChen = {
   name: 'LA Dustin Chen',
-  img: 'NPY3D.jpg',
-  imgSrc: 'NPY3D.jpg'
+  imgSrc: '../Sp18/las/DustinChen.jpg',
+  imgCrazy: '../Sp18/las/DustinChenCrazy.jpg',
+  img: 'DustinChen.jpg'
 };
 
 var edwardChoi = {
@@ -269,16 +279,11 @@ var edwardChoi = {
     img: 'EdwardChoi.jpg'
 };
 
-var emilyKhalili = {
-  name: 'LA Emily Khalili',
-  img: 'NPY3D.jpg',
-  imgSrc: 'NPY3D.jpg'
-};
-
 var faizShamji = {
   name: 'LA Faiz Shamji',
-  img: 'NPY3D.jpg',
-  imgSrc: 'NPY3D.jpg'
+  imgSrc: '../Sp18/las/FaizShamji.jpg',
+  imgCrazy: '../Sp18/las/FaizShamjiCrazy.jpg',
+  img: 'FaizShamji.jpg'
 };
 
 var floraDong = {
@@ -311,14 +316,16 @@ var janiceK = {
 
 var janiceNg = {
   name: 'LA Janice Ng',
-  img: 'NPY3D.jpg',
-  imgSrc: 'NPY3D.jpg'
+  imgSrc: '../Sp18/las/JaniceNg.jpg',
+  imgCrazy: '../Sp18/las/JaniceNgCrazy.jpg',
+  img: 'JaniceNg.jpg'
 };
 
 var jennySong = {
   name: 'LA Jenny Song',
-  img: 'NPY3D.jpg',
-  imgSrc: 'NPY3D.jpg'
+  imgSrc: '../Sp18/las/JennySong.jpg',
+  imgCrazy: '../Sp18/las/JennySongCrazy.jpg',
+  img: 'JennySong.jpg'
 };
 
 var jocelynS = {
@@ -396,7 +403,8 @@ var markPreston = {
 
 var mattR = {
     name: 'LA Matt Ronnau',
-    imgSrc: '../Fa17/LAs/MattRonnau.jpg',
+    imgSrc: '../Sp18/LAs/MattRonnau.jpg',
+    imgCrazy: '../Sp18/las/MattRonnauCrazy.jpg',
     img: 'MattRonnau.jpg'
 };
 
@@ -428,8 +436,9 @@ var nathanaelShin = {
 
 var patriciaYu = {
   name: 'LA Patricia Yu',
-  img: 'NPY3D.jpg',
-  imgSrc: 'NPY3D.jpg'
+  imgSrc: '../Sp18/las/PatriciaYu.jpg',
+  imgCrazy: '../Sp18/las/PatriciaYuCrazy.jpg',
+  img: 'NathanaelShin.jpg'
 };
 
 var qimingWu = {
@@ -440,8 +449,9 @@ var qimingWu = {
 
 var ruqiaMohammad = {
   name: 'LA Ruqia Mohammad',
-  img: 'NPY3D.jpg',
-  imgSrc: 'NPY3D.jpg'
+  imgSrc: '../Sp18/las/RuqiaMohammad.jpg',
+  imgCrazy: '../Sp18/las/RuqiaMohammadCrazy.jpg',
+  img: 'RuqiaMohammad.jpg'
 };
 
 var shannonHearn = {
@@ -479,9 +489,9 @@ var tas = [ laraM, mansiS, addisonH, angelaW, bhumikaG, christianL, julieH,
             niketK, matthewS, samuelS, schuylerR, vardaS];
 var readers = [ arvindN, brendanH, brianaO, grantK, nikiZ, rafaelF];
 
-var las = [ aarishIrfan, aaronBaker, abbyC, alyssaLo, alyssaSugarman, austinChang, avikSethia,
+var las = [ aarishIrfan, aaronBaker, abbyC, alyssaLo, alyssaSugarman, audreyMa, austinChang, avikSethia,
             baileyHarrison, barbaraLiao, batoolN, benChen, bryantBettencourt, chrisTong, claireDM,
-            deveshAgarwal, dustinChen, edwardChoi, emilyKhalili, faizShamji, floraDong, isaacMerritt, jacquelineLi,
+            deveshAgarwal, dustinChen, edwardChoi, faizShamji, floraDong, isaacMerritt, jacquelineLi,
             janiceK, janiceNg, jennySong, jocelynS, johnPesanello, jordynPinochi, kaelaSeiersen, kathleenGao, kellyannYe,
             kevinYu, lamPham, lillianOhara, lucyWhite, mattR, markPreston, maxsonY, murtazaAli, nathanaelShin, neilRabb,
             patriciaYu, qimingWu, ruqiaMohammad, shannonHearn, sofieHerbeck, stevenTong];
