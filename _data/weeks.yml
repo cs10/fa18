@@ -433,8 +433,8 @@
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=cs10_fa17.html&novideo&noreading&noassignment
   disc:
     title: Introduction to Python
-    link: null
-    solutions: null
+    link: http://cs10.org/sp18/discussion/11/Disc11.pdf
+    solutions: http://cs10.org/sp18/discussion/11/Disc11Sol.pdf
     demo: null
   notes:
     - title: Reading Quiz 8- Second lab of the week
