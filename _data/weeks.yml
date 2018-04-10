@@ -473,13 +473,13 @@
   lect1:
     title: Saving the World With Computing
     guest-lecturer: Kathy Yelick
-    link: null
+    link: https://drive.google.com/file/d/14CP9VwpJjDCf0XgeCrlRdaoaYca2Mf2R/view?usp=sharing
   lab1:
     title: Final Project Work Session
     work-session: true
   lect2:
     title: Limits of Computing
-    link: null
+    link: https://drive.google.com/file/d/1LSzyRrYer-vjn5gpCeCoJupMmfw0q2C3/view?usp=sharing
   lab2:
     title: 17. Besides Blocks&#58 Text Processing in Python
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=cs10_fa17.html&novideo&noreading&noassignment
@@ -537,7 +537,7 @@
   notes:
     - title: Reading Quiz 10- First lab of the week
     - title: Final Project Milestone due 4/18
-      links: 
+      links:
         - title: (submit)
           link: https://bcourses.berkeley.edu/courses/1469192/assignments/7860171
     - title: Final Project due 4/27
