@@ -520,15 +520,15 @@
     guest-lecturer: Anca Dragan
     link: null
   lab1:
-    title: Final Project Work Session
-    work-session: true
+    title: 18. Besides Blocks&#58 Data Science with Python
+    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=cs10_fa17.html&novideo&noreading&noassignment
   lect2:
     title: Human-Computer Interaction (HCI)
     guest-lecturer: Marti Hearst
     link: null
   lab2:
-    title: 18. Besides Blocks&#58 Data Science with Python
-    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=cs10_fa17.html&novideo&noreading&noassignment
+    title: Final Project Work Session
+    work-session: true
   disc:
     title: More Python
     link: null
