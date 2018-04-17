@@ -484,9 +484,9 @@
     title: 17. Besides Blocks&#58 Text Processing in Python
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=cs10_fa17.html&novideo&noreading&noassignment
   disc:
-    title: More Python
-    link: null
-    solutions: null
+    title: Dictionaries and Recursion in Python
+    link: http://cs10.org/sp18/discussion/12/Disc12.pdf
+    solutions: http://cs10.org/sp18/discussion/12/Disc12Sol.pdf
     demo: null
   notes:
     - title: Reading Quiz 9- First lab of the week
@@ -530,7 +530,7 @@
     title: Final Project Work Session
     work-session: true
   disc:
-    title: More Python
+    title: List Comprehensions and Lambda Functions
     link: null
     solutions: null
     demo: null
