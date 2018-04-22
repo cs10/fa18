@@ -531,8 +531,8 @@
     work-session: true
   disc:
     title: List Comprehensions and Lambda Functions
-    link: null
-    solutions: null
+    link: http://cs10.org/sp18/discussion/13/Disc13.pdf
+    solutions: http://cs10.org/sp18/discussion/13/Disc13Sol.pdf
     demo: null
   notes:
     - title: Reading Quiz 10- First lab of the week
