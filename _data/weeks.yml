@@ -518,14 +518,14 @@
   lect1:
     title: Artificial Intelligence
     guest-lecturer: Anca Dragan
-    link: null
+    link: https://drive.google.com/drive/folders/1KGeSbuwEfR5K8E0SScTmCtRFIzKsqMlj?usp=sharing
   lab1:
     title: 18. Besides Blocks&#58 Data Science with Python
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=cs10_fa17.html&novideo&noreading&noassignment
   lect2:
     title: Human-Computer Interaction (HCI)
     guest-lecturer: Marti Hearst
-    link: null
+    link: https://drive.google.com/drive/folders/1sb-uA5Naoa0SESRtO0VAP0vNhAqa0okJ?usp=sharing
   lab2:
     title: Final Project Work Session
     work-session: true
@@ -567,13 +567,13 @@
       link: https://drive.google.com/file/d/0B3vESj3HTRTkbVo1dTV5SUp4T0U/view
   lect1:
     title: Alumni Panel
-    link: null
+    link: https://drive.google.com/drive/folders/1Wp890rO9nqVanIDR6C-aDZkhdc8U87qq?usp=sharing
   lab1:
     title: Final Project Work Session
     work-session: true
   lect2:
     title: Conclusion
-    link: null
+    link: https://drive.google.com/file/d/1sgg8aLY-d1YYpKAPw9m_NeK5O6fFl2Sa/view?usp=sharing
   lab2:
     title: In-Lab Final Exam
     exam: true
