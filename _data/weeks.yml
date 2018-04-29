@@ -579,9 +579,10 @@
     exam: true
   disc:
     title: Farewell + Final Review
-    link: null
-    solutions: null
+    link: http://cs10.org/sp18/discussion/14/Disc14.pdf
+    solutions: http://cs10.org/sp18/discussion/14/Disc14Sol.pdf
     demo: null
+    slides: https://docs.google.com/presentation/d/1wSRUjkrhd9vLuOYFJLcvZA761I9qZWfxYmSVEnrJGz0/edit?usp=sharing
   notes:
     - title: Reading Quiz 11- First lab of the week
     - title: Final Project due 4/27
