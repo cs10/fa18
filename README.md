@@ -1,9 +1,9 @@
-# [CS10 Spring 2018][site]
+# [CS10 Fall 2018][site]
 
-[site]: http://cs10.org/sp18
+[site]: http://cs10.org/fa18
 
 ## Background
-The Spring 2018 site is built using [Jekyll](jekyllrb.com) and is hosted on Github, with a backup on the CS10 instructional account.
+The Fall 2018 site is built using [Jekyll](jekyllrb.com) and is hosted on Github, with a backup on the CS10 instructional account.
 
 Currently, there isn't much fancy work being done with Jekyll -- just a few include statements and basic page layouts.
 
