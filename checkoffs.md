@@ -41,18 +41,18 @@ To get checked off, you should prepare answers to the specific questions for eac
 * [Lab 4](#lab4) (Week 3)
 * [Lab 5](#lab5)
 * [Lab 6](#lab6) (Week 4)
-* [Lab 7](#lab7)
-* [Lab 8](#lab8) (Week 5)
+* [Lab 7](#lab7) (Week 5)
+* [Lab 8](#lab8)
 * [Lab 9](#lab9) (Week 6)
 * [Lab 10](#lab10) (Week 7)
 * [Lab 11](#lab11)
 * [Lab 12](#lab12) (Week 8)
 * [Lab 13](#lab13) (Week 9)
 * [Lab 14](#lab14) (Week 10)
-* [Lab 15](#lab15) (Week 12)
+* [Lab 15](#lab15) (Week 11)
 * [Lab 16](#lab16)
-* [Lab 17](#lab17) (Week 13)
-* [Lab 18](#lab18) (Week 14)
+* [Lab 17](#lab17) (Week 12)
+* [Lab 18](#lab18) (Week 13)
 </div>
 
 ---
@@ -61,7 +61,7 @@ To get checked off, you should prepare answers to the specific questions for eac
 
 # Week 1: Lab 1: No check-off needed!
 
-## Lab 1: Welcome to Netsblox<em>!</em>   {#lab1}
+## Lab 1: Welcome to Snap<em>!</em>   {#lab1}
 * No questions for this lab!
 
 ---
@@ -136,7 +136,7 @@ To get checked off, you should prepare answers to the specific questions for eac
 
 ---
 
-# Week 4: Labs 6 and 7
+# Week 4: Lab 6
 
 ## Lab 6: Algorithms {#lab6}
 
@@ -153,6 +153,10 @@ To get checked off, you should prepare answers to the specific questions for eac
 * What is memoization? When is it useful?
 * If you have an unsorted list, do you think it will be faster to use your “Find the number X in Unsorted List” block, or sort the list and use your “Find the number X in Sorted List”? Remember that sorting takes time.
 
+---
+
+# Week 5: Labs 7 and 8
+
 ## Lab 7: Algorithm Complexity {#lab7}
 
 **Required**
@@ -168,9 +172,6 @@ To get checked off, you should prepare answers to the specific questions for eac
 * Why are constant time algorithms so rare?
 * Why are logarithmic time algorithms sought after?
 
----
-
-# Week 5: Lab 8
 
 ## Lab 8: Testing Code and 2048 {#lab8}
 
@@ -289,11 +290,7 @@ You can get checked off for this lab as long as you show up to lab and work on i
 
 ---
 
-# Week 11: Spring Break
-
----
-
-# Week 12: Labs 15 and 16
+# Week 11: Labs 15 and 16
 
 ## Lab 15: Besides Blocks: Welcome to Python {#lab15}
 
@@ -329,7 +326,7 @@ You can get checked off for this lab as long as you show up to lab and work on i
 
 ---
 
-# Week 13: Lab 17
+# Week 12: Lab 17
 
 ## Lab 17: Besides Blocks: Text Processing in Python {#lab17}
 
@@ -348,7 +345,7 @@ You can get checked off for this lab as long as you show up to lab and work on i
 
 ------
 
-# Week 14: Lab 18
+# Week 13: Lab 18
 
 ## Lab 18: Besides Blocks: Data and Python {#lab18}
 

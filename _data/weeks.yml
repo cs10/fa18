@@ -246,8 +246,8 @@
 ###################### WEEK 11 #########################
 #######################################################
 
-- number: 12
-  dates: 4/1 to 4/6
+- number: 11
+  dates: 10/29 to 11/2
   readings:
     - title: Why Python is a Great First Language
       required: true
@@ -280,7 +280,7 @@
 #######################################################
 
 - number: 12
-  dates: 11/5-11/9
+  dates: 11/5 to 11/9
   readings: null
   lect1:
     title: TBA
@@ -290,7 +290,7 @@
   lect2:
     title: Python III
   lab2:
-    title: 16. Besides Blocks&#58 Text Processing in Python
+    title: 17. Besides Blocks&#58 Text Processing in Python
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=cs10_fa17.html&novideo&noreading&noassignment
   disc:
     title: Dictionaries & Lists in Python
