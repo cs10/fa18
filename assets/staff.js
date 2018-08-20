@@ -139,7 +139,7 @@ var kathleenGao = {
 };
 
 var murtazaAli = {
-    name: 'LA Murtaza Ali',
+    name: 'Reader Murtaza Ali',
     imgSrc: '../Sp18/las/MurtazaAli.jpg',
     imgCrazy: '../Sp18/las/MurtazaAliCrazy.jpg',
     img: 'MurtazaAli.jpg'
