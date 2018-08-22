@@ -19,7 +19,6 @@ var laraM = {
     imgSrc: '../Sp17/LaraMcConnaughey.jpg',
     imgCrazy: '../small/LaraMcConnaugheyCrazy.jpg',
     web: 'http://laralinmcc.github.io/',
-    bio: 'LaraBio',
     email: 'lara@cs10.org'
 };
 
@@ -28,14 +27,14 @@ var mansiS = {
     img: 'MansiShah.jpg',
     imgSrc: '../Fa17/MansiShahNEW.jpg',
     email: 'mansi@cs10.org',
-    bio: 'MansiBio'
 };
 
 var aaronB = {
     name: 'TA Aaron Baker',
     img: 'AaronBaker.jpg',
     imgSrc: '../Sp18/las/AaronBaker.jpg',
-    imgCrazy: '../Sp18/las/AaronBakerCrazy.jpg'
+    imgCrazy: '../Sp18/las/AaronBakerCrazy.jpg',
+    email: 'aaron@cs10.org'
 };
 
 var angelaW = {
@@ -43,14 +42,12 @@ var angelaW = {
     img: 'Angela Wong.jpg',
     imgSrc: '../Fa17/AngelaWongNEW.jpg',
     email: 'angela@cs10.org',
-    bio: 'AngelaBio'
 };
 
 var bhumikaG = {
     name: 'TA Bhumika Goel',
     imgSrc: '../Su17/BhumikaGoel.jpg',
     img: 'BhumikaGoel.jpg',
-    bio: 'BhumikaBio',
     email: 'bhumika@cs10.org'
 };
 
@@ -58,7 +55,7 @@ var brendanH = {
     name: 'TA Brendan Henrique',
     imgSrc: '../Fa17/LAs/BrendanHenrique.jpg',
     img: 'BrendanHenrique.jpg',
-    bio: 'BrendanBio'
+    email: 'brendan@cs10.org'
 };
 
 var matthewS = {
@@ -66,20 +63,19 @@ var matthewS = {
     img: 'Fa16/MatthewSchwartz.JPG',
     imgSrc: '../Fa16/MatthewSchwartz.JPG',
     email: 'matthew@cs10.org',
-    bio: 'MatthewBio'
 };
 
 var maxsonY = {
     name: 'TA Maxson Yang',
     img: 'Fa16/MatthewSchwartz.JPG',
-    imgSrc: '../Fa17/LAs/MaxsonYang.jpg'
+    imgSrc: '../Fa17/LAs/MaxsonYang.jpg',
+    email: 'maxson@cs10.org'
 };
 
 var niketK = {
     name: 'TA Niket Kulkarni',
     imgSrc: '../Fa17/NiketKulkarni.jpg',
     img: 'NPY.jpg.jpg',
-    bio: 'NiketBio',
     email: 'niket@cs10.org'
 };
 
@@ -88,7 +84,7 @@ var nikiZ = {
     imgSrc: '../Fa17/LAs/NikiZarkub.jpg',
     imgCrazy: '../Fa17/las/NikiZarkubCrazy.jpg',
     img: 'NikiZarkub.jpg',
-    bio: 'NikiBio'
+    email: 'niki@cs10.org'
 };
 
 var schuylerR = {
@@ -96,14 +92,12 @@ var schuylerR = {
     img: 'Schuyler Ross.jpg',
     imgSrc: '../Fa17/SchuylerRoss.jpg',
     email: 'schuyler@cs10.org',
-    bio: 'SchuylerBio'
 };
 
 var vardaS = {
     name: 'TA Varda Shrivastava',
     imgSrc: '../Sp17/las/VardaShrivastava.jpg',
     img: 'VardaShrivastava.jpg',
-    bio: 'VardaBio',
     email: 'varda@cs10.org'
 };
 
