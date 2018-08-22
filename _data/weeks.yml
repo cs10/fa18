@@ -44,12 +44,12 @@
     title: Functions
   lab1:
     title: 2. Build Your Own Blocks
-    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables-netsblox.topic&course=cs10_fa18.html&novideo&noreading&noassignment
+    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   lect2:
     title: Numbers and Abstraction
   lab2:
     title: 3. Conditionals and Reporters
-    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/3-conditionals-netsblox.topic&course=cs10_fa18.html&novideo&noreading&noassignment
+    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/3-conditionals.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   disc:
     title: The Power of Binary
     link: null
