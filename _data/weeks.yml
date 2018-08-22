@@ -26,6 +26,9 @@
 #######################################################
 
 - number: 2
+  reading-quiz:
+    lab: second
+    number: 1
   dates: 8/27 to 8/31
   readings:
     - title: Introduction to Abstraction

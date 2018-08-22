@@ -49,6 +49,9 @@
       <td rowspan = 2>No Readings</td>
     {% else %}
       <td rowspan = 2>
+        Reading Quiz {{ week.reading-quiz.number }} in {{ week.reading-quiz.lab }} lab of the week
+        <br>
+        <br>
         {% for reading in week.readings %}
           <a class="{% if reading.required %}required{% else %}optional{% endif %}"
              href="{{ reading.link }}">
@@ -81,14 +84,28 @@
 
     {% if week.lab1 == null %}
       <td class="cal-no-class">No Lab</td>
-    {% elsif week.lab1.work-session %}
-      <td class="cal-work-session">{{ week.lab1.title }}</td>
     {% elsif week.lab1.exam %}
       <td class="cal-exam">{{ week.lab1.title }}</td>
-    {% elsif week.lab1.link == null %}
-      <td>{{ week.lab1.title }} </td>
+    {% elsif week.lab1.work-session %}
+      <td class="cal-work-session">
+          {{ week.lab1.title }}
+          {% if week.reading-quiz.lab == "first" %}
+            <p>Reading Quiz {{ week.reading-quiz.number }}</p>
+          {% endif %}
+      </td>
     {% else %}
-      <td><a href = "{{ week.lab1.link }}">{{ week.lab1.title }}</a></td>
+        <td>
+          {% if week.reading-quiz.lab == "first" %}
+            <p>Reading Quiz {{ week.reading-quiz.number }}</p>
+          {% endif %}
+          {% if week.lab1.link != null %}
+             <a href = "{{ week.lab1.link }}">
+          {% endif %}
+          {{ week.lab1.title }}
+          {% if week.lab1.link != null %}
+            </a>
+          {% endif %}
+        </td>
     {% endif %}
 
     {% if week.disc == null %}
@@ -159,11 +176,25 @@
     {% elsif week.lab2.exam %}
       <td class="cal-exam">{{ week.lab2.title }}</td>
     {% elsif week.lab2.work-session %}
-      <td class="cal-work-session">{{ week.lab2.title }}</td>
-    {% elsif week.lab2.link == null %}
-      <td>2. {{ week.lab2.title }} </td>
+      <td class="cal-work-session">
+          {{ week.lab2.title }}
+          {% if week.reading-quiz.lab == "second" %}
+            <p>Reading Quiz {{ week.reading-quiz.number }}</p>
+          {% endif %}
+      </td>
     {% else %}
-      <td><a href = "{{ week.lab2.link }}">{{ week.lab2.title }}</a></td>
+        <td>
+          {% if week.reading-quiz.lab == "second" %}
+            <p>Reading Quiz {{ week.reading-quiz.number }}</p>
+          {% endif %}
+          {% if week.lab2.link != null %}
+             <a href = "{{ week.lab2.link }}">
+          {% endif %}
+          {{ week.lab2.title }}
+          {% if week.lab2.link != null %}
+            </a>
+          {% endif %}
+        </td>
     {% endif %}
   </tr>
 {% endfor %}
