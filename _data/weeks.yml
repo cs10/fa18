@@ -14,9 +14,9 @@
     title: 1. Welcome to Snap!
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/1-introduction.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   disc:
-    title: Welcome to CS10!
-    link: null
-    solutions: null
+    title: Welcome & Intro to Snap!
+    link: https://drive.google.com/file/d/1k-EzIVmr0CmL39cwv1JtAlrKCyFhkyxU/view?usp=sharing
+    solutions: https://drive.google.com/file/d/1SXJSK4CUVSbrBMOatEkuMmBeeDf8zopt/view?usp=sharing
     demo: null
   notes:
     - title: HW0 due 8/29
