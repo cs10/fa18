@@ -27,6 +27,7 @@ var mansiS = {
     img: 'MansiShah.jpg',
     imgSrc: '../Fa17/MansiShahNEW.jpg',
     email: 'mansi@cs10.org',
+    bio: 'MansiBio'
 };
 
 var aaronB = {
@@ -55,21 +56,23 @@ var brendanH = {
     name: 'TA Brendan Henrique',
     imgSrc: '../Fa17/LAs/BrendanHenrique.jpg',
     img: 'BrendanHenrique.jpg',
-    email: 'brendan@cs10.org'
+    email: 'brendan@cs10.org',
+    bio: 'BrendanBio'
 };
 
 var matthewS = {
     name: 'TA Matthew Schwartz',
     img: 'Fa16/MatthewSchwartz.JPG',
     imgSrc: '../Fa16/MatthewSchwartz.JPG',
-    email: 'matthew@cs10.org',
+    email: 'matthew@cs10.org'
 };
 
 var maxsonY = {
     name: 'TA Maxson Yang',
     img: 'Fa16/MatthewSchwartz.JPG',
     imgSrc: '../Fa17/LAs/MaxsonYang.jpg',
-    email: 'maxson@cs10.org'
+    email: 'maxson@cs10.org',
+    bio: 'MaxsonBio'
 };
 
 var niketK = {
@@ -84,7 +87,8 @@ var nikiZ = {
     imgSrc: '../Fa17/LAs/NikiZarkub.jpg',
     imgCrazy: '../Fa17/las/NikiZarkubCrazy.jpg',
     img: 'NikiZarkub.jpg',
-    email: 'niki@cs10.org'
+    email: 'niki@cs10.org',
+    bio: 'NikiBio'
 };
 
 var schuylerR = {
@@ -98,7 +102,8 @@ var vardaS = {
     name: 'TA Varda Shrivastava',
     imgSrc: '../Sp17/las/VardaShrivastava.jpg',
     img: 'VardaShrivastava.jpg',
-    email: 'varda@cs10.org'
+    email: 'varda@cs10.org',
+    bio: 'VardaBio'
 };
 
 // Readers
@@ -107,15 +112,13 @@ var vardaS = {
 var brianaO = {
     name: 'Reader Briana Ong',
     imgSrc: '../Fa17/LAs/BrianaOng.jpg',
-    img: 'BrianaOng.jpg',
-    bio: 'BrianaBio'
+    img: 'BrianaOng.jpg'
 };
 
 var grantK = {
     name: 'Reader Grant Kehn',
     imgSrc: '../Fa17/LAs/GrantKehn.jpg',
-    img: 'GrantKehn.jpg',
-    bio: 'GrantBio'
+    img: 'GrantKehn.jpg'
 };
 
 var isaacMerritt = {
@@ -129,14 +132,16 @@ var kathleenGao = {
     name: 'Reader Kathleen Gao',
     imgSrc: '../Sp18/las/KathleenGao.jpg',
     imgCrazy: '../Sp18/las/KathleenGaoCrazy.jpg',
-    img: 'KathleenGao.jpg'
+    img: 'KathleenGao.jpg',
+    bio: 'KathleenBio'
 };
 
 var murtazaAli = {
     name: 'Reader Murtaza Ali',
     imgSrc: '../Sp18/las/MurtazaAli.jpg',
     imgCrazy: '../Sp18/las/MurtazaAliCrazy.jpg',
-    img: 'MurtazaAli.jpg'
+    img: 'MurtazaAli.jpg',
+    bio: 'MurtazaBio'
 };
 
 var rafaelF = {
