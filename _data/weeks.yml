@@ -71,8 +71,29 @@
 #######################################################
 
 - number: 3
+  reading-quiz:
+    lab: second
+    number: 2
   dates: 9/3 to 9/7
-  readings: null
+  readings:
+    - title: What is an Algorithm?
+      required: true
+      link: https://bcourses.berkeley.edu/courses/1474574/files/folder/Readings?preview=73505197
+    - title: How Algorithms Shape Our World
+      required: true
+      link: https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world
+    - title: Algorithms are Great and All, But They Can Also Ruin Lives
+      required: true
+      link: https://www.wired.com/2014/11/algorithms-great-can-also-ruin-lives/
+    - title: Hacker News Comments on "Algorithms are Great and All..."
+      required: true
+      link: https://news.ycombinator.com/item?id=8630311
+    - title: The 10 Algorithms That Dominate Our World
+      required: false
+      link: http://io9.gizmodo.com/the-10-algorithms-that-dominate-our-world-1580110464
+    - title: The real 10 algorithms that dominate our world
+      required: false
+      link: https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04
   lect1: null
   lab1:
     title: 4. Abstraction
