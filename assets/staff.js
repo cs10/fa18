@@ -459,7 +459,7 @@ var rafaelF = {
 
 var inst = [ DanGarcia ];
 var tas = [ mansiS, aaronB, angelaW, bhumikaG, brendanH,
-            niketK, nikiZ, matthewS, maxsonY, schuylerR, vardaS];
+            matthewS, maxsonY, niketK, nikiZ, schuylerR, vardaS];
 var readers = [ brianaO, grantK, isaacMerritt, kathleenGao, murtazaAli, rafaelF ];
 
 var las = [];
