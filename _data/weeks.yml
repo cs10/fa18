@@ -65,6 +65,9 @@
     demo: null
   notes:
     - title: HW1 due 9/7
+      links:
+          - title: (spec)
+            link: http://cs10.org/fa18/assign.html?https://docs.google.com/document/d/e/2PACX-1vQxMnnS5C1--I199ncaXVDzdYKlALmRR4RVvluqV5AMvsAl8WYP1B10M0aroSI2bAz0O9ka2kz3ntz0/pub
 
 #######################################################
 ###################### WEEK 3 #########################
@@ -111,6 +114,9 @@
     demo: null
   notes:
     - title: HW1 due 9/7
+      links:
+          - title: (spec)
+            link: http://cs10.org/fa18/assign.html?https://docs.google.com/document/d/e/2PACX-1vQxMnnS5C1--I199ncaXVDzdYKlALmRR4RVvluqV5AMvsAl8WYP1B10M0aroSI2bAz0O9ka2kz3ntz0/pub
     - title: HW2 due 9/21
 
 #######################################################
