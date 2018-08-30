@@ -299,7 +299,7 @@ var patriciaYu = {
 };
 
 var qimingWu = {
-  name: 'LA QiMing Wu',
+  name: 'LA Qiming Wu',
   img: 'NPY3D.jpg',
   imgSrc: 'NPY3D.jpg'
 };
