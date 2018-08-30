@@ -153,306 +153,198 @@ var rafaelF = {
 
  // Lab Assistants
 
-// var aarishIrfan = {
-//     name: 'LA Aarish Irfan',
-//     img: 'NPY3D.jpg',
-//     imgSrc: 'NPY3D.jpg'
-// };
-//
-// var aaronBaker = {
-//     name: 'LA Aaron Baker',
-//     imgSrc: '../Sp18/las/AaronBaker.jpg',
-//     imgCrazy: '../Sp18/las/AaronBakerCrazy.jpg',
-//     img: 'AaronBaker.jpg'
-// };
-//
-//  var abbyC = {
-//     name: 'LA Abby Cohn',
-//     imgSrc: '../Fa17/LAs/AbbyCohn.jpg',
-//     img: 'AbbyCohn',
-// };
-//
-// var alyssaLo = {
-//     name: 'LA Alyssa Lo',
-//     imgSrc: '../Sp18/las/AlyssaLo.jpg',
-//     imgCrazy: '../Sp18/las/AlyssaLoCrazy.jpg',
-//     img: 'AlyssaLo.jpg',
-// };
-//
-// var alyssaSugarman = {
-//     name: 'LA Alyssa Sugarman',
-//     imgSrc: '../Sp18/las/AlyssaSugarman.jpg',
-//     imgCrazy: '../Sp18/las/AlyssaSugarmanCrazy.jpg',
-//     img: 'AlyssaSugarman.jpg',
-// };
-//
-// var audreyMa = {
-//     name: 'LA Audrey Ma',
-//     imgSrc: '../Sp18/las/AudreyMa.jpg',
-//     imgCrazy: '../Sp18/las/AudreyMaCrazy.jpg',
-//     img: 'AudreyMa.jpg',
-// };
-//
-// var austinChang = {
-//     name: 'LA Austin Chang',
-//     imgSrc: '../Sp18/las/AustinChang.jpg',
-//     imgCrazy: '../Sp18/las/AustinChangCrazy.jpg',
-//     img: 'AustinChang.jpg',
-// };
-//
-// var avikSethia = {
-//     name: 'LA Avik Sethia',
-//     imgSrc: '../Sp18/las/AvikSethia.jpg',
-//     imgCrazy: '../Sp18/las/AvikSethiaCrazy.jpg',
-//     img: 'AvikSethia.jpg'
-// };
-//
-// var baileyHarrison = {
-//   name: 'LA Bailey Harrison',
-//   img: 'NPY3D.jpg',
-//   imgSrc: 'NPY3D.jpg'
-// };
-//
-// var batoolN = {
-//     name: 'LA Batool Naqvi',
-//     imgSrc: '../Sp17/las/BatoolNaqvi.jpg',
-//     img: 'BatoolNaqvi.jpg',
-// };
-//
-// var barbaraLiao = {
-//   name: 'LA Barbara Liao',
-//   imgSrc: '../Sp18/las/BarbaraLiao.jpg',
-//   imgCrazy: '../Sp18/las/BarbaraLiaoCrazy.jpg',
-//   img: 'BarbaraLiao.jpg'
-// };
-//
-// var benChen = {
-//   name: 'LA Ben Chen',
-//   img: 'NPY3D.jpg',
-//   imgSrc: 'NPY3D.jpg'
-// };
-//
-// var bryantBettencourt = {
-//   name: 'LA Bryant Bettencourt',
-//   imgSrc: '../Sp18/las/BryantBettencourt.jpg',
-//     imgCrazy: '../Sp18/las/BryantBettencourtCrazy.jpg',
-//     img: 'BryantBettencourt.jpg'
-// };
-//
-// var chrisTong = {
-//   name: 'LA Chris Tong',
-//   img: 'NPY3D.jpg',
-//   imgSrc: 'NPY3D.jpg'
-// };
-//
-// var claireDM = {
-//   name: 'LA Claire Dominique Medina',
-//   imgSrc: '../Sp18/las/ClaireMedina.jpg',
-//     imgCrazy: '../Sp18/las/ClaireMedinaCrazy.jpg',
-//     img: 'ClaireMedina.jpg'
-// };
-//
-// var deveshAgarwal = {
-//     name: 'LA Devesh Agarwal',
-//     imgSrc: '../Sp18/las/DeveshAgarwal.jpg',
-//     imgCrazy: '../Sp18/las/DeveshAgarwalCrazy.jpg',
-//     img: 'DeveshAgarwal.jpg'
-// };
-//
-// var dustinChen = {
-//   name: 'LA Dustin Chen',
-//   imgSrc: '../Sp18/las/DustinChen.jpg',
-//   imgCrazy: '../Sp18/las/DustinChenCrazy.jpg',
-//   img: 'DustinChen.jpg'
-// };
-//
-// var edwardChoi = {
-//     name: 'LA Edward Choi',
-//     imgSrc: '../Sp18/las/EdwardChoi.jpg',
-//     imgCrazy: '../Sp18/las/EdwardChoiCrazy.jpg',
-//     img: 'EdwardChoi.jpg'
-// };
-//
-// var faizShamji = {
-//   name: 'LA Faiz Shamji',
-//   imgSrc: '../Sp18/las/FaizShamji.jpg',
-//   imgCrazy: '../Sp18/las/FaizShamjiCrazy.jpg',
-//   img: 'FaizShamji.jpg'
-// };
-//
-// var floraDong = {
-//   name: 'LA Flora Dong',
-//   imgSrc: '../Sp18/las/FloraDong.jpg',
-//   imgCrazy: '../Sp18/las/FloraDongCrazy.jpg',
-//   img: 'FloraDong.jpg'
-// };
-//
-// var jacquelineLi = {
-//   name: 'LA Jacqueline Li',
-//   imgSrc: '../Sp18/las/JacquelineLi.jpg',
-//   imgCrazy: '../Sp18/las/JacquelineLiCrazy.jpg',
-//   img: 'JacquelineLi.jpg'
-// };
-//
-// var janiceK = {
-//   name: 'LA Janice Kok',
-//   imgSrc: '../Sp18/las/JaniceJeaKok.jpg',
-//   imgCrazy: '../Sp18/las/JaniceJeaKokCrazy.jpg',
-//   img: 'JaniceJeaKok.jpg'
-// };
-//
-// var janiceNg = {
-//   name: 'LA Janice Ng',
-//   imgSrc: '../Sp18/las/JaniceNg.jpg',
-//   imgCrazy: '../Sp18/las/JaniceNgCrazy.jpg',
-//   img: 'JaniceNg.jpg'
-// };
-//
-// var jennySong = {
-//   name: 'LA Jenny Song',
-//   imgSrc: '../Sp18/las/JennySong.jpg',
-//   imgCrazy: '../Sp18/las/JennySongCrazy.jpg',
-//   img: 'JennySong.jpg'
-// };
-//
-// var jocelynS = {
-//     name: 'LA Jocelyn Sun',
-//     imgSrc: '../Fa17/LAs/JocelynSun.jpg',
-//     img: 'JocelynSun.jpg',
-// };
-//
-// var johnPesanello = {
-//   name: 'LA John Pesanello',
-//   imgSrc: '../Sp18/las/JohnPesanello.jpg',
-//   imgCrazy: '../Sp18/las/JohnPesanelloCrazy.jpg',
-//   img: 'JohnPesanello.jpg'
-// };
-//
-// var jordynPinochi = {
-//   name: 'LA Jordyn Pinochi',
-//   img: 'NPY3D.jpg',
-//   imgSrc: 'NPY3D.jpg'
-// };
-//
-// var kaelaSeiersen = {
-//   name: 'LA Kaela Seiersen',
-//   imgSrc: '../Sp18/las/KaelaSeiersen.jpg',
-//   imgCrazy: '../Sp18/las/KaelaSeiersenCrazy.jpg',
-//   img: 'KaelaSeiersen.jpg'
-// };
-//
-// var kellyannYe = {
-//     name: 'LA Kellyann Ye',
-//     imgSrc: '../Sp18/las/KellyannYe.jpg',
-//     imgCrazy: '../Sp18/las/KellyannYeCrazy.jpg',
-//     img: 'KellyannYe.jpg'
-// };
-//
-// var kevinYu = {
-//     name: 'LA Kevin Yu',
-//     imgSrc: '../Sp18/las/KevinYu.jpg',
-//     imgCrazy: '../Sp18/las/KevinYuCrazy.jpg',
-//     img: 'KevinYu.jpg'
-// };
-//
-// var lamPham = {
-//   name: 'LA Lam Pham',
-//   imgSrc: '../Sp18/las/LamPham.jpg',
-//     imgCrazy: '../Sp18/las/LamPhamCrazy.jpg',
-//     img: 'LamPham.jpg'
-// };
-//
-// var lillianOhara = {
-//     name: 'LA Lillian Ohara',
-//     imgSrc: '../Sp18/las/LillianOhara.jpg',
-//     imgCrazy: '../Sp18/las/LillianOharaCrazy.jpg',
-//     img: 'LillianOhara.jpg'
-// };
-//
-// var lucyWhite = {
-//   name: 'LA Lucy White',
-//   img: 'NPY3D.jpg',
-//   imgSrc: 'NPY3D.jpg'
-// };
-//
-// var markPreston = {
-//   name: 'LA Mark Preston',
-//   img: 'NPY3D.jpg',
-//   imgSrc: 'NPY3D.jpg'
-// };
-//
-// var mattR = {
-//     name: 'LA Matt Ronnau',
-//     imgSrc: '../Sp18/LAs/MattRonnau.jpg',
-//     imgCrazy: '../Sp18/las/MattRonnauCrazy.jpg',
-//     img: 'MattRonnau.jpg'
-// };
-//
-// var maxsonY = {
-//     name: 'LA Maxson Yang',
-//     imgSrc: '../Fa17/LAs/MaxsonYang.jpg',
-//     img: 'MaxsonYang.jpg'
-// };
-//
-// var neilRabb = {
-//   name: 'LA Neil Rabb',
-//   img: 'NPY3D.jpg',
-//   imgSrc: 'NPY3D.jpg'
-// };
-//
-// var nathanaelShin = {
-//     name: 'LA Nathanael Shin',
-//     imgSrc: '../Sp18/las/NathanaelShin.jpg',
-//     imgCrazy: '../Sp18/las/NathanaelShinCrazy.jpg',
-//     img: 'NathanaelShin.jpg'
-// };
-//
-// var patriciaYu = {
-//   name: 'LA Patricia Yu',
-//   imgSrc: '../Sp18/las/PatriciaYu.jpg',
-//   imgCrazy: '../Sp18/las/PatriciaYuCrazy.jpg',
-//   img: 'NathanaelShin.jpg'
-// };
-//
-// var qimingWu = {
-//   name: 'LA QiMing Wu',
-//   img: 'NPY3D.jpg',
-//   imgSrc: 'NPY3D.jpg'
-// };
-//
-// var ruqiaMohammad = {
-//   name: 'LA Ruqia Mohammad',
-//   imgSrc: '../Sp18/las/RuqiaMohammad.jpg',
-//   imgCrazy: '../Sp18/las/RuqiaMohammadCrazy.jpg',
-//   img: 'RuqiaMohammad.jpg'
-// };
-//
-// var shannonHearn = {
-//     name: 'LA Shannon Hearn',
-//     imgSrc: '../Sp18/las/ShannonHearn.jpg',
-//     imgCrazy: '../Sp18/las/ShannonHearnCrazy.jpg',
-//     img: 'ShannonHearn.jpg'
-// };
-//
-// var sofieHerbeck = {
-//     name: 'LA Sofie Herbeck',
-//     imgSrc: '../Sp18/las/SofieHerbeck.jpg',
-//     imgCrazy: '../Sp18/las/SofieHerbeckCrazy.jpg',
-//     img: 'ShannonHearn.jpg'
-// };
-//
-// var stevenTong = {
-//     name: 'LA Steven Tong',
-//     imgSrc: '../Sp18/las/StevenTong.jpg',
-//     imgCrazy: '../Sp18/las/StevenTongCrazy.jpg',
-//     img: 'StevenTong.jpg'
-// };
-//
-// var yifeiZheng = {
-//   name: 'LA Yifei Zheng',
-//   img: 'NPY3D.jpg',
-//   imgSrc: 'NPY3D.jpg'
-// };
+var aarishIrfan = {
+    name: 'LA Aarish Irfan',
+    img: 'NPY3D.jpg',
+    imgSrc: 'NPY3D.jpg'
+};
+
+var alanShoiket = {
+    name: 'LA Alan Shoiket',
+    imgSrc: '../Fa18/AlanShoiket.jpg',
+    imgCrazy: '../Fa18/AlanShoiketCrazy.jpg',
+    img: 'AlanShoiket.jpg'
+};
+
+var batoolNaqvi = {
+    name: 'LA Batool Naqvi',
+    imgSrc: '../Sp17/las/BatoolNaqvi.jpg',
+    img: 'BatoolNaqvi.jpg',
+};
+
+var beatrizIsrade = {
+    name: 'LA Beatriz Israde',
+    img: 'NPY3D.jpg',
+    imgSrc: 'NPY3D.jpg'
+};
+
+var bryantBettencourt = {
+    name: 'LA Bryant Bettencourt',
+    imgSrc: '../Sp18/las/BryantBettencourt.jpg',
+    imgCrazy: '../Sp18/las/BryantBettencourtCrazy.jpg',
+    img: 'BryantBettencourt.jpg'
+};
+
+var christinaHendricks = {
+    name: 'LA Christina Hendricks',
+    img: 'NPY3D.jpg',
+    imgSrc: 'NPY3D.jpg'
+};
+
+var daniSwords = {
+    name: 'LA Dani Swords',
+    imgSrc: '../Fa18/DaniSwords.jpg',
+    imgCrazy: '../Fa18/DaniSwordsCrazy.jpg',
+    img: 'DaniSwords.jpg'
+};
+
+var daniaRamirez = {
+    name: 'LA Dania Ramirez',
+    imgSrc: '../Fa18/DaniaRamirez.jpg',
+    imgCrazy: '../Fa18/DaniaRamirezCrazy.jpg',
+    img: 'DaniaRamirez.jpg'
+};
+
+var deveshAgarwal = {
+    name: 'LA Devesh Agarwal',
+    imgSrc: '../Sp18/las/DeveshAgarwal.jpg',
+    imgCrazy: '../Sp18/las/DeveshAgarwalCrazy.jpg',
+    img: 'DeveshAgarwal.jpg'
+};
+
+var dustinChen = {
+  name: 'LA Dustin Chen',
+  imgSrc: '../Sp18/las/DustinChen.jpg',
+  imgCrazy: '../Sp18/las/DustinChenCrazy.jpg',
+  img: 'DustinChen.jpg'
+};
+
+var ericXue = {
+    name: 'LA Eric Xue',
+    img: 'NPY3D.jpg',
+    imgSrc: 'NPY3D.jpg'
+};
+
+var faizShamji = {
+  name: 'LA Faiz Shamji',
+  imgSrc: '../Sp18/las/FaizShamji.jpg',
+  imgCrazy: '../Sp18/las/FaizShamjiCrazy.jpg',
+  img: 'FaizShamji.jpg'
+};
+
+var frejaWillink = {
+    name: 'LA Freja Willink',
+    imgSrc: '../Fa18/FrejaWillink.jpg',
+    imgCrazy: '../Fa18/FrejaWillinkCrazy.jpg',
+    img: 'FrejaWillink.jpg'
+};
+
+var frejaDavis = {
+    name: 'LA Freja Davis',
+    img: 'NPY3D.jpg',
+    imgSrc: 'NPY3D.jpg'
+};
+
+var ireneOrtega = {
+    name: 'LA Irene Ortega',
+    imgSrc: '../Fa18/IreneOrtega.jpg',
+    imgCrazy: '../Fa18/IreneOrtegaCrazy.jpg',
+    img: 'IreneOrtega.jpg'
+};
+
+var julieSitu = {
+    name: 'LA Julie Situ',
+    img: 'NPY3D.jpg',
+    imgSrc: 'NPY3D.jpg'
+};
+
+var johnPesanello = {
+  name: 'LA John Pesanello',
+  imgSrc: '../Sp18/las/JohnPesanello.jpg',
+  imgCrazy: '../Sp18/las/JohnPesanelloCrazy.jpg',
+  img: 'JohnPesanello.jpg'
+};
+
+var kellyannYe = {
+    name: 'LA Kellyann Ye',
+    imgSrc: '../Sp18/las/KellyannYe.jpg',
+    imgCrazy: '../Sp18/las/KellyannYeCrazy.jpg',
+    img: 'KellyannYe.jpg'
+};
+
+var lucyWhite = {
+    name: 'LA Lucy White',
+    imgSrc: '../Fa18/LucyWhite.jpg',
+    imgCrazy: '../Fa18/LucyWhiteCrazy.jpg',
+    img: 'LucyWhite.jpg'
+};
+
+var mackenzieNishijima = {
+    name: 'LA Mackenzie Nishijima',
+    img: 'NPY3D.jpg',
+    imgSrc: 'NPY3D.jpg'
+};
+
+var neilRabb = {
+  name: 'LA Neil Rabb',
+  img: 'NPY3D.jpg',
+  imgSrc: 'NPY3D.jpg'
+};
+
+var patriciaYu = {
+  name: 'LA Patricia Yu',
+  imgSrc: '../Sp18/las/PatriciaYu.jpg',
+  imgCrazy: '../Sp18/las/PatriciaYuCrazy.jpg',
+  img: 'PatriciaYu.jpg'
+};
+
+var qimingWu = {
+  name: 'LA QiMing Wu',
+  img: 'NPY3D.jpg',
+  imgSrc: 'NPY3D.jpg'
+};
+
+var ruqiaMohammad = {
+  name: 'LA Ruqia Mohammad',
+  imgSrc: '../Sp18/las/RuqiaMohammad.jpg',
+  imgCrazy: '../Sp18/las/RuqiaMohammadCrazy.jpg',
+  img: 'RuqiaMohammad.jpg'
+};
+
+var shannonHearn = {
+    name: 'LA Shannon Hearn',
+    imgSrc: '../Sp18/las/ShannonHearn.jpg',
+    imgCrazy: '../Sp18/las/ShannonHearnCrazy.jpg',
+    img: 'ShannonHearn.jpg'
+};
+
+var sophiePeeler = {
+    name: 'LA Sophie Peeler',
+    imgSrc: '../Fa18/SophiePeeler.jpg',
+    imgCrazy: '../Fa18/SophiePeelerCrazy.jpg',
+    img: 'LucyWhite.jpg'
+};
+
+var stevenTong = {
+    name: 'LA Steven Tong',
+    imgSrc: '../Sp18/las/StevenTong.jpg',
+    imgCrazy: '../Sp18/las/StevenTongCrazy.jpg',
+    img: 'StevenTong.jpg'
+};
+
+var tinaTeng = {
+    name: 'LA Tina Teng',
+    imgSrc: '../Fa18/TinaTeng.jpg',
+    imgCrazy: '../Fa18/TinaTengCrazy.jpg',
+    img: 'TinaTeng.jpg'
+};
+
+var tomLim = {
+  name: 'LA Tom Lim',
+  img: 'NPY3D.jpg',
+  imgSrc: 'NPY3D.jpg'
+};
+
 /*****************************************************************************/
 /** LIST DEFINITIONS **/
 /*****************************************************************************/
@@ -462,7 +354,12 @@ var tas = [ mansiS, aaronB, angelaW, bhumikaG, brendanH,
             matthewS, maxsonY, niketK, nikiZ, schuylerR, vardaS];
 var readers = [ brianaO, grantK, isaacMerritt, kathleenGao, murtazaAli, rafaelF ];
 
-var las = [];
+var las = [ aarishIrfan, alanShoiket, batoolNaqvi, beatrizIsrade, bryantBettencourt,
+            christinaHendricks, daniSwords, daniaRamirez, deveshAgarwal, dustinChen,
+            ericXue, faizShamji, frejaWillink, frejaDavis, ireneOrtega,
+            julieSitu, johnPesanello, kellyannYe, lucyWhite, mackenzieNishijima,
+            neilRabb, patriciaYu, qimingWu, ruqiaMohammad, shannonHearn,
+            sophiePeeler, stevenTong, tinaTeng, tomLim ];
 
 // If you need to add a new SECTION add it to this object.
 // Follow the same formt.
@@ -555,7 +452,7 @@ function buildGroup(group, w) {
     for (var i = 0; i < ppl.length; i += w) {
         content += '<div class="row staffimgrow">';
         for (var j = i; j < (i + w) && j < ppl.length; j += 1) {
-            if (i + w > ppl.length) {
+            if (i + w > ppl.length && group != 'las') {
                  w = ppl.length - i;
              }
             content += buildPerson(ppl[j], w);
