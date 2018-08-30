@@ -239,8 +239,8 @@ var frejaWillink = {
     img: 'FrejaWillink.jpg'
 };
 
-var frejaDavis = {
-    name: 'LA Freja Davis',
+var freyaDavis = {
+    name: 'LA Freya Davis',
     img: 'NPY3D.jpg',
     imgSrc: 'NPY3D.jpg'
 };
@@ -356,7 +356,7 @@ var readers = [ brianaO, grantK, isaacMerritt, kathleenGao, murtazaAli, rafaelF 
 
 var las = [ aarishIrfan, alanShoiket, batoolNaqvi, beatrizIsrade, bryantBettencourt,
             christinaHendricks, daniSwords, daniaRamirez, deveshAgarwal, dustinChen,
-            ericXue, faizShamji, frejaWillink, frejaDavis, ireneOrtega,
+            ericXue, faizShamji, frejaWillink, freyaDavis, ireneOrtega,
             julieSitu, johnPesanello, kellyannYe, lucyWhite, mackenzieNishijima,
             neilRabb, patriciaYu, qimingWu, ruqiaMohammad, shannonHearn,
             sophiePeeler, stevenTong, tinaTeng, tomLim ];
