@@ -47,7 +47,7 @@
 
     {% if week.readings == null %}
       <td rowspan = 2>No Readings</td>
-    {% if week.readings == "tba" %}
+    {% elsif week.readings == "tba" %}
       <td rowspan = 2>TBA</td>
     {% else %}
       <td rowspan = 2>
@@ -186,7 +186,7 @@
       </td>
     {% else %}
         <td>
-          {% if week.reading-quiz.lab == "first" %}
+          {% if week.reading-quiz.lab == "second" %}
             <p>Reading Quiz {{ week.reading-quiz.number }}</p>
           {% endif %}
           {% if week.lab2.link != null %}
