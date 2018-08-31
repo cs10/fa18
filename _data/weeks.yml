@@ -148,7 +148,7 @@
 
 - number: 5
   dates: 9/17 to 9/21
-  readings: null
+  readings: tba
   lect1:
     title: Algorithmic Complexity
     link: null
@@ -171,7 +171,7 @@
 
 - number: 6
   dates: 9/24 to 9/28
-  readings: null
+  readings: tba
   lect1:
     title: Concurrency
   lab1:
@@ -194,7 +194,7 @@
 
 - number: 7
   dates: 10/1 to 10/5
-  readings: null
+  readings: tba
   lect1:
     title: TBA
   lab1:
@@ -216,7 +216,7 @@
 
 - number: 8
   dates: 10/8 to 10/12
-  readings: null
+  readings: tba
   lect1:
     title: TBA
   lab1:
@@ -239,7 +239,7 @@
 
 - number: 9
   dates: 10/15 to 10/19
-  readings: null
+  readings: tba
   lect1:
     title: Procedures as Data - Higher Order Functions
   lab1:
@@ -283,6 +283,9 @@
 #######################################################
 
 - number: 11
+  reading-quiz:
+    lab: first
+    number: 8
   dates: 10/29 to 11/2
   readings:
     - title: Why Python is a Great First Language
@@ -317,7 +320,7 @@
 
 - number: 12
   dates: 11/5 to 11/9
-  readings: null
+  readings: tba
   lect1:
     title: TBA
   lab1:
@@ -342,7 +345,7 @@
 
 - number: 13
   dates: 11/12 to 11/16
-  readings: null
+  readings: tba
   lect1: null
   lab1:
     title: 18. Besides Blocks&#58 Data Science with Python
@@ -364,11 +367,12 @@
 
 - number: 14
   dates: 11/19 to 11/23
-  readings: null
+  readings: tba
   lect1:
     title: Social Implications of Computing&#58 Algorithmic Bias
   lab1:
-    title: Social Implications of Computing&#58 Algorithmic Bias
+    title: Social Implications Session
+    work-session: true
   lect2: null
   lab2: null
   disc: null
@@ -383,7 +387,7 @@
 
 - number: 15
   dates: 11/26 to 11/30
-  readings: null
+  readings: tba
   lect1:
     title: Alumni Panel
   lab1:
