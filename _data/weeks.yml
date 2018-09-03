@@ -14,7 +14,7 @@
     title: 1. Welcome to Snap!
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/1-introduction.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   disc:
-    title: Welcome & Intro to Snap!
+    title: Snap! Scavenger Hunt
     link: https://drive.google.com/file/d/1k-EzIVmr0CmL39cwv1JtAlrKCyFhkyxU/view?usp=sharing
     solutions: https://drive.google.com/file/d/1SXJSK4CUVSbrBMOatEkuMmBeeDf8zopt/view?usp=sharing
     demo: null
@@ -59,9 +59,9 @@
     title: 3. Conditionals and Reporters
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/3-conditionals.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   disc:
-    title: The Power of Binary
-    link: null
-    solutions: null
+    title: Number Representation
+    link: https://drive.google.com/file/d/1Rc7B4gSAi3zUnPBMJ47xQ5_5IANib7y9/view?usp=sharing
+    solutions: https://drive.google.com/file/d/1g1uYFtm7rj2KWdZkV-3b1_ieiSyf0HDp/view?usp=sharing
     demo: null
   notes:
     - title: HW1 due 9/7
