@@ -96,6 +96,7 @@ var schuylerR = {
     img: 'Schuyler Ross.jpg',
     imgSrc: '../Fa17/SchuylerRoss.jpg',
     email: 'schuyler@cs10.org',
+    bio: 'SchuylerBio'
 };
 
 var vardaS = {
