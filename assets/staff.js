@@ -49,7 +49,8 @@ var bhumikaG = {
     name: 'TA Bhumika Goel',
     imgSrc: '../Su17/BhumikaGoel.jpg',
     img: 'BhumikaGoel.jpg',
-    email: 'bhumika@cs10.org'
+    email: 'bhumika@cs10.org',
+    bio: BhumikaBio
 };
 
 var brendanH = {
@@ -148,8 +149,7 @@ var murtazaAli = {
 var rafaelF = {
     name: 'Reader Rafael Felix',
     imgSrc: '../Sp17/las/RafaelFelix.jpg',
-    img: 'RafaelFelix.jpg',
-    bio: 'RafaelBio'
+    img: 'RafaelFelix.jpg'
 };
 
  // Lab Assistants
