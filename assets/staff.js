@@ -50,7 +50,7 @@ var bhumikaG = {
     imgSrc: '../Su17/BhumikaGoel.jpg',
     img: 'BhumikaGoel.jpg',
     email: 'bhumika@cs10.org',
-    bio: BhumikaBio
+    bio: 'BhumikaBio'
 };
 
 var brendanH = {
