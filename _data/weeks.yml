@@ -110,9 +110,9 @@
     title: 5. Lists
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   disc:
-    title: Quest Review & All About Lists
-    link: null
-    solutions: null
+    title: Domain, Range, Lists, & HOFS
+    link: https://drive.google.com/file/d/1WiheV_68C4XckVuWplbzKrt3U_Rp0hvy/view?usp=sharing
+    solutions: https://drive.google.com/file/d/13D_VE66-sDnbY1T_hpThO6XNV5MkD4gu/view?usp=sharing
     demo: null
   notes:
     - title: HW1 due 9/7
