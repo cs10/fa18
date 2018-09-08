@@ -35,7 +35,8 @@ var aaronB = {
     img: 'AaronBaker.jpg',
     imgSrc: '../Sp18/las/AaronBaker.jpg',
     imgCrazy: '../Sp18/las/AaronBakerCrazy.jpg',
-    email: 'aaron@cs10.org'
+    email: 'aaron@cs10.org',
+    bio: 'AaronBio'
 };
 
 var angelaW = {
