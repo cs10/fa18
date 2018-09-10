@@ -122,6 +122,9 @@
           - title: (submit)
             link: https://bcourses.berkeley.edu/courses/1474574/assignments/7914866
     - title: HW2 due 9/21
+      links:
+          - title: (spec)
+            link: http://cs10.org/fa18/assign.html?https://docs.google.com/document/d/e/2PACX-1vSTzYLEf_j2NIA4ItsKFGkwsuG0wwPUdQ2PzgIQOTyvl8agKXyE88zUEYLecYO90lnYgEeu0lm0jJED/pub
 
 #######################################################
 ###################### WEEK 4 #########################
@@ -131,7 +134,7 @@
   dates: 9/10 to 9/14
   readings: null
   lect1:
-    title: Quest, 3-4PM. Check Piazza for room assignments. 
+    title: Quest, 3-4PM. Check Piazza for room assignments.
     exam: true
   lab1:
     title: HW2 Work Session
@@ -145,6 +148,9 @@
     title: Algorithms + More Lists
   notes:
     - title: HW2 due 9/21
+    links:
+        - title: (spec)
+          link: http://cs10.org/fa18/assign.html?https://docs.google.com/document/d/e/2PACX-1vSTzYLEf_j2NIA4ItsKFGkwsuG0wwPUdQ2PzgIQOTyvl8agKXyE88zUEYLecYO90lnYgEeu0lm0jJED/pub
 
 #######################################################
 ###################### WEEK 5 #########################
