@@ -12,7 +12,7 @@
     link: https://drive.google.com/drive/folders/10JRGwKwLeFajemx0k-0erKKB1OW27DCK?usp=sharing
   lab2:
     title: 1. Welcome to Snap!
-    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/1-introduction.topic&course=cs10_fa18.html&novideo&noreading&noassignment
+    link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/1-introduction.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   disc:
     title: Snap! Scavenger Hunt
     link: https://drive.google.com/file/d/1k-EzIVmr0CmL39cwv1JtAlrKCyFhkyxU/view?usp=sharing
@@ -51,13 +51,13 @@
     link: https://drive.google.com/drive/folders/1U9znCS64O7Nq8USFoCLzo133WTJblg5R?usp=sharing
   lab1:
     title: 2. Build Your Own Blocks
-    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=cs10_fa18.html&novideo&noreading&noassignment
+    link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   lect2:
     title: Numbers and Abstraction
     link: https://drive.google.com/drive/folders/1xafqohbzkp2XKPhDtl4dU2WGMr-nyUXT?usp=sharing
   lab2:
     title: 3. Conditionals and Reporters
-    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/3-conditionals.topic&course=cs10_fa18.html&novideo&noreading&noassignment
+    link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/3-conditionals.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   disc:
     title: Number Representation
     link: https://drive.google.com/file/d/1Rc7B4gSAi3zUnPBMJ47xQ5_5IANib7y9/view?usp=sharing
@@ -102,13 +102,13 @@
   lect1: null
   lab1:
     title: 4. Abstraction
-    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/4-abstraction-testing.topic&course=cs10_fa18.html&novideo&noreading&noassignment
+    link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/4-abstraction-testing.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   lect2:
     title: Lists and Scoping
     link: https://drive.google.com/drive/folders/10x1lmGg1nMSkixz2eYQXPR5iDtBL6jyv?usp=sharing
   lab2:
     title: 5. Lists
-    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=cs10_fa18.html&novideo&noreading&noassignment
+    link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   disc:
     title: Domain, Range, Lists, & HOFS
     link: https://drive.google.com/file/d/1WiheV_68C4XckVuWplbzKrt3U_Rp0hvy/view?usp=sharing
@@ -143,7 +143,7 @@
     title: Algorithms
   lab2:
     title: 6. Algorithms
-    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic&course=cs10_fa18.html&novideo&noreading&noassignment
+    link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   disc:
     title: Algorithms + More Lists
   notes:
@@ -169,7 +169,7 @@
     title: Testing + HW3
   lab2:
     title: 8. Testing + HW3
-    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=cs10_fa17.html&novideo&noreading&noassignment
+    link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=cs10_fa17.html&novideo&noreading&noassignment
   disc:
     title: Algorithmic Complexity & HW3 Intro
   notes:
@@ -186,7 +186,7 @@
     title: Concurrency
   lab1:
     title: 9. Concurrency
-    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/concurrency.topic&course=cs10_fa18.html&novideo&noreading&noassignment
+    link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/concurrency.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   lect2:
     title: Programming Paradigms
   lab2:
@@ -209,12 +209,12 @@
     title: TBA
   lab1:
     title: 10. Tic-Tac-Toe, Boards
-    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=cs10_fa18.html&novideo&noreading&noassignment
+    link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   lect2:
     title: Recursion I
   lab2:
     title: 11. Trees and Fractals Using Recursion
-    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=cs10_fa18.html&novideo&noreading&noassignment
+    link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   disc:
     title: Introduction to Recursion
   notes:
