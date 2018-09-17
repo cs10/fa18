@@ -177,11 +177,11 @@
     title: 7. Algorithmic Complexity
     link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithm-complexity-update.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   lect2:
-    title: Testing + HW3
+    title: Concurrency
     guest-lecturer: Mansi Shah
   lab2:
-    title: 8. Testing + HW3
-    link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=cs10_fa17.html&novideo&noreading&noassignment
+    title: 8. Concurrency
+    link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/concurrency.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   disc:
     title: Algorithmic Complexity & HW3 Intro
   notes:
@@ -195,10 +195,10 @@
   dates: 9/24 to 9/28
   readings: tba
   lect1:
-    title: Concurrency
+    title: Testing + HW3
   lab1:
-    title: 9. Concurrency
-    link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/concurrency.topic&course=cs10_fa18.html&novideo&noreading&noassignment
+    title: 9. Testing + HW3
+    link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=cs10_fa17.html&novideo&noreading&noassignment
   lect2:
     title: Programming Paradigms
   lab2:

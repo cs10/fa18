@@ -172,27 +172,7 @@ To get checked off, you should prepare answers to the specific questions for eac
 * Why are constant time algorithms so rare?
 * Why are logarithmic time algorithms sought after?
 
-
-## Lab 8: Testing Code and 2048 {#lab8}
-
-**Required**
-
-* How does the **test** block work? What is its domain/range?
-* Show us the output of your **test** block on **merge column**. Explain why this output makes sense, and how the test block is checking this block.
-* How will writing tests help you for the 2048 assignment?
-* How do **merge up** and **merge column** work? What are the domain/range of each block?
-* What is the domain and range of the **update display** block?
-
-**More Self-Check Questions**
-
-* What tests could you have written for HW2 (Encryptify)?
-* Explain how each of the HW3 blocks (that you are going to fill in as your  hw assignment) are supposed to work, to your lab partner(s).
-
----
-
-# Week 6: Lab 9
-
-## Lab 9: Concurrency {#lab9}
+## Lab 8: Concurrency {#lab8}
 
 **Required**
 
@@ -206,6 +186,25 @@ To get checked off, you should prepare answers to the specific questions for eac
 
 * What were some strategies your team thought of in the card sorting activity? How do these relate to how a computer handles concurrency?
 * Give an example of when concurrency might cause a problem in a computer program.
+
+---
+
+# Week 6: Lab 9
+
+## Lab 9: Testing Code and 2048 {#lab9}
+
+**Required**
+
+* How does the **test** block work? What is its domain/range?
+* Show us the output of your **test** block on **merge column**. Explain why this output makes sense, and how the test block is checking this block.
+* How will writing tests help you for the 2048 assignment?
+* How do **merge up** and **merge column** work? What are the domain/range of each block?
+* What is the domain and range of the **update display** block?
+
+**More Self-Check Questions**
+
+* What tests could you have written for HW2?
+* Explain how each of the HW3 blocks (that you are going to fill in as your  hw assignment) are supposed to work, to your lab partner(s).
 
 ---
 
