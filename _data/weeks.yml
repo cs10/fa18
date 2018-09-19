@@ -179,11 +179,12 @@
   lect2:
     title: Concurrency
     guest-lecturer: Mansi Shah
+    link: https://drive.google.com/drive/folders/1hghmcV7zwd7pHsO_g2azriY9LduBvZix?usp=sharing
   lab2:
     title: 8. Concurrency
     link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/concurrency.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   disc:
-    title: Algorithmic Complexity & HW3 Intro
+    title: Algorithmic Complexity
   notes:
     - title: HW3 due 10/5
 
@@ -205,7 +206,7 @@
     title: HW3 Work Session
     work-session: true
   disc:
-    title: Concurrency and Mutability
+    title: Concurrency + Programming Paradigms
   notes:
     - title: HW3 due 10/5
     - title: Midterm Project Proposal due 10/6
