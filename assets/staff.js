@@ -66,7 +66,8 @@ var matthewS = {
     name: 'TA Matthew Schwartz',
     img: 'Fa16/MatthewSchwartz.JPG',
     imgSrc: '../Fa16/MatthewSchwartz.JPG',
-    email: 'matthew@cs10.org'
+    email: 'matthew@cs10.org',
+    bio: 'MatthewBio'
 };
 
 var maxsonY = {
