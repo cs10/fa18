@@ -122,7 +122,8 @@ var brianaO = {
 var grantK = {
     name: 'Reader Grant Kehn',
     imgSrc: '../Fa17/LAs/GrantKehn.jpg',
-    img: 'GrantKehn.jpg'
+    img: 'GrantKehn.jpg',
+    bio: 'GrantBio'
 };
 
 var isaacMerritt = {
