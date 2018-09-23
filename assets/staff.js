@@ -115,7 +115,8 @@ var vardaS = {
 var brianaO = {
     name: 'Reader Briana Ong',
     imgSrc: '../Fa17/LAs/BrianaOng.jpg',
-    img: 'BrianaOng.jpg'
+    img: 'BrianaOng.jpg',
+    bio: 'BrianaBio'
 };
 
 var grantK = {
