@@ -237,7 +237,7 @@
   dates: 10/1 to 10/5
   readings: tba
   lect1:
-    title: TBA
+    title: Social Implications of Computing I
   lab1:
     title: 10. Tic-Tac-Toe, Boards
     link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=cs10_fa18.html&novideo&noreading&noassignment
@@ -259,12 +259,14 @@
   dates: 10/8 to 10/12
   readings: tba
   lect1:
-    title: TBA
+    title: Social Implications of Computing II
+    guest-lecturer: Aaron Baker
   lab1:
     title: Midterm Project Work Session
     work-session: true
   lect2:
     title: Recursion II
+    guest-lecturer: Bhumika Goel
   lab2:
     title: 12. Recursive Reporters
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=cs10_fa18.html&novideo&noreading&noassignment
@@ -287,7 +289,8 @@
     title: 13. Functions as Data and HOFs
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/hofs/hofs-practice.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   lect2:
-    title: TBA
+    title: Saving the World with Computing
+    guest-lecturer: Kathy Yelick
   lab2:
     title: Midterm Project Work Session
     work-session: true
@@ -393,7 +396,8 @@
     title: 18. Besides Blocks&#58 Data Science with Python
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   lect2:
-    title: TBA
+    title: Artifical Intelligence
+    guest-lecturer: Angelina Wang and Laura Smith
   lab2:
     title: Final Project Work Session
     work-session: true
