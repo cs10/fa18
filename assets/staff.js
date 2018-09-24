@@ -153,7 +153,8 @@ var murtazaAli = {
 var rafaelF = {
     name: 'Reader Rafael Felix',
     imgSrc: '../Sp17/las/RafaelFelix.jpg',
-    img: 'RafaelFelix.jpg'
+    img: 'RafaelFelix.jpg',
+    bio: 'RafaelBio'
 };
 
  // Lab Assistants
