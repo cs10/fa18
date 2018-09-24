@@ -5,13 +5,13 @@ I grew up mostly in the High Desert town of Palmdale, California. I went to Quar
 My first time coding was in CS10 with Snap! during my first semester at Cal. Some languages I’ve programmed in are Python, Java, and C, as well as a little HTML and JavaScript doing web development for Cal Band.
 
 ## WHAT ARE YOUR HOBBIES?
-I love playing music and going to concerts. Some of the shows I’m looking forward to this spring are Tyler the Creator w/ Vince Staples and Fleet Foxes.
+I love playing music and going to concerts. Some of the shows I’m looking forward to this semester are Arcade Fire w/ Grizzly Bear and Interpol.
 
 ## WHAT ARE SOME OF YOUR TALENTS & SKILLS?
-I play piano, french horn, mellophone, and am currently learning guitar.
+I play piano, french horn, mellophone, and am currently trying to pick up guitar.
 
 ## HAVE YOU DONE ANYTHING REMARKABLE? HAS ANYTHING MEMORABLE HAPPENED TO YOU?
-My freshman year I had the chance to perform in the Super Bowl 50 halftime show with Coldplay, Beyoncé, and Bruno Mars! I've clung to that that as my go to fun fact ever since.
+My freshman year I had the chance to perform in the Super Bowl 50 halftime show with Coldplay, Beyoncé, and Bruno Mars! I’ve clung to that that as my go to fun fact ever since.
 
 ## WHAT COMMITMENTS WILL BE CONSUMING YOUR CYCLES THIS SEMESTER?
-Some cool classes I’m taking this semester are CS 161 (Computer Security), CS 170 (Algorithms), and Music 142 (Wind Ensemble). Other than that I’ll be doing some more coding for Cal Band and looking for internships!
+This semester I’m taking CS 162 (Operating Systems), CS 186 (Databases), and Music 158A (Sound and Music Computing). Besides classes and CS10, a lot of my hours go into preparing for each football game with the band.

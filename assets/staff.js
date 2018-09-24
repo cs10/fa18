@@ -83,7 +83,8 @@ var niketK = {
     name: 'TA Niket Kulkarni',
     imgSrc: '../Fa17/NiketKulkarni.jpg',
     img: 'NPY.jpg.jpg',
-    email: 'niket@cs10.org'
+    email: 'niket@cs10.org',
+    bio: 'NiketBio'
 };
 
 var nikiZ = {
