@@ -188,12 +188,12 @@
   disc:
     title: Boolean Logic & Algorithmic Complexity
   notes:
-    - title: HW3 due 10/5
+    - title: HW2 due 9/21
       links:
         - title: (spec)
-          link: http://cs10.org/fa18/assign.html?https://docs.google.com/document/d/e/2PACX-1vRKwFrARQis3QcRO0MLdIHLV6c10x8I3AT9NZDZtX-Gn--R_0O9J-E99fmAaQQYDp5kyHptvItuDNJ7/pub
+          link: http://cs10.org/fa18/assign.html?https://docs.google.com/document/d/e/2PACX-1vSTzYLEf_j2NIA4ItsKFGkwsuG0wwPUdQ2PzgIQOTyvl8agKXyE88zUEYLecYO90lnYgEeu0lm0jJED/pub
         - title: (submit)
-          link: https://bcourses.berkeley.edu/courses/1474574/assignments/7914868
+          link: https://bcourses.berkeley.edu/courses/1474574/assignments/7914867
 
 #######################################################
 ###################### WEEK 6 #########################
@@ -227,6 +227,11 @@
     title: Concurrency & Programming Paradigms
   notes:
     - title: HW3 due 10/5
+      links:
+        - title: (spec)
+          link: http://cs10.org/fa18/assign.html?https://docs.google.com/document/d/e/2PACX-1vRKwFrARQis3QcRO0MLdIHLV6c10x8I3AT9NZDZtX-Gn--R_0O9J-E99fmAaQQYDp5kyHptvItuDNJ7/pub
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1474574/assignments/7914868
     - title: Midterm Project Proposal due 10/6
 
 #######################################################
@@ -250,6 +255,12 @@
     title: Intro to Recursion
   notes:
     - title: HW3 due 10/5
+      links:
+        - title: (spec)
+          link: http://cs10.org/fa18/assign.html?https://docs.google.com/document/d/e/2PACX-1vRKwFrARQis3QcRO0MLdIHLV6c10x8I3AT9NZDZtX-Gn--R_0O9J-E99fmAaQQYDp5kyHptvItuDNJ7/pub
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1474574/assignments/7914868
+    - title: Midterm Project Proposal due 10/6
 
 #######################################################
 ###################### WEEK 8 #########################
