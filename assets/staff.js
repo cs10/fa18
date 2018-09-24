@@ -44,6 +44,7 @@ var angelaW = {
     img: 'Angela Wong.jpg',
     imgSrc: '../Fa17/AngelaWongNEW.jpg',
     email: 'angela@cs10.org',
+    bio: 'AngelaBio'
 };
 
 var bhumikaG = {
