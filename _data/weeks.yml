@@ -242,9 +242,18 @@
 
 - number: 7
   dates: 10/1 to 10/5
-  readings: tba
+  reading-quiz:
+      number: 5
+      lab: first
+  readings:
+    - title: Blown to Bits&#58; Chapter 2 pg 19-29, 36-42 (by page numbers on bottom of page)
+      link: http://www.bitsbook.com/wp-content/uploads/2008/12/chapter2.pdf
+      required: true
+    - title: They Are Watching You—and Everything Else on the Planet (no need to sign in)
+      link: https://www.nationalgeographic.com/magazine/2018/02/surveillance-watching-you/
+      required: true
   lect1:
-    title: Social Implications of Computing I
+    title: Social Implications of Computing I- Privacy
   lab1:
     title: 10. Tic-Tac-Toe, Boards
     link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=cs10_fa18.html&novideo&noreading&noassignment
