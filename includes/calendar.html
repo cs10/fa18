@@ -87,15 +87,15 @@
       <td class="cal-exam">{{ week.lab1.title }}</td>
     {% elsif week.lab1.work-session %}
       <td class="cal-work-session">
-          {{ week.lab1.title }}
           {% if week.reading-quiz.lab == "first" %}
-            <p>Reading Quiz {{ week.reading-quiz.number }}</p>
+            <p></b>Reading Quiz {{ week.reading-quiz.number }}</b></p>
           {% endif %}
+          {{ week.lab1.title }}
       </td>
     {% else %}
         <td>
           {% if week.reading-quiz.lab == "first" %}
-            <p>Reading Quiz {{ week.reading-quiz.number }}</p>
+            <p><b>Reading Quiz {{ week.reading-quiz.number }}</b></p>
           {% endif %}
           {% if week.lab1.link != null %}
              <a href = "{{ week.lab1.link }}">
@@ -173,15 +173,15 @@
       <td class="cal-exam">{{ week.lab2.title }}</td>
     {% elsif week.lab2.work-session %}
       <td class="cal-work-session">
-          {{ week.lab2.title }}
           {% if week.reading-quiz.lab == "second" %}
-            <p>Reading Quiz {{ week.reading-quiz.number }}</p>
+            <p><b>Reading Quiz {{ week.reading-quiz.number }}</b></p>
           {% endif %}
+          {{ week.lab2.title }}
       </td>
     {% else %}
         <td>
           {% if week.reading-quiz.lab == "second" %}
-            <p>Reading Quiz {{ week.reading-quiz.number }}</p>
+            <p><b>Reading Quiz {{ week.reading-quiz.number }}</b></p>
           {% endif %}
           {% if week.lab2.link != null %}
              <a href = "{{ week.lab2.link }}">
