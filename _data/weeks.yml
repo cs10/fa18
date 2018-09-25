@@ -282,7 +282,7 @@
     guest-lecturer: Bhumika Goel
   lab2:
     title: 12. Recursive Reporters
-    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=cs10_fa18.html&novideo&noreading&noassignment
+    link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   disc:
     title: More Recursion
   notes:
@@ -300,7 +300,7 @@
     title: Procedures as Data - Higher Order Functions
   lab1:
     title: 13. Functions as Data and HOFs
-    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/hofs/hofs-practice.topic&course=cs10_fa18.html&novideo&noreading&noassignment
+    link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/hofs/hofs-practice.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   lect2:
     title: Saving the World with Computing
     guest-lecturer: Kathy Yelick
@@ -330,7 +330,7 @@
     exam: true
   lab2:
     title: 14. Finch Lab
-    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/robots/robots.topic&course=cs10_fa18.html&novideo&noreading&noassignment
+    link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/robots/robots.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   disc:
     title: Social Implications
   notes: null
@@ -358,12 +358,12 @@
     title: Python I
   lab1:
     title: 15. Besides Blocks&#58 Welcome to Python
-    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-welcome.topic&course=cs10_fa18.html&novideo&noreading&noassignment
+    link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-welcome.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   lect2:
     title: Python II
   lab2:
     title: 16. Besides Blocks&#58 Data Structures in Python
-    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=cs10_fa18.html&novideo&noreading&noassignment
+    link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   disc:
     title: Intro to Python
   notes:
@@ -388,7 +388,7 @@
     title: Python III
   lab2:
     title: 17. Besides Blocks&#58 Text Processing in Python
-    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=cs10_fa17.html&novideo&noreading&noassignment
+    link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=cs10_fa17.html&novideo&noreading&noassignment
   disc:
     title: Recursion & Dictionaries in Python
   notes:
@@ -407,7 +407,7 @@
   lect1: null
   lab1:
     title: 18. Besides Blocks&#58 Data Science with Python
-    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=cs10_fa18.html&novideo&noreading&noassignment
+    link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   lect2:
     title: Artifical Intelligence
     guest-lecturer: Angelina Wang and Laura Smith
