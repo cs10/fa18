@@ -133,7 +133,8 @@ var isaacMerritt = {
   name: 'Reader Isaac Merritt',
   imgSrc: '../Sp18/las/IsaacMerritt.jpg',
   imgCrazy: '../Sp18/las/IsaacMerrittCrazy.jpg',
-  img: 'IsaacMerritt.jpg'
+  img: 'IsaacMerritt.jpg',
+  bio: 'IsaacBio'
 };
 
 var kathleenGao = {
