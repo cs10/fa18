@@ -254,11 +254,13 @@
       required: true
   lect1:
     title: Social Implications of Computing I- Privacy
+    link: https://drive.google.com/drive/folders/11_dLax4OcDObAnn8Bb8DPs9SEjPhkavy?usp=sharing
   lab1:
     title: 10. Tic-Tac-Toe, Boards
     link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   lect2:
     title: Recursion I
+    link: https://drive.google.com/drive/folders/1dYs9q7A40FyFXZFKMSP_Kc-_5grgCH2t?usp=sharing
   lab2:
     title: 11. Trees and Fractals Using Recursion
     link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=cs10_fa18.html&novideo&noreading&noassignment
@@ -279,7 +281,16 @@
 
 - number: 8
   dates: 10/8 to 10/12
-  readings: tba
+  reading-quiz:
+      number: 6
+      lab: second
+  readings:
+    - title: Will MOOCs be Flukes?
+      link: https://www.newyorker.com/science/maria-konnikova/moocs-failure-solutions
+      required: true
+    - title: An Online Education Breakthrough? A Master’s Degree for a Mere $7,000
+      link: https://www.nytimes.com/2016/09/29/upshot/an-online-education-breakthrough-a-masters-degree-for-a-mere-7000.html
+      required: true
   lect1:
     title: Social Implications of Computing II
     guest-lecturer: Aaron Baker
@@ -304,7 +315,16 @@
 
 - number: 9
   dates: 10/15 to 10/19
-  readings: tba
+  reading-quiz:
+    number: 7
+    lab: first
+  readings:
+    - title: A World Without Work
+      link: https://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/
+      required: true
+    - title: Humans Need Not Apply
+      link: https://www.youtube.com/watch?v=7Pq-S557XQU
+      required: true
   lect1:
     title: Procedures as Data - Higher Order Functions
   lab1:
@@ -386,7 +406,19 @@
 
 - number: 12
   dates: 11/5 to 11/9
-  readings: tba
+  reading-quiz:
+      number: 9
+      lab: second
+  readings:
+    - title: Alan Kay&#58 Doing with Images Makes Symbols - 4:04 to 9:20
+      required: true
+      link: https://archive.org/details/AlanKeyD1987
+    - title: Present Shock - When Everything Happened Now
+      required: true
+      link: https://www.youtube.com/watch?v=_z2oFCR-0pc&feature=youtu.be
+    - title: Addicted to Apps
+      required: false
+      link: http://www.nytimes.com/2013/08/25/sunday-review/addicted-to-apps.html?_r=0
   lect1:
     title: Human Computer Interaction
     guest-lecturer: Amy Pavel
@@ -412,7 +444,22 @@
 
 - number: 13
   dates: 11/12 to 11/16
-  readings: tba
+  reading-quiz:
+    number: 10
+    lab: second
+  readings:
+    - title: How to Start Thinking Like a Data Scientist
+      required: true
+      link: https://hbr.org/2013/11/how-to-start-thinking-like-a-data-scientist
+    - title: Correlation does not imply causation
+      required: true
+      link: https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation
+    - title: Spurious Correlations
+      required: false
+      link: http://www.tylervigen.com/spurious-correlations
+    - title: CS8 Lecture 1
+      required: false
+      link: https://www.youtube.com/watch?v=69hHbVza7XI&t=27m49s
   lect1: null
   lab1:
     title: 18. Besides Blocks&#58 Data Science with Python
