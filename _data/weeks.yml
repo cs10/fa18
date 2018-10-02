@@ -274,6 +274,8 @@
         - title: (submit)
           link: https://bcourses.berkeley.edu/courses/1474574/assignments/7914868
     - title: Midterm Project Proposal due 10/6
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1474574/assignments/7914870
 
 #######################################################
 ###################### WEEK 8 #########################
@@ -306,8 +308,15 @@
   disc:
     title: More Recursion
   notes:
-    - title: Midterm Project Proposal due 10/14
     - title: Midterm Project due 10/19
+      links:
+        - title: (spec)
+          link: http://cs10.org/fa18/assign.html?https://docs.google.com/document/d/e/2PACX-1vTV3k0cNTKhxvoa0Z7MbJTyOKAuzCkrc-eI_7EiOT3xcw8qHffW8ObRfNa3m8q3ZrMaeiPfcoHYmwwM/pub
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1474574/assignments/7914869
+    - title: Midterm Project Milestone due 10/14
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1474574/assignments/7928306
 
 #######################################################
 ###################### WEEK 9 #########################
@@ -340,6 +349,11 @@
     title: Even More Recursion & Functions as Data
   notes:
     - title: Midterm Project due 10/19
+      links:
+        - title: (spec)
+          link: http://cs10.org/fa18/assign.html?https://docs.google.com/document/d/e/2PACX-1vTV3k0cNTKhxvoa0Z7MbJTyOKAuzCkrc-eI_7EiOT3xcw8qHffW8ObRfNa3m8q3ZrMaeiPfcoHYmwwM/pub
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1474574/assignments/7914869
 
 #######################################################
 ###################### WEEK 10 #########################
