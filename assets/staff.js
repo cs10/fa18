@@ -106,7 +106,8 @@ var schuylerR = {
 
 var vardaS = {
     name: 'TA Varda Shrivastava',
-    imgSrc: '../Sp17/las/VardaShrivastava.jpg',
+    imgSrc: '../Fa18/VardaNEW.jpg',
+    imgCrazy: '../Fa18/VardaCrazyNEW.jpg',
     img: 'VardaShrivastava.jpg',
     email: 'varda@cs10.org',
     bio: 'VardaBio'
