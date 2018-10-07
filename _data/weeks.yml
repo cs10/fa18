@@ -227,6 +227,8 @@
     work-session: true
   disc:
     title: Concurrency & Programming Paradigms
+    link: https://drive.google.com/file/d/13DHGcqIJeRrnR1dXdQ-kyb0qRK4qiwOu/view?usp=sharing
+    solutions: https://drive.google.com/file/d/1LFrXoFjfki9zCFzRl34nzmQiRnVTedqr/view?usp=sharing
   notes:
     - title: HW3 due 10/5
       links:
@@ -253,7 +255,7 @@
       link: https://www.nationalgeographic.com/magazine/2018/02/surveillance-watching-you/
       required: true
   lect1:
-    title: Social Implications of Computing I- Privacy
+    title: Social Implications of Computing I - Privacy
     link: https://drive.google.com/drive/folders/11_dLax4OcDObAnn8Bb8DPs9SEjPhkavy?usp=sharing
   lab1:
     title: 10. Tic-Tac-Toe, Boards
@@ -266,6 +268,8 @@
     link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   disc:
     title: Intro to Recursion
+    link: https://drive.google.com/file/d/1r5Fnm77y3vmrXlBBc3AnKfTr_Ltb7G7i/view?usp=sharing
+    solutions: https://drive.google.com/file/d/18_vR8BKJJkkt5gnToD7ZnafbXwWf5MSJ/view?usp=sharing
   notes:
     - title: HW3 due 10/5
       links:
@@ -295,7 +299,7 @@
       link: https://www.nytimes.com/2016/09/29/upshot/an-online-education-breakthrough-a-masters-degree-for-a-mere-7000.html
       required: true
   lect1:
-    title: Social Implications of Computing II
+    title: Social Implications of Computing II - Computing in Education
     guest-lecturer: Aaron Baker
   lab1:
     title: Midterm Project Work Session
@@ -500,7 +504,7 @@
   dates: 11/19 to 11/23
   readings: tba
   lect1:
-    title: Social Implications of Computing&#58 Algorithmic Bias
+    title: Social Implications of Computing III - Algorithmic Bias
     guest-lecturer: Schuyler Ross
   lab1:
     title: Social Implications Session
