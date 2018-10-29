@@ -413,11 +413,13 @@
       link: https://medium.com/@oceankidbilly/python-vs-r-vs-cobol-which-is-best-for-data-science-7b2979c6a000
   lect1:
     title: Python I
+    link: https://drive.google.com/drive/folders/1cmQ5d5jvzqHu2vIqO2YHrwd0e3lX90Ld?usp=sharing
   lab1:
     title: 15. Besides Blocks&#58 Welcome to Python
     link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-welcome.topic&course=cs10_fa18.html&novideo&noreading&noassignment
   lect2:
     title: Python II
+    link: https://drive.google.com/drive/folders/1PTN4xjYnTdj38fuPa7QtJ_zxwSg6uf5e?usp=sharing
   lab2:
     title: 16. Besides Blocks&#58 Data Structures in Python
     link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=cs10_fa18.html&novideo&noreading&noassignment
@@ -450,11 +452,13 @@
   lect1:
     title: Human Computer Interaction
     guest-lecturer: Amy Pavel
+    link: https://drive.google.com/drive/folders/11vCyRiP95-wgYLBHpIR4oXEjw5bZ9DoI?usp=sharing
   lab1:
     title: Final Project Work Session
     work-session: true
   lect2:
     title: Python III
+    link: https://drive.google.com/drive/folders/1XLbVAg6YUJb-OifrfnYBgePu4dFU6zZI?usp=sharing
   lab2:
     title: 17. Besides Blocks&#58 Text Processing in Python
     link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=cs10_fa17.html&novideo&noreading&noassignment
