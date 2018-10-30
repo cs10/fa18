@@ -426,7 +426,16 @@
   disc:
     title: Intro to Python
   notes:
-    - title: Final Project Proposal due 11/4
+    - title: Final Project Proposal due 11/3
+      links:
+        - title: (spec)
+          link: http://cs10.org/fa18/assign.html?https://docs.google.com/document/d/e/2PACX-1vQY437TRTvy4eNI4YHAbbf1TB7xJHrL2cH-e56XPlqI2jmxD983g7sSmOCOIQVeRV8mHPfE5sSuMRxX/pub
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1474574/assignments/7914865
+    - title: Final Project Spec Quiz due 11/3
+      links:
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1474574/quizzes/2285151
     - title: Explore Post due 11/7
     - title: Explore Post comments due 11/9
 
@@ -467,8 +476,16 @@
   notes:
     - title: Explore Post due 11/7
     - title: Explore Post comments due 11/9
-    - title: Final Project Milestone due 11/21
+    - title: Final Project Milestone due 11/14
+      links:
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1474574/assignments/7914864
     - title: Final Project due 11/30
+      links:
+        - title: (spec)
+          link: http://cs10.org/fa18/assign.html?https://docs.google.com/document/d/e/2PACX-1vQY437TRTvy4eNI4YHAbbf1TB7xJHrL2cH-e56XPlqI2jmxD983g7sSmOCOIQVeRV8mHPfE5sSuMRxX/pub
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1474574/assignments/7914863
 
 #######################################################
 ###################### WEEK 13 #########################
@@ -505,8 +522,16 @@
   disc:
     title: List Comprehensions & Lambda Functions in Python
   notes:
-    - title: Final Project Milestone due 11/21
+    - title: Final Project Milestone due 11/14
+      links:
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1474574/assignments/7914864
     - title: Final Project due 11/30
+      links:
+        - title: (spec)
+          link: http://cs10.org/fa18/assign.html?https://docs.google.com/document/d/e/2PACX-1vQY437TRTvy4eNI4YHAbbf1TB7xJHrL2cH-e56XPlqI2jmxD983g7sSmOCOIQVeRV8mHPfE5sSuMRxX/pub
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1474574/assignments/7914863
 
 #######################################################
 ###################### WEEK 14 #########################
@@ -525,8 +550,12 @@
   lab2: null
   disc: null
   notes:
-    - title: Final Project Milestone due 11/21
     - title: Final Project due 11/30
+      links:
+        - title: (spec)
+          link: http://cs10.org/fa18/assign.html?https://docs.google.com/document/d/e/2PACX-1vQY437TRTvy4eNI4YHAbbf1TB7xJHrL2cH-e56XPlqI2jmxD983g7sSmOCOIQVeRV8mHPfE5sSuMRxX/pub
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1474574/assignments/7914863
 
 
 #######################################################
@@ -550,6 +579,11 @@
     title: Farewell, Fun & Final Review
   notes:
     - title: Final Project due 11/30
+      links:
+        - title: (spec)
+          link: http://cs10.org/fa18/assign.html?https://docs.google.com/document/d/e/2PACX-1vQY437TRTvy4eNI4YHAbbf1TB7xJHrL2cH-e56XPlqI2jmxD983g7sSmOCOIQVeRV8mHPfE5sSuMRxX/pub
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1474574/assignments/7914863
 
 
 #######################################################
