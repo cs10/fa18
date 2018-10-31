@@ -437,7 +437,15 @@
         - title: (submit)
           link: https://bcourses.berkeley.edu/courses/1474574/quizzes/2285151
     - title: Explore Post due 11/7
+      links:
+        - title: (spec)
+          link: http://cs10.org/fa18/assign.html?https://docs.google.com/document/d/e/2PACX-1vR-wmGj0M9zmcuidzoZ6A-TjunvSRLkxhw_4XGPFAXJfNZ77zZh_W5pG_h_4E4b0OYLHonPL-2Sbs7N/pub
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1474574/assignments/7914861
     - title: Explore Post comments due 11/9
+      links:
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1474574/discussion_topics/5388349
 
 #######################################################
 ###################### WEEK 12 #########################
@@ -475,17 +483,19 @@
     title: Recursion & Dictionaries in Python
   notes:
     - title: Explore Post due 11/7
+      links:
+        - title: (spec)
+          link: http://cs10.org/fa18/assign.html?https://docs.google.com/document/d/e/2PACX-1vR-wmGj0M9zmcuidzoZ6A-TjunvSRLkxhw_4XGPFAXJfNZ77zZh_W5pG_h_4E4b0OYLHonPL-2Sbs7N/pub
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1474574/assignments/7914861
     - title: Explore Post comments due 11/9
+      links:
+        - title: (submit)
+          link: https://bcourses.berkeley.edu/courses/1474574/discussion_topics/5388349
     - title: Final Project Milestone due 11/14
       links:
         - title: (submit)
           link: https://bcourses.berkeley.edu/courses/1474574/assignments/7914864
-    - title: Final Project due 11/30
-      links:
-        - title: (spec)
-          link: http://cs10.org/fa18/assign.html?https://docs.google.com/document/d/e/2PACX-1vQY437TRTvy4eNI4YHAbbf1TB7xJHrL2cH-e56XPlqI2jmxD983g7sSmOCOIQVeRV8mHPfE5sSuMRxX/pub
-        - title: (submit)
-          link: https://bcourses.berkeley.edu/courses/1474574/assignments/7914863
 
 #######################################################
 ###################### WEEK 13 #########################
