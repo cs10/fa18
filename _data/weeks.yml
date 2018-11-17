@@ -552,7 +552,19 @@
 
 - number: 14
   dates: 11/19 to 11/23
-  readings: tba
+  reading-quiz:
+    number: 11
+    lab: first
+  readings:
+    - title: The Era of Blind Faith in Big Data Must End
+      required: true
+      link: https://www.ted.com/talks/cathy_o_neil_the_era_of_blind_faith_in_big_data_must_end
+    - title: Many Prison Inmates' Futures Depend on Racially Biased Algorithms
+      required: true
+      link: http://theweek.com/articles/627570/many-prison-inmates-futures-depend-racially-biased-algorithms
+    - title: Algorithmic Life
+      required: false
+      link: https://lareviewofbooks.org/article/algorithmic-life/
   lect1:
     title: Social Implications of Computing III - Algorithmic Bias
     guest-lecturer: Schuyler Ross
