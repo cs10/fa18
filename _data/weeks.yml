@@ -482,7 +482,9 @@
     title: 17. Besides Blocks&#58 Text Processing in Python
     link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=cs10_fa17.html&novideo&noreading&noassignment
   disc:
-    title: Recursion & Dictionaries in Python
+    title: Dictionaries & Recursion in Python
+    link: https://drive.google.com/file/d/1bz4W1Qfl-RE0pBMYjcaYfCi7T7F9D9qz/view?usp=sharing
+    solutions: https://drive.google.com/file/d/1noWNs4cMKDIC3xsINec1Sc7SqEbg1vn9/view?usp=sharing
   notes:
     - title: Explore Post due 11/7
       links:
@@ -533,7 +535,9 @@
     title: Final Project Work Session
     work-session: true
   disc:
-    title: List Comprehensions & Lambda Functions in Python
+    title: HOFs, List Comprehensions, & Lambdas in Python
+    link: https://drive.google.com/file/d/12dgfV7tA3MKJUjcKlC3xamebt4Ld1Lie/view?usp=sharing
+    solutions: https://drive.google.com/file/d/1IWdFZ7YLn4cw4HtKvuRErZ3Hpv5VQbCi/view?usp=sharing
   notes:
     - title: Final Project Milestone due 11/14
       links:
