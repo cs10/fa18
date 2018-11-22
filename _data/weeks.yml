@@ -589,17 +589,18 @@
         link: https://lareviewofbooks.org/article/algorithmic-life/
   reading-quiz:
     number: 11
-    lab: first
+    lab: second
   lect1:
     title: Alumni Panel
   lab1:
     title: Final Project Work Session
     work-session: true
   lect2:
-    title: Conclusion
+    title: Social Implications of Computing III - Algorithmic Bias
+    guest-lecturer: Schuyler Ross
   lab2:
-    title: In-Lab Final Exam
-    exam: true
+    title: Final Project Work Session
+    work-session: true
   disc:
     title: Farewell, Fun & Final Review
   notes:
@@ -609,6 +610,9 @@
           link: http://cs10.org/fa18/assign.html?https://docs.google.com/document/d/e/2PACX-1vQY437TRTvy4eNI4YHAbbf1TB7xJHrL2cH-e56XPlqI2jmxD983g7sSmOCOIQVeRV8mHPfE5sSuMRxX/pub
         - title: (submit)
           link: https://bcourses.berkeley.edu/courses/1474574/assignments/7914863
+    - title: RQ10 Make-Up on 11/27 in lab
+    - title: Lab 17 due 11/29 in lab
+    - title: Lab 18 due 11/29 in lab
 
 
 #######################################################
@@ -617,5 +621,10 @@
 
 - number: 16
   dates: 12/3 to 12/7
+  lect1:
+    title: Conclusion
+  lab1:
+    title: In-Lab Final Exam
+    exam: true
   notes:
     - title: Extra Credit BJC Artwork due at the Final
